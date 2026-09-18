@@ -13,6 +13,8 @@
 <p align="center">
   <a href="#start">从这里开始</a> ·
   <a href="#guides">教程导航</a> ·
+  <a href="#tools">用工具</a> ·
+  <a href="#videos">看视频</a> ·
   <a href="#about">关于作者</a>
 </p>
 
@@ -84,19 +86,42 @@
 | 01 · 出入金 | [进入](./03-出入金与资金流转/01-出入金/README.md) |
 | 02 · 海外电话卡 | [进入](./03-出入金与资金流转/02-海外电话卡/README.md) |
 
-## 配套网站与视频
+<a id="tools"></a>
 
-| 平台 | 你可以在这里找到什么 | 链接 |
-| --- | --- | --- |
-| 投资导航 | 图文教程、投资工具与相关资源 | [invest-nav.com](https://invest-nav.com/) |
-| YouTube · Nico 投资有道 | 投资主题讲解与实操视频 | [@NicoGrowthz](https://www.youtube.com/@NicoGrowthz) |
-| X | 我的日常分享与内容更新 | [@tychozzz](https://x.com/tychozzz) |
+## 🛠️ 用工具玩转投资
+
+投资路上需要的工具，这里都有——[投资导航](https://invest-nav.com/) 的在线工具全部免费，开箱即用。
+
+<a href="https://invest-nav.com/#home-investment-tools">
+  <img src="./assets/investment-tools.png" alt="用工具玩转投资：投资组合追踪器、QDII 额度宝、财经日历、DCA 定投计算器等在线工具" width="820">
+</a>
+
+- [投资组合追踪器](https://invest-nav.com/tools/portfolio-tracker/)：看清持仓、盈亏和资产配置
+- [QDII 额度宝](https://invest-nav.com/tools/qdii-quota/)：先确认今天还能买多少
+- [财经日历](https://invest-nav.com/tools/earnings-calendar/)：提前安排本周财报研究
+- [DCA 定投计算器](https://invest-nav.com/tools/dca-calculator/)：把定投计划换算成长期结果
+- [股票估值计算器](https://invest-nav.com/tools/valuation/)：比较市价与内在价值假设
+- [FIRE 财务自由计算器](https://invest-nav.com/tools/fire-calculator/)：算出财务自由还需要多久
+
+<a id="videos"></a>
+
+## 🎬 看视频学投资
+
+图文之外，也可以跟着视频一步步操作。我在 YouTube「Nico 投资有道」持续更新开户、出入金与投资实操讲解，网站的视频教程库同步收录。
+
+<a href="https://www.youtube.com/@NicoGrowthz">
+  <img src="./assets/video-tutorials.png" alt="看视频学投资：美股券商开户、境外银行开户、加密货币投资等视频教程合集" width="820">
+</a>
+
+- [YouTube 频道 · Nico 投资有道](https://www.youtube.com/@NicoGrowthz)：投资主题讲解与实操视频
+- [投资导航 · 视频教程](https://invest-nav.com/tutorials/video/)：站内视频教程合集，按主题分类查找
 
 ## 仓库结构
 
 ```text
 invest-guide/
 ├── README.md
+├── assets/
 ├── 00-开始阅读/
 ├── 01-美股投资/
 │   ├── 01-香港境外银行/
