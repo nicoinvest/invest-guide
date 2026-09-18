@@ -1,0 +1,291 @@
+提到投资美股，盈透是很多人心目中的第一券商，历史悠久，覆盖全球市场，交易成本低，这些都是它广为人知 的优点。
+
+但是盈透的开户流程也确实比较繁琐，而且对于大陆用户来说，有一个很大的门槛，需要境外地址证明。
+
+今天这篇文章，我会把盈透券商从 0 到 1 的完整开户流程讲清楚，包括怎么搞定境外证明这个最大的难题。
+
+那我们话不多说，尽快开始今天的内容。
+
+---
+
+# 一、什么是盈透证券？
+
+还是按照之前的惯例，先给大家简单介绍一下盈透券商。
+
+盈透，它的英文名是 Interactive Brokers，一般我们简称 IB 或者 IBKR，是一家在纳斯达克上市的美国老牌券商。
+
+成立于 1977 年，到今年也快 50 年了，目前是全球最大的券商之一，服务全球 200 多万客户，管理的客户资产超过 5000 亿美元。
+
+很多大家熟悉的中资券商，比如富途、老虎，它们的底层交易系统其实都是盈透提供的。你用老虎下单买美股，最终执行订单的就是盈透的系统。
+
+接下来我简单说说盈透的优势和劣势。
+
+盈透最大的一个优势就是全球市场覆盖，可投资的市场种类以及标的非常多。一个盈透账户可以交易全球 150 多个市场的产品，包括美股、港股、日股、韩股、欧股等等。
+
+就比如说最近市场上很火的内存存储板块，三星海力士这些标的，是在韩国股市上市的，在美股上没办法买到正股，这种情况下，就可以通过盈透来投资这些标的。
+
+第二个优势是它的交易成本低。盈透虽然不是像嘉信一样完全没有手续费，但是整体的佣金水平相对比较低。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778077897388_jbqsin.png)
+
+第三个优势就是安全性，这一点不必多说，盈透这种老牌券商，受到的监管是非常严格的，用它来投资交易很靠谱。
+
+第四个优势是免除 CRS。 和嘉信一样，盈透是美国本土运营的券商，走的是 FATCA 体系，不参与 CRS 全球税务信息自动交换。
+
+第五个优势，盈透换汇非常便宜。它不仅仅可以用来投资交易股票市场，还扮演一个类似于银行的角色。如果你需要在不同币种之间换汇（比如港币换美元），盈透的外汇兑换汇率接近于银行的实时汇率，手续费很低，所以很多人都把盈透当作全球资金流转的工具。
+
+比如说，我们之前讲过一个出金思路，你可以把 USDT 从欧易提现到 SafePal 或者 Bitget 钱包虚拟卡中，然后将其转为欧元法币，通过 IBAN 转账的方式，直接入金到盈透，再兑换成美元，投资美股。完成加密货币到美股券商的资金流转。
+
+接下来，我再给大家说说盈透的劣势。
+
+盈透最大的痛点就是，目前大陆用户开户，必须提交境外地址证明，这也是去年下半年新推出来的规定。
+
+在此之前，盈透也和嘉信一样，只需要使用身份证就可以成功开户，可惜现在也和大多数香港券商一样，需要提交境外证明。
+
+第二个劣势，UI 比较丑，用户体验很差，界面像是上个世纪的产品。
+
+不过你可以只用盈透完成下单交易，看盘盯盘的话就用香港券商 App 就可以。
+
+# 二、开户前的准备清单
+
+在开户之前，大家需要准备好两样东西。
+
+一个是身份证，开户盈透的话，使用大陆身份证就可以，不需要使用护照。
+
+另外一个是境外地址证明，这个等讲到后面的时候，我会告诉大家对应的解决方案。
+
+# 三、从 0 到 1 开户流程
+
+接下来，我就给大家详细演示一下盈透券商的开户流程。
+
+首页，打开盈透开户推荐链接 https://www.interactivebrokers.com/referral/tianyu263 大家通过这个链接完成开户的话，每存入 300 美元，可以得到 1 美元的 IBKR 股票，最高可以拿到 1000 美元的股票奖励。
+
+不过账户平均余额必须维持在 1 万美元以上，达到 1 年时间之后，这个股票奖励才会真正归属。
+
+进入界面之后，点击下面的 Open Account。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078098569_ixtslt.png)
+
+然后点击右上角的语言标识，切换到中文。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078112958_g2blfc.png)
+
+接着，输入你的电子邮箱地址、用户名、密码。
+
+这个用户名是之后登陆要用的，不要忘记。
+
+下面国家地区选择中国，勾选条款。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078120627_nftnvl.png)
+
+然后它这里会弹出针对中国大陆用户的提示，要求必须提供海外地址证明。我们点击继续。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078142978_gryqm0.png)
+
+上面会有一个确认电子邮箱的提示，我们点击确认。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078174817_hibkw3.png)
+
+邮箱里会收到一个确认码，填写到输入框里，完成确认就好。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078188794_uip535.png)
+
+账户类型我们就选择个人账户。
+
+拉到底部，语言选择简体中文，点击开始申请。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078196217_k0v8wp.png)
+
+姓氏和名字，就正常输入你中文的姓和名，不需要英文拼音。
+
+头衔其实就是性别。
+
+填写完之后点击下一步。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078209974_hssali.png)
+
+接下来就是填写你英文拼音的姓氏和名字。
+
+填好后点击下一步。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078219277_p82q5y.png)
+
+出生日期如实填写，和你身份证上面的要保持一致。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078227828_kbuqww.png)
+
+居住地址这里，填写你身份证上的地址，只填写第一行就好，精确到省市区街道小区门牌号。
+
+下面的城市，就填写你身份证上的市。州/地区就是你身份证上的省份。
+
+下面的邮寄地址，勾不勾都可以。如果勾选的话，还需要继续补充邮寄地址。
+
+都填好之后，点击下一步。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078251767_tyj8c0.png)
+
+主要国籍信息选择中国，点击下一步。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078282662_inx0xn.png)
+
+电话号码对应的国家代码选择 CN，也就是+86，输入你的手机号，点击下一步。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078288231_szw6zl.png)
+
+然后接受一下手机验证码，盈透不存在大陆手机号收不到验证码的问题，很方便。点击下一步。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078293113_tydab5.png)
+
+基础货币选择美元，点击下一步。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078317405_of75ra.png)
+
+雇佣情况最好选择受雇，最好不要选择自由职业，可能涉及到额外审核。
+
+下面的选择否，点击下一步。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078330480_mx0rd4.png)
+
+然后就是填写雇佣公司情况，公司名称、业务性质、职业这些信息正常填写一下就可以，盈透不会具体调查。
+
+下面的地址信息，填写的是公司地址，也是精确到省市区街道门牌号。
+
+都填完之后，点击下一步。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078350197_dd1tub.png)
+
+接着必须的监管信息，就是问你是不是某个公司的股东或者管理层，直接选择否，点击下一步。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078360573_717yrl.png)
+
+财富来源根据实际情况勾选一下，一般就是工作收入、市场投资交易、利息股息收入这几项，点击下一步。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078371230_zmsmel.png)
+
+账户类型这里，不要按照图上的选保证金，最好先选择现金账户，因为我看到有些人说如果选择保证金、期权账户的话，可能会涉及到额外人工审核。
+
+如果你后续需要使用券商margin融资功能的话，等你开户成功之后，再升级到保证金账户，也是没问题的。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078381096_8bvx5f.png)
+
+收入和资产净值根据实际情况填写，你可以稍微填高一些。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078387759_mz4na3.png)
+
+投资目标就选择资产保值和增长。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078396575_hxxjgg.png)
+
+交易许可这里，我们只选择股票。
+
+期权、预测市场、债券、期货都不要选，点击下一步。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078405500_kui91d.png)
+
+投资经验就根据自己实际情况选择。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078424297_wa6o4u.png)
+
+然后这里盈透让你选是否要出借股票赚取收益，这个就是盈透的**股票收益提升计划**。
+
+简单说就是，盈透把你账户里长期持有的股票，借给市场上需要做空的人。做空者需要支付借股费用，盈透会把其中一半分给你。
+
+举个例子，假设你持有 1000 股特斯拉，有人想做空特斯拉，需要先借到股票。盈透就把你的特斯拉借给他，他每天支付一笔借股费。盈透收到这笔费用之后，拿出 50% 分给你。
+
+这个收益的高低取决于你持有的股票有多"抢手"。热门的做空标的，借股需求大，费率就高，你分到的收益就多。
+
+如果你是长期持有类型的投资者，开通这个功能可以多赚一点被动收入。如果你不想参与，直接跳过也完全没问题。
+
+不过即使你勾选了这个计划，也不一定能满足要求。它只会面向保证金账户或者账户总资产大于 2.5 万美元的用户。
+
+我这里选择勾选参与，大家根据自己情况决定。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078458369_su25wp.png)
+
+下面就是安全问题，根据自己实际情况设置一下，找回密码的时候用得到。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078471614_uevbdo.png)
+
+通过什么途径得知的IBKR，我们就勾选推荐项目。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078479527_1h7no5.png)
+
+税务信息这里，婚姻情况、家属人数如实填写，居住地选择中国，纳税识别号就是你的身份证号，点击下一步。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078491823_uh5v1b.png)
+
+身份证件签发国家选择中国，证件类型按照图上的选，就是身份证，证件号码就是身份证号码，有效期如实填写，点击下一步。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078513474_tdcscj.png)
+
+然后确认信息是否填写正确，没问题就点击下一步。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078520840_fnsoug.png)
+
+接着勾选一下上面两个条款，都选择是。下面把你的姓名按照格式输进去，点击下一步。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078533195_w0732e.png)
+
+然后就到了协议披露的环节，全都勾选同意，然后往下拉，和刚才一样签名，点击提交。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078542262_c59ami.png)
+
+然后盈透会提示你还需要更多的信息，我们点击继续申请。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078558793_uu2mqv.png)
+
+这里其实就已经完成主体的开户申请流程了，但是还有两个必做项。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078575333_00rj2b.png)
+
+一个是回答问题，很简单，我们直接选择是，然后点击继续。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078581285_z0uz6n.png)
+
+剩下的就是提交海外地址证明了，我们点击上传文件。
+
+![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078600861_ksa63y.png)
+
+目前我已知的办法有两个，一个是使用国内的个税单，但是这个的通过概率并不是百分之百，有些人能过，有些过不了，目前还找不到具体的原因，可能是遇到了人工审核，被直接拒绝了。
+
+另外一个办法，就是使用欧美银行开具的结单，比如说你可以使用 N26 银行的结单，作为海外地址证明。
+
+> [N26 从 0 到 1 开户教程](https://invest-nav.com/tutorials/hk-banks/text/n26-account-opening/)
+
+提交证明之后，接下来就是耐心等待了。这个过程中，你的邮箱里可能会收到要求补交材料的邮件，大家注意经常看一下邮箱。
+
+建议大家在开户成功之前，不要做入金的操作，开户失败的话，盈透还得把资金退给你，比较麻烦。
+
+目前盈透的开户门槛确实比较高，有一定概率开户失败。
+
+如果你只有投资美股需求的话，可以考虑一下另外两个券商。
+
+一个是嘉信，它也是美国本土券商，但是不要求海外地址证明，使用身份证或者护照就可以开户，最大的缺点就是开户流程非常繁琐，而且券商的UI也比较难用。
+> [嘉信从 0 到 1 开户教程](https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-account/)
+
+另外一个是复星，它是香港的券商，只不过目前大陆用户也可以无门槛开户，支持投资港美股，而且入金之后也可以享受到终身免佣的福利。之前我出过复星从0到1开户的视频教程和文字教程。
+> [复星从 0 到 1 开户教程](https://invest-nav.com/tutorials/us-brokers/text/fosun-securities/)
+
+开户成功之后，盈透入金的方式非常多。
+
+最常见的就是香港银行账户入金。
+
+如果你没有香港银行账户，一般情况下，要么使用 Wise入金，要么使用欧洲银行，比如 N26、iFAST 或者 Fiat24 入金。
+
+盈透是一个全球化的券商，支持全球各地的银行、各类币种，完成无损入金，这一点功能确实非常强大。
+
+之后我会陆续更新盈透相关的入金方法以及各种常见的玩法，比如说如何买卖交易、如何启动定投、如何解锁除美国以外的市场，请大家持续关注投资导航网站。
+
+---
+
+以上就是本篇教程的全部内容，欢迎大家点赞、收藏、转发，感谢支持🙏
+
+我的投资导航网站，收录过往的文字教程，提供好用的投资工具，供大家从 0 到 1 一站式学习和检索：https://invest-nav.com
+
+⬇️ 如下平台，分享美股投资、加密投资、AI 体验、香港/境外银行、出入金、资金流转等经验心得、实操分享，欢迎关注：
+
+X 账号：https://x.com/tychozzz
+
+Youtube 频道：https://www.youtube.com/@NicoGrowthz
+
+我的国内微信公众号：Nico Money，定期同步分享优质内容，方便国内朋友阅读，欢迎关注。
