@@ -13,8 +13,6 @@
 
 ## 阅读入口
 
-仓库教程正文正在整理。可先阅读投资导航网站的 [美股投资图文教程](https://invest-nav.com/tutorials/text/?tab=us-stocks)。
-
-文章整理完成后，会在各二级分类页按顺序列出仓库内的阅读链接。
+各二级分类已收录 37 篇教程，从上方表格进入。同样可以在投资导航网站在线阅读：[美股投资图文教程](https://invest-nav.com/tutorials/text/?tab=us-stocks)。
 
 [返回指南首页](../README.md)
