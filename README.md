@@ -142,13 +142,13 @@ invest-guide/
 
 <a id="about"></a>
 
-## 关于作者与参与完善
+## 关于作者
 
-我是 Nico，投资导航网站的作者，在 YouTube「Nico 投资有道」分享投资相关内容。
+大家好，我是 Nico。美股/比特币长期投资者，长期定投可能是普通人财富自由的最简单方式。
 
-如果你发现教程中的页面变了、链接打不开，或者某个步骤需要补充，欢迎通过 [Issues](https://github.com/nicoinvest/invest-guide/issues) 反馈。请附上对应文章和具体问题，方便我核对与修订。
+持续分享长期投资观念、投资策略、投资心得、跨境投资攻略。
 
-想提交修改，可以先阅读 [参与完善说明](./CONTRIBUTING.md)。
+长期关注 [X](https://x.com/tychozzz)、[YouTube](https://www.youtube.com/@NicoGrowthz)、[Telegram](https://t.me/nicoinvestmentfriends)，一起实现财富自由。
 
 ## 内容使用说明
 
