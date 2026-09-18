@@ -6,7 +6,7 @@
 
 这篇教程，我会从美股投资的角度，带你用最简单的方式，从 0 到 1 入门嘉信理财，掌握最基本的功能。
 
-关于嘉信理财相关的内容，投资导航已经整理过两篇非常详细的教程，分别对应：[嘉信理财从 0 到 1 开户](https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-account/)[嘉信理财从 0 到 1 入金](https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-deposit/)
+关于嘉信理财相关的内容，投资导航已经整理过两篇非常详细的教程，分别对应：[嘉信理财从 0 到 1 开户](<./03-嘉信理财证券大陆用户从 0 到 1 线上开户攻略：无需海外地址｜免 CRS.md>)[嘉信理财从 0 到 1 入金](<./07-嘉信理财入金从 0 到 1 教程：四大入金方案｜Wise 入金｜iFAST 入金｜汇丰香港入金｜Bitget 虚拟卡入金.md>)
 
 很多朋友跟着操作之后，成功开好了账户，入了金，但是却被嘉信理财复杂的界面给直接劝退了，感觉比盈透还要难用。
 
@@ -496,13 +496,13 @@ paper money 的意思就是模拟账户，它除了钱不是真实的以外，�
 
 关于盈透、嘉信理财、复星以及 BIT 相关的从 0 到 1 开户教程，投资导航网站中都有对应的文字教程。
 
-> [盈透证券开户教程](https://invest-nav.com/tutorials/us-brokers/text/ibkr-account/)
+> [盈透证券开户教程](<./05-盈透券商大陆用户从 0 到 1 线上保姆级开户攻略｜Interactive Brokers｜IBKR｜免除 CRS.md>)
 >
-> [嘉信理财开户教程](https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-account/)
+> [嘉信理财开户教程](<./03-嘉信理财证券大陆用户从 0 到 1 线上开户攻略：无需海外地址｜免 CRS.md>)
 >
-> [复星证券开户教程](https://invest-nav.com/tutorials/us-brokers/text/fosun-securities/)
+> [复星证券开户教程](./01-复星证券开户教程：大陆用户无门槛开户免佣.md)
 >
-> [BIT 美股券商开户入金教程](https://invest-nav.com/tutorials/us-brokers/text/bit-broker-matrixport-open-account/)
+> [BIT 美股券商开户入金教程](<./02-BIT 合规美股券商 + USDT 直接入金：大陆用户无门槛从 0 到 1 开户入金教程.md>)
 
 后续关于嘉信理财相关的内容，我可能还会继续做 1-2 篇教程，比如说如何购买期权、如何交易债券、如何出金。欢迎大家持续关注。
 
