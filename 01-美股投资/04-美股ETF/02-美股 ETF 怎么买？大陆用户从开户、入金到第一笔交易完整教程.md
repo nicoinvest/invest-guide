@@ -30,13 +30,13 @@ https://invest-nav.com/tutorials/us-etf/text/what-is-us-etf/
 
 所以说，对于想要长期购买投资美股 ETF 的小伙伴来说，美股券商是最推荐的投资方式。
 
-> 关于如何购买 QDII 基金，可以参考投资导航往期教程：[支付宝买美股基金教程：QDII 指数基金 + 美债基金最全攻略](/tutorials/qdii-funds/text/alipay-qdii-funds/)
+> 关于如何购买 QDII 基金，可以参考投资导航往期教程：[支付宝买美股基金教程：QDII 指数基金 + 美债基金最全攻略](../03-美股QDII基金/01-支付宝买美股基金教程：QDII 指数基金 + 美债基金最全攻略.md)
 
-> 关于如何查询 QDII 基金购买额度，可以使用[投资工具「QDII 额度宝」](/tools/qdii-quota/)：
+> 关于如何查询 QDII 基金购买额度，可以使用[投资工具「QDII 额度宝」](https://invest-nav.com/tools/qdii-quota/)：
 
 # 1. 开户篇：如何选择券商？
 
-还记得几个月之前，我专门出过一期大陆用户美股券商 101 指南，给大家详细讲解过各大美股券商的对比。[大陆用户美股券商 101 指南](/tutorials/us-brokers/text/us-broker-guide/)
+还记得几个月之前，我专门出过一期大陆用户美股券商 101 指南，给大家详细讲解过各大美股券商的对比。[大陆用户美股券商 101 指南](../02-美股券商/README.md)
 
 但是时至今日，大陆用户可以 0 门槛开户以及使用的券商，出现了一些变化。
 
@@ -50,15 +50,15 @@ https://invest-nav.com/tutorials/us-etf/text/what-is-us-etf/
 
 投资导航网站中出过详细的开户以及入金教程，感兴趣的朋友可以去看看：
 
-- [嘉信理财从 0 到 1 入门教程](/tutorials/us-brokers/text/charles-schwab-thinkorswim-guide/)
-- [复星证券开户教程](/tutorials/us-brokers/text/fosun-securities/)
-- [BIT 开户入金教程](/tutorials/us-brokers/text/bit-broker-matrixport-open-account/)
+- [嘉信理财从 0 到 1 入门教程](../02-美股券商/08-嘉信理财大陆用户从 0 到 1 入门攻略｜手续费率、thinkorswim 如何设置、美股如何下单.md)
+- [复星证券开户教程](../02-美股券商/01-复星证券开户教程：大陆用户无门槛开户免佣.md)
+- [BIT 开户入金教程](../02-美股券商/02-BIT 合规美股券商 + USDT 直接入金：大陆用户无门槛从 0 到 1 开户入金教程.md)
 
 如果你想要使用嘉信理财或者复星券商来投资购买美股 ETF 的话，前提是需要拥有一张香港银行卡，否则无法入金。
 
 投资导航网站往期也有非常详细的香港银行开户教程系列，供大家参考：
 
-[香港银行开户教程系列](/tutorials/hk-banks/text/)
+[香港银行开户教程系列](../01-香港境外银行/README.md)
 
 接下来，我就给大家演示一下，如何使用这三家券商，购买第一支美股 ETF。
 
@@ -88,7 +88,7 @@ https://invest-nav.com/tutorials/us-etf/text/what-is-us-etf/
 
 市价单的意思是按照市场价格直接成交，不需要设置买入卖出价。
 
-> 关于嘉信理财的其它订单类型，在嘉信理财从 0 到 1 入门教程中有详细讲过，大家可以参考一下。[嘉信理财从 0 到 1 入门教程](/tutorials/us-brokers/text/charles-schwab-thinkorswim-guide/)
+> 关于嘉信理财的其它订单类型，在嘉信理财从 0 到 1 入门教程中有详细讲过，大家可以参考一下。[嘉信理财从 0 到 1 入门教程](../02-美股券商/08-嘉信理财大陆用户从 0 到 1 入门攻略｜手续费率、thinkorswim 如何设置、美股如何下单.md)
 
 如图 6 所示，点击一下当天按钮，这里就会罗列出所有的交易有效期时间段。
 
