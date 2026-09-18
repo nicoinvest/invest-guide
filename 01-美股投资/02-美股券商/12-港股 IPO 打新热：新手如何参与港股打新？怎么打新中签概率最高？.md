@@ -244,7 +244,7 @@
 
 目前没有香港券商，又想参与港股打新的大陆用户，复星挺合适，而且还免佣港美股，我自己用的比较多。
 
-对于开户感兴趣的朋友可以参考这期教程 [复星证券开户教程](https://invest-nav.com/tutorials/us-brokers/text/fosun-securities)
+对于开户感兴趣的朋友可以参考这期教程 [复星证券开户教程](./01-复星证券开户教程：大陆用户无门槛开户免佣.md)
 
 通过专属邀请链接开户，入金 1 万等值港币，终身免佣港美股（对标长桥）；入金 2 万等值港币，400 港币现金卡奖励  https://h5.fotechwealth.com/pages/startAccount.html?channel=030003&aeCode=B2&invitationCode=PWZYR2&langType=zhCn
 
@@ -324,7 +324,7 @@
 
 如果你在港股打新过程中遇到任何问题，可以加入频道主页的电报群，在群里互相交流 https://t.me/nicoinvestmentfriends
 
-还没有开通香港券商的朋友，可以通过这期教程无门槛注册复星券商 [复星证券开户教程](https://invest-nav.com/tutorials/us-brokers/text/fosun-securities/)
+还没有开通香港券商的朋友，可以通过这期教程无门槛注册复星券商 [复星证券开户教程](./01-复星证券开户教程：大陆用户无门槛开户免佣.md)
 
 不过最后入金的话，还是需要港卡，我的投资导航网站中也有相应的香港银行开户教程，感兴趣的朋友可以去看看 invest-nav.com
 

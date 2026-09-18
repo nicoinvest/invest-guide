@@ -2,7 +2,7 @@
 
 在上一篇教程中，我们详细讲解了关于 ETF 的一些基础知识概念。
 
-https://invest-nav.com/tutorials/us-etf/text/what-is-us-etf/
+<01-美股 ETF 是什么？为什么普通人更适合从 ETF 开始投资.md>
 
 接下来，在具体讲解如何筛选 ETF 之前，我想先带大家上手实操一遍，教会你如何从 0 到 1 买入第一支美股 ETF。
 

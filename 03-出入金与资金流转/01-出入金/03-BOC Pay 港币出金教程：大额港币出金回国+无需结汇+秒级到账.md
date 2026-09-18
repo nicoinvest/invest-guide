@@ -44,7 +44,7 @@ BOC Pay 每天有 1 万港币的回国额度，一个月就是 30 万港币，�
 
 如图 10 所示，到这里就成功创建好了 BOC Pay 的钱包账户。只要已经开好了中银香港的账户，就一定能够轻松注册 BOC Pay。
 
-如果目前还没有中银香港的账户或者准备前往香港办银行账户的话，可以参考网站之前的港卡开户教程：https://invest-nav.com/tutorials/hk-banks/text/
+如果目前还没有中银香港的账户或者准备前往香港办银行账户的话，可以参考网站之前的港卡开户教程：../../01-美股投资/01-香港境外银行/README.md
 
 ![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776240424984_2qo5zq.png)
 

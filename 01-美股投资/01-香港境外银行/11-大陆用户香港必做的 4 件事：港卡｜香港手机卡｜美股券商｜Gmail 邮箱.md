@@ -94,7 +94,7 @@
 
 所有银行开通之后记得定期保持活跃，偶尔登录 App 做一笔小额转账或消费，避免被判定为休眠账户。
 
-详细教程： https://invest-nav.com/tutorials/hk-banks/text/
+详细教程： README.md
 
 ---
 
@@ -114,7 +114,7 @@
 
 保号规则很简单，每年续一次 6 港币的短信套餐就行。
 
-[Club SIM 文字教程](https://invest-nav.com/tutorials/overseas-sim/text/xesim-club-sim/)
+[Club SIM 文字教程](<../../03-出入金与资金流转/02-海外电话卡/01-Xesim + Club SIM：大陆用户获取海外手机号实操教程.md>)
 Club SIM 视频教程 https://youtu.be/cDqBZ3ylqcA?si=XoajDvzdobimb2R1
 
 ![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775816151221_esnurg.png)
@@ -129,7 +129,7 @@ Club SIM 视频教程 https://youtu.be/cDqBZ3ylqcA?si=XoajDvzdobimb2R1
 
 建议至少办一张香港号 + 一张英国号，两张海外手机号基本覆盖所有注册需求。
 
-[GiffGaff 文字教程](https://invest-nav.com/tutorials/overseas-sim/text/giffgaff-uk-sim/)
+[GiffGaff 文字教程](<../../03-出入金与资金流转/02-海外电话卡/02-Giffgaff 英国手机卡教程：大陆用户无门槛开通.md>)
 
 ![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775816176401_comha0.png)
 
@@ -143,7 +143,7 @@ Club SIM 视频教程 https://youtu.be/cDqBZ3ylqcA?si=XoajDvzdobimb2R1
 
 有一些香港券商在香港线下有网点，如果你实在不知道怎么开户的话，可以直接到网点找工作人员帮你操作。
 
-关于美股券商如何选择、如何开通以及对应的税务问题，我之前写过一篇[大陆用户美股券商 101 指南](https://invest-nav.com/tutorials/us-brokers/text/us-broker-guide/)
+关于美股券商如何选择、如何开通以及对应的税务问题，我之前写过一篇[大陆用户美股券商 101 指南](../02-美股券商/README.md)
 
 ---
 
