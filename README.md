@@ -113,9 +113,6 @@
   <img src="./assets/youtube-channel.png" alt="YouTube 频道 Nico 投资有道：频道头图与订阅信息" width="820">
 </a>
 
-- [YouTube 频道 · Nico 投资有道](https://www.youtube.com/@NicoGrowthz)：投资主题讲解与实操视频
-- [投资导航 · 视频教程](https://invest-nav.com/tutorials/video/)：站内视频教程合集，按主题分类查找
-
 ## 仓库结构
 
 ```text
