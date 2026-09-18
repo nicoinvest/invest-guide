@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/cover-investment-v3.png" alt="带有金色比特币徽记的探索者走向蓝金色金融城市，路边岩石刻有红绿 K 线" width="1000">
+</p>
+
 <h1 align="center">Nico 投资指南</h1>
 
 <p align="center"><strong>Nico’s Investment Guide</strong></p>
