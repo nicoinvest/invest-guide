@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cover.jpg" alt="Nico 投资指南：面向大陆用户的美股与加密货币投资入门指南。58 篇图文教程，3 条学习主线，9 个分类。" width="100%">
+  <img src="./assets/cover.png" alt="黑白版画风格插画：一个背包探索者站在通道口，前方是幽深的洞口，四周被密集的根系与植被线条包围" width="100%">
 </p>
 
 <p align="center">
