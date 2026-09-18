@@ -107,7 +107,9 @@
 
 ## 看视频学投资
 
-不想看文字教程？直接跟着视频一步步操作。[YouTube 频道「Nico 投资有道」](https://www.youtube.com/@NicoGrowthz)长期分享开户、出入金以及美股加密投资实操讲解，每周 1-2 更，欢迎持续关注。
+不想看文字教程？直接跟着视频一步步操作。
+
+[YouTube 频道「Nico 投资有道」](https://www.youtube.com/@NicoGrowthz)长期分享开户、出入金以及美股加密投资实操讲解，每周 1-2 更，欢迎持续关注。
 
 <a href="https://www.youtube.com/@NicoGrowthz">
   <img src="./assets/youtube-channel.png" alt="YouTube 频道 Nico 投资有道：频道头图与订阅信息" width="820">
