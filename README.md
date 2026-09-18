@@ -105,12 +105,12 @@
 
 <a id="videos"></a>
 
-## 🎬 看视频学投资
+## 看视频学投资
 
-图文之外，也可以跟着视频一步步操作。我在 YouTube「Nico 投资有道」持续更新开户、出入金与投资实操讲解，网站的视频教程库同步收录。
+不想看文字教程？直接跟着视频一步步操作。[YouTube 频道「Nico 投资有道」](https://www.youtube.com/@NicoGrowthz)长期分享开户、出入金以及美股加密投资实操讲解，每周 1-2 更，欢迎持续关注。
 
 <a href="https://www.youtube.com/@NicoGrowthz">
-  <img src="./assets/video-tutorials.png" alt="看视频学投资：美股券商开户、境外银行开户、加密货币投资等视频教程合集" width="820">
+  <img src="./assets/youtube-channel.png" alt="YouTube 频道 Nico 投资有道：频道头图与订阅信息" width="820">
 </a>
 
 - [YouTube 频道 · Nico 投资有道](https://www.youtube.com/@NicoGrowthz)：投资主题讲解与实操视频
