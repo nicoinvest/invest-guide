@@ -88,13 +88,9 @@
 
 <a id="tools"></a>
 
-## 🛠️ 用工具玩转投资
+## 用工具玩转投资
 
-投资路上需要的工具，这里都有——[投资导航](https://invest-nav.com/) 的在线工具全部免费，开箱即用。
-
-<a href="https://invest-nav.com/#home-investment-tools">
-  <img src="./assets/investment-tools.png" alt="用工具玩转投资：投资组合追踪器、QDII 额度宝、财经日历、DCA 定投计算器等在线工具" width="820">
-</a>
+投资路上需要的工具，这里都有，全部免费，开箱即用，[点击进入投资导航网站](https://invest-nav.com/)。
 
 - [投资组合追踪器](https://invest-nav.com/tools/portfolio-tracker/)：看清持仓、盈亏和资产配置
 - [QDII 额度宝](https://invest-nav.com/tools/qdii-quota/)：先确认今天还能买多少
@@ -102,6 +98,10 @@
 - [DCA 定投计算器](https://invest-nav.com/tools/dca-calculator/)：把定投计划换算成长期结果
 - [股票估值计算器](https://invest-nav.com/tools/valuation/)：比较市价与内在价值假设
 - [FIRE 财务自由计算器](https://invest-nav.com/tools/fire-calculator/)：算出财务自由还需要多久
+
+<a href="https://invest-nav.com/#home-investment-tools">
+  <img src="./assets/investment-tools.png" alt="用工具玩转投资：投资组合追踪器、QDII 额度宝、财经日历、DCA 定投计算器等在线工具" width="820">
+</a>
 
 <a id="videos"></a>
 
