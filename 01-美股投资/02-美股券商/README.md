@@ -137,18 +137,38 @@
 
 四家券商的开户教程都整理在下方教程目录里，也可以前往投资导航网站的[美股券商图文教程](https://invest-nav.com/tutorials/us-brokers/text/)在线查看。
 
-### 2.6 开户渠道与邀请链接
+### 2.6 开户教程与专属福利邀请链接
 
-> 盈透开户邀请链接：[https://www.interactivebrokers.com/referral/tianyu263](https://www.interactivebrokers.com/referral/tianyu263)
->
-> [📈 复星无门槛开户文字教程](https://invest-nav.com/tutorials/4b4ad06a-a9f6-47ae-adef-c71bb5133381/text/d3d657e2-12cd-4337-bdb4-9d506d52ebfb/)
-> [🪙 复星虚拟资产开户文字教程](https://invest-nav.com/tutorials/831fac2a-4d41-4d00-bc18-3f37b11bc037/text/d3412539-5e21-4e96-81cb-580d56de936e/)
->
-> 📈 复星无门槛开户视频教程：https://youtu.be/hjGwUCSk3s4?si=l4aXsXMfZkFaUX-K
->
-> 🪙 复星虚拟资产开户视频教程：https://youtu.be/fcJMDCpUpzw?si=24nrwT7dPJFZUc1s
->
-> 🔗 复星专属渠道开户邀请链接（入金 1 万等值港币，终身免佣港美股；入金 2 万等值港币，送 400 港币股票现金卡）：https://h5.fotechwealth.com/pages/startAccount.html?channel=030003&aeCode=B2&invitationCode=PWZYR2&langType=zhCn
+通过下方的专属链接注册，可以享受渠道专属福利，同时支持本项目的运营。
+
+**嘉信理财**（无邀请链接，仅提供开户教程）
+
+- [嘉信理财证券大陆用户从 0 到 1 线上开户攻略：无需海外地址｜免 CRS](<./03-嘉信理财证券大陆用户从 0 到 1 线上开户攻略：无需海外地址｜免 CRS.md>)
+- [嘉信理财入金从 0 到 1 教程：四大入金方案｜Wise 入金｜iFAST 入金｜汇丰香港入金｜Bitget 虚拟卡入金](<./07-嘉信理财入金从 0 到 1 教程：四大入金方案｜Wise 入金｜iFAST 入金｜汇丰香港入金｜Bitget 虚拟卡入金.md>)
+- [嘉信理财大陆用户从 0 到 1 入门攻略｜手续费率、thinkorswim 如何设置、美股如何下单](<./08-嘉信理财大陆用户从 0 到 1 入门攻略｜手续费率、thinkorswim 如何设置、美股如何下单.md>)
+
+**复星证券**
+
+美股最佳备选券商，大陆用户可开户，一个账户投资美股、港股、A 股、加密货币。入金 1 万等值港币终生免佣港美股，0 手续费买美债；入金 2 万等值港币赠送 400 港币现金，享受 4% 活期理财收益。
+
+- [✨ 立即注册](https://h5.fotechwealth.com/pages/startAccount.html?channel=030003&aeCode=B2&invitationCode=PWZYR2&langType=zhCn)
+- [复星证券开户教程：大陆用户无门槛开户免佣](./01-复星证券开户教程：大陆用户无门槛开户免佣.md)
+- [复星虚拟资产账户教程：大额出入金 USDT + 投资港美股](<../../03-出入金与资金流转/01-出入金/12-复星虚拟资产账户教程：大额出入金 USDT + 投资港美股.md>)
+- 💡 使用海外 IP 或者人在香港，打开注册链接完成开户，具体参考教程。
+
+**盈立证券新加坡**
+
+大陆用户可使用中国身份证和 +86 手机号开户，一个账户覆盖美股、港股、港股新股、日股和英股。通过专属邀请链接注册后，再下载 uSMART SG App 登录同一个账号完成开户。
+
+- [✨ 立即注册](https://m.usmartsg66.com/promo/overseas/bonus-dec.html?ICode=44a8&langType=1&Id=)（邀请码：44a8）
+- [盈立证券新加坡开户教程：大陆身份证开户、费用对比与完整流程](./04-盈立证券新加坡开户教程：大陆身份证开户、费用对比与完整流程.md)
+
+**BIT 美股券商**
+
+投资美股用 BIT，大陆用户无需证明、无需港卡直接开户，稳定币直接入金，持有真实股票，终身免佣，丝滑交易美股。
+
+- [✨ 立即注册](https://www.bit.com/zh/us-stock-intro?invite_code=nico)
+- [BIT 合规美股券商 + USDT 直接入金：大陆用户无门槛从 0 到 1 开户入金教程](<./02-BIT 合规美股券商 + USDT 直接入金：大陆用户无门槛从 0 到 1 开户入金教程.md>)
 
 ## 教程目录
 
