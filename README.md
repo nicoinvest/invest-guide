@@ -1,8 +1,6 @@
-<h1 align="center">Nico 投资指南</h1>
-
-<p align="center"><strong>Nico’s Investment Guide</strong></p>
-
-<p align="center"><strong>面向大陆用户的美股与加密货币投资入门指南</strong></p>
+<p align="center">
+  <img src="./assets/cover.jpg" alt="Nico 投资指南：面向大陆用户的美股与加密货币投资入门指南。58 篇图文教程，3 条学习主线，9 个分类。" width="100%">
+</p>
 
 <p align="center">
   <a href="https://invest-nav.com/"><img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-%F0%9F%93%88%E6%8A%95%E8%B5%84%E5%AF%BC%E8%88%AA-0969da?style=for-the-badge" alt="在线阅读 · 📈投资导航"></a>
