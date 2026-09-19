@@ -12,6 +12,6 @@
 
 ## 阅读入口
 
-各二级分类已收录 7 篇教程（「加密货币基础」正文待整理），从上方表格进入。同样可以在投资导航网站在线阅读：[加密货币图文教程](https://invest-nav.com/tutorials/text/crypto/)。
+各二级分类已收录 3 篇教程（「加密货币基础」正文待整理），从上方表格进入。同样可以在投资导航网站在线阅读：[加密货币图文教程](https://invest-nav.com/tutorials/text/crypto/)。
 
 [返回指南首页](../README.md)
