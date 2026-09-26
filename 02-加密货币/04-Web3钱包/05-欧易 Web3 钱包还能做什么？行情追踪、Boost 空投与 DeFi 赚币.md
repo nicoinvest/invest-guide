@@ -2,8 +2,6 @@
 
 ![欧易 Web3 钱包还能做什么？行情追踪、Boost 空投与 DeFi 赚币封面](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/web3-wallet-series-2026-09-23/assets/covers/05-cover-modern.png)
 
-> 图中 App 界面来自我在 2025 年 9 月的演示，入口名称可能随版本调整。操作时以自己页面显示的网络、币种和金额为准。
-
 前面几篇，关于 Web3 钱包的重点内容就讲完了。接下来，我再给大家介绍一下欧易 Web3 钱包中附带的一些比较好用的功能。
 
 ## 1. 行情篇
