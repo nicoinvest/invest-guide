@@ -97,5 +97,3 @@ Layer 2 既提升了以太坊交互的性能，又给 Web3 用户节省了大量
 X 账号：https://x.com/tychozzz
 
 Youtube 频道：https://www.youtube.com/@NicoGrowthz
-
-我的国内微信公众号：Nico Money，定期同步分享优质内容，方便国内朋友阅读，欢迎关注。

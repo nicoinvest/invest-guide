@@ -282,5 +282,3 @@ iFAST 确实可以作为 OCBC 被关停之后的替代方案，实现投资美�
 X 账号：https://x.com/tychozzz
 
 Youtube 频道：https://www.youtube.com/@NicoGrowthz
-
-我的国内微信公众号：Nico Money，定期同步分享优质内容，方便国内朋友阅读，欢迎关注。
