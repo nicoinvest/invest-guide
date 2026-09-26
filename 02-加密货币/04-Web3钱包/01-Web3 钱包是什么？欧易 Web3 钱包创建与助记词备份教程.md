@@ -67,5 +67,3 @@ Web3 钱包帮助我们管理私钥，通过这个私钥，我们能够访问和
 X 账号：https://x.com/tychozzz
 
 Youtube 频道：https://www.youtube.com/@NicoGrowthz
-
-我的国内微信公众号：Nico Money，定期同步分享优质内容，方便国内朋友阅读，欢迎关注。

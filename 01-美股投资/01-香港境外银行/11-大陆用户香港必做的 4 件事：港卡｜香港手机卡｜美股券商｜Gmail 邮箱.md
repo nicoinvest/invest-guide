@@ -32,7 +32,7 @@
 
 最大的优势是和内地中国银行无缝衔接，转账零手续费，资金往来最方便。
 
-我之前也是线上 App 开户的，10 分钟搞定。不过最近线上开户成功率有所下降，建议在微信公众号上提前预约，到线下网点开更稳。
+我之前也是线上 App 开户的，10 分钟搞定。不过最近线上开户成功率有所下降，到线下网点开更稳。
 
 线下开户需要准备身份证、港澳通行证、地址证明和投资证明。
 
@@ -166,5 +166,3 @@ Club SIM 视频教程 https://youtu.be/cDqBZ3ylqcA?si=XoajDvzdobimb2R1
 X 账号 https://x.com/tychozzz
 
 Youtube 频道 https://www.youtube.com/@NicoGrowthz
-
-我的国内微信公众号 Nico Money，定期同步分享优质内容，方便国内朋友阅读，欢迎关注。
