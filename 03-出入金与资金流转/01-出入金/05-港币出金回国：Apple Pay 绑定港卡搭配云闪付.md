@@ -1,5 +1,7 @@
 # 港币出金回国：Apple Pay 绑定港卡搭配云闪付
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/fund-transfer/text/apple-pay-hk-card-unionpay/) · [返回本分类](./README.md)
+
 今天给大家分享一个港币出金小妙招：Apple Pay 绑定港卡，并搭配云闪付，为国内信用卡还款，从而实现间接出金。
 
 方式是无损的，并且不占用结售汇额度，有需要的朋友可以参考一下。
@@ -34,7 +36,7 @@
 
 10. 如图 10 所示，提示卡片已激活，然后我们就可以在苹果钱包中看到刚才绑定的这张卡了。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-02-19-1_1753293971762.jpeg)
+![港币出金回国：绑定 Apple Pay 篇（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-02-19-1_1753293971762.jpeg)
 
 ## 2. 绑定云闪付篇
 
@@ -71,7 +73,7 @@
 
 12. 如图 18 所示，需要输入一下汇丰银行卡的自动柜员机密码。在当初开户的时候，银行工作人员会给你一个信封，上面有一个初始默认密码，就是你的自动柜员机密码。我在拿到汇丰实体卡之后，就通过ATM修改了这个密码，如果你没有修改的话，就需要输入这个初始默认密码。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-02-19-2_1753293972294.jpeg)
+![港币出金回国：绑定云闪付篇（图 1、2、3、4、5、6、7、8、9、10、11、14、17、18）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-02-19-2_1753293972294.jpeg)
 
 ## 3. 磨损篇
 
@@ -83,7 +85,7 @@
 
 所以说，这种方式整体上没有损耗，并且它不会占用我们每年5万美元的结售汇额度，因为在这个过程中，并没有涉及到购汇或者结汇。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-02-19-3_1753293972821.jpeg)
+![港币出金回国：磨损篇（图 1–4）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-02-19-3_1753293972821.jpeg)
 
 ## 4. 间接出金思路
 

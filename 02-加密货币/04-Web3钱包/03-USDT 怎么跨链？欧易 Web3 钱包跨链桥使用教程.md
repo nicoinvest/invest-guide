@@ -1,5 +1,7 @@
 # USDT 怎么跨链？欧易 Web3 钱包跨链桥使用教程
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/web3-wallets/text/okx-wallet-usdt-cross-chain-bridge/) · [返回本分类](./README.md)
+
 ![USDT 怎么跨链？欧易 Web3 钱包跨链桥使用教程封面](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/web3-wallet-series-2026-09-23/assets/covers/03-cover-modern.png)
 
 为了大家能够更好地理解跨链，我再给大家举一个在 2025 年准备这份教程时实际发生的案例。当时我做了一期关于欧易 Boost 空投活动的教程，其中就讲到了从 BNB 链上转账 USDT 到 Web3 钱包。演示中我是从币安交易所提现 USDT 到欧易的 Web3 钱包。

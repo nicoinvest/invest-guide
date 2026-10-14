@@ -1,5 +1,7 @@
 # USDT 出入金神组合：币安+众安！跨境汇款 + Apple Pay 出入金 USDT｜一站式解决币圈出入金难题
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/fund-transfer/text/binance-transfer-usdt/) · [返回本分类](./README.md)
+
 如果你是来自大陆的币圈玩家，应该都遇到过两个让人头疼的问题。
 
 一个问题是，怎么把人民币换成 USDT，入金到加密货币交易所？走 C2C 担心被冻卡，走线下又找不到靠谱的渠道。
@@ -34,7 +36,7 @@
 
 所以说这是一个全程合规、全球通用的方案，安全性比较高。当然，如果你自己的资金来源有问题，也可能会触发银行的风控系统，资金被冻结。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783065919895_itzc71.png)
+![币安+众安银行跨境汇款出入金 USDT 教程：一站式方案：币安+众安（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783065919895_itzc71.png)
 
 而众安银行，大家应该都比较熟悉了。它是香港的首家持牌虚拟银行，也是整个亚洲第一家给散户开通加密货币交易服务的银行。
 
@@ -44,7 +46,7 @@
 
 这一点非常重要，因为大多数香港银行，对于来自加密背景的跨境资金，一般都会有比较严格的风控审查。相比起来，众安的风控概率会低一些。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783065934547_238mnt.png)
+![币安+众安银行跨境汇款出入金 USDT 教程：一站式方案：币安+众安（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783065934547_238mnt.png)
 
 把币安的 BPay 和众安结合起来，就是一套完整的出入金方案。
 
@@ -91,7 +93,7 @@
 
 如图 10 所示，绑定成功之后，回到币安 app，按两下苹果手机的侧边按钮，完成付款。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783066320571_qf5flb.png)
+![币安+众安银行跨境汇款出入金 USDT 教程：1 Apple Pay 入金（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783066320571_qf5flb.png)
 
 如图 11/12 所示，等待几秒钟，币安 App 就会显示"法币充值成功"，这 96.4 美元就已经入账到我们的现货钱包了。
 
@@ -103,13 +105,13 @@
 
 到此为止，我们就成功通过 Apple Pay 的方式，完成了 USDT 入金。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783066487906_xj8xel.png)
+![币安+众安银行跨境汇款出入金 USDT 教程：1 Apple Pay 入金（图 11–15）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783066487906_xj8xel.png)
 
 不过这个方式的损耗确实非常大，首先第一笔损耗在于 BPay 会收取 3.6% 的手续费，比例非常高。
 
 除此之外，众安银行从港币兑换到美元的这个过程，也会收取 1.95% 的外币交易手续费。把两部分费用叠加起来，最后实际的手续费率，高达6%，非常不推荐大家使用这个方案，除非你非常着急入金。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783066527013_fq8jja.jpg)
+![币安+众安银行跨境汇款出入金 USDT 教程：1 Apple Pay 入金（配图 3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783066527013_fq8jja.jpg)
 
 ### 2.2 Swift 跨境汇款入金
 
@@ -145,7 +147,7 @@
 
 对方收到的货币这里，选择美元，点击继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783066665487_zqdoyj.png)
+![币安+众安银行跨境汇款出入金 USDT 教程：2 Swift 跨境汇款入金（图 1–6）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783066665487_zqdoyj.png)
 
 如图 7 所示，这里我就汇款 200 美元。
 
@@ -161,7 +163,7 @@
 
 如图 11 所示，然后这里就会提醒我们，交易正在处理当中。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783066722304_yyoam1.png)
+![币安+众安银行跨境汇款出入金 USDT 教程：2 Swift 跨境汇款入金（图 7–11）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783066722304_yyoam1.png)
 
 我当时大概等了 1 个工作日左右的时间，这笔 USD 就汇入到我的币安账户。
 
@@ -169,7 +171,7 @@
 
 实际到账了 180 美元，也就是说，中间的手续费是 20 美元。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783066777864_jng91a.jpg)
+![币安+众安银行跨境汇款出入金 USDT 教程：2 Swift 跨境汇款入金（配图 3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783066777864_jng91a.jpg)
 
 一般来说，中转行的手续费用都是固定的，无论你从众安汇款到币安，汇了多少钱，应该都只会扣除 20 美元的手续费。
 
@@ -201,13 +203,13 @@
 
 如图 10 所示，都填写好之后，点击确认。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783066887514_2u0imr.png)
+![币安+众安银行跨境汇款出入金 USDT 教程：出金演示（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783066887514_2u0imr.png)
 
 如图 11/12 所示，我们输入汇款金额，我这里提现 6997 美元，下面显示手续费是 25 美元。点击预览订单，确认一下汇款信息，没什么问题的话就点击确认。
 
 如图 13/14 所示，这笔转账就成功汇出了。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783066964571_z94jbo.png)
+![币安+众安银行跨境汇款出入金 USDT 教程：出金演示（图 11–14）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783066964571_z94jbo.png)
 
 汇款的速度也非常快，大概过了一个交易日，这笔钱就到了我的众安美元账户。
 
@@ -215,7 +217,7 @@
 
 如果你出金 1 万 USDT 的话，磨损只有 0.25%，也就是说，对于大额出金的需求，这套方案的磨损基本上是可以忽略不计的。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783067002298_424677.png)
+![币安+众安银行跨境汇款出入金 USDT 教程：出金演示（配图 3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783067002298_424677.png)
 
 
 ## 4. 对比建议

@@ -1,0 +1,655 @@
+{
+  "version": 1,
+  "publisher": "Nico 投资有道",
+  "website": "https://invest-nav.com/",
+  "tutorials": [
+    {
+      "title": "众安银行开户教程：大陆用户线上从 0 到 1 开户",
+      "path": "01-美股投资/01-香港境外银行/01-众安银行开户教程：大陆用户线上从 0 到 1 开户.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/hk-banks/text/za-bank-account-opening/",
+      "websiteTutorialId": "0242e577-5a91-4f66-8bb5-beb54a27a428",
+      "markdownSha256": "d8c1e3d21c72c1f8f1dd656e84a2550fc11a8ddd681a4c7118a8b72de6e88489",
+      "websiteContentSha256": "08919c8884869c1c196e1e17bfe5cb10db9b06258eded4bf2033149b94c1238f"
+    },
+    {
+      "title": "中银香港开户教程：大陆用户从 0 到 1 实操指南",
+      "path": "01-美股投资/01-香港境外银行/02-中银香港开户教程：大陆用户从 0 到 1 实操指南.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/hk-banks/text/bochk-account-opening/",
+      "websiteTutorialId": "b165d105-1b75-4a35-8440-e7f16746920f",
+      "markdownSha256": "388c279b09f568c26a0b0bfb91eb55a3cc776c9ba92a3088c2be0dec62946395",
+      "websiteContentSha256": "1c250167a4e2afe7217ec0a1e64c3c359dcd449bb3b8b054b2909fffa6acccd9"
+    },
+    {
+      "title": "建设银行亚洲开户教程：大陆线上开通港卡",
+      "path": "01-美股投资/01-香港境外银行/03-建设银行亚洲开户教程：大陆线上开通港卡.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/hk-banks/text/ccb-asia-account-opening/",
+      "websiteTutorialId": "5f2201b1-9435-485e-a84f-5f3986315fe9",
+      "markdownSha256": "1a49bcbfda812ad884d2edb8cc02ec87bb5f8b389d41103c575a8265bc564139",
+      "websiteContentSha256": "00cf703818c0c73487ea3a76be6635d10332941da8a72d47e502e0119199e835"
+    },
+    {
+      "title": "蚂蚁香港开户教程：大陆用户无门槛线上开通",
+      "path": "01-美股投资/01-香港境外银行/04-蚂蚁香港开户教程：大陆用户无门槛线上开通.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/hk-banks/text/ant-bank-hk-account/",
+      "websiteTutorialId": "7e16a45c-57ee-4582-9c45-f27de87e1d10",
+      "markdownSha256": "cbac6ec84eabe76626ae99b0a04a3780a2e988b2fd93af7e1bdf22b4453a2122",
+      "websiteContentSha256": "28a892ff2ab15f182ed7b3baf9e57cb1d760fa52a7e6ca6649ed4a6f7c926a99"
+    },
+    {
+      "title": "天星银行开户教程：大陆用户从 0 到 1 实操指南",
+      "path": "01-美股投资/01-香港境外银行/05-天星银行开户教程：大陆用户从 0 到 1 实操指南.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/hk-banks/text/airstar-bank-account/",
+      "websiteTutorialId": "a2aa59f7-e18b-4931-bbe8-c6c0be9a827c",
+      "markdownSha256": "4de1996396f62e2de06b4aa5db1985a24e891e64e84a3230c294ac70d50341d5",
+      "websiteContentSha256": "212a3e272cb39dc6f2ed527d99742e2e63fd62105815aaf7bcf7d46046134e61"
+    },
+    {
+      "title": "澳门蚂蚁银行开户教程：无门槛投资美股 + 支付宝无损出金",
+      "path": "01-美股投资/01-香港境外银行/06-澳门蚂蚁银行开户教程：无门槛投资美股 + 支付宝无损出金.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/hk-banks/text/macau-ant-bank/",
+      "websiteTutorialId": "959001e1-5d5f-4c4e-b77d-55b995dd0723",
+      "markdownSha256": "2c4c6271a2504817529a94f93eee9630360823064634a3e4141e020cd2ebe9f9",
+      "websiteContentSha256": "a6708e4e204a8c783b62c4fd341d2267947c5d4a849164bf0807aa4e1c30114f"
+    },
+    {
+      "title": "跨境支付通教程：内地秒级汇款到香港银行账户",
+      "path": "01-美股投资/01-香港境外银行/07-跨境支付通教程：内地秒级汇款到香港银行账户.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/hk-banks/text/cross-border-payment/",
+      "websiteTutorialId": "68dca542-3152-4e68-a647-920cfd965b43",
+      "markdownSha256": "d5f1f90166b37cc07928f3d60921b7055564e70c09cc446fb90a91bb7786805d",
+      "websiteContentSha256": "656d364a1af3f6bd42539cc7a11cdc53139b5960c759981ec82af3ec34d5d8bd"
+    },
+    {
+      "title": "英国 iFAST 开户-入金教程：大陆用户从 0 到 1 线上开户入金",
+      "path": "01-美股投资/01-香港境外银行/08-英国 iFAST 开户-入金教程：大陆用户从 0 到 1 线上开户入金.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/hk-banks/text/ifast-bank/",
+      "websiteTutorialId": "eb42a6aa-3600-4c77-92a5-8de071ca24b4",
+      "markdownSha256": "c72b0a8bfc3ba9be032ff44fa3cdb367cc3b833c5117571720501756004184d1",
+      "websiteContentSha256": "85932e9786d0dfbad4b1e202804d43f446a256a20ff3f8259fbdcf6d7fcad2fc"
+    },
+    {
+      "title": "德国 N26 开户教程：大陆用户必备的境外虚拟银行账户",
+      "path": "01-美股投资/01-香港境外银行/09-德国 N26 开户教程：大陆用户必备的境外虚拟银行账户.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/hk-banks/text/n26-account-opening/",
+      "websiteTutorialId": "e2ac2450-9a69-4a23-a936-fa53efb86641",
+      "markdownSha256": "5f826228a20f3afe8ba993c97602912b5a91c77a113c903a5aef2fac54916f60",
+      "websiteContentSha256": "289b3bec1c4be15a6b2d6bb2cccca73fc8446021db5d377a68840e2016cea4ad"
+    },
+    {
+      "title": "众安银行消费返现美股股票：大陆用户从 0 到 1 教程",
+      "path": "01-美股投资/01-香港境外银行/10-众安银行消费返现美股股票：大陆用户从 0 到 1 教程.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/hk-banks/text/za-bank-stock-cashback/",
+      "websiteTutorialId": "4e4ea510-c440-45f8-b986-ed736041d19c",
+      "markdownSha256": "e9bcd41e245c7d249594885aad9a426c7a7c2ec97740937c1e296adae7fd01de",
+      "websiteContentSha256": "6fb16fc6a8c8bd10a113c587d2dea00e770bb39232d6e561dc19c5799f46577e"
+    },
+    {
+      "title": "大陆用户香港必做的 4 件事：港卡｜香港手机卡｜美股券商｜Gmail 邮箱",
+      "path": "01-美股投资/01-香港境外银行/11-大陆用户香港必做的 4 件事：港卡｜香港手机卡｜美股券商｜Gmail 邮箱.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/hk-banks/text/mainland-hongkong-bank-sim-brokers-gmail/",
+      "websiteTutorialId": "31baa7d0-2e9d-4228-b0d7-55f0d35dda29",
+      "markdownSha256": "3bc00cfb4b68592bdcaacc5a776361e16c950a35351d59cd368d881cb64939b2",
+      "websiteContentSha256": "b6cd19382eaba0ece76af8168b2bd28cde0e134051fe53c7db62e24e526e2776"
+    },
+    {
+      "title": "香港银行账号和银行卡号的区别是什么？一文搞懂",
+      "path": "01-美股投资/01-香港境外银行/12-香港银行账号和银行卡号的区别是什么？一文搞懂.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/hk-banks/text/hk-bank-account-vs-card-number/",
+      "websiteTutorialId": "fe2c749c-7a2d-4d2e-8f22-e73ee9302d9c",
+      "markdownSha256": "490252c6254f193b3db2f3bea7cf8862a5a7b695ea9bbc55ea8db098dc344f4c",
+      "websiteContentSha256": "744171194e4611459ec0ea8febc407ec212f18e4c47afd1fe30bb10df78108b6"
+    },
+    {
+      "title": "香港银行开户最常见的 20 个问题 Q&A 解答",
+      "path": "01-美股投资/01-香港境外银行/13-香港银行开户最常见的 20 个问题 Q&A 解答.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/hk-banks/text/hk-bank-account-faq/",
+      "websiteTutorialId": "6cca8ae4-e9eb-410d-ae5f-2e399b84c4f0",
+      "markdownSha256": "e0c3423c48bf5a76831829dc63fffc9a4b681e431cca2b484e91d5faa80c0534",
+      "websiteContentSha256": "422d77e15684d46cd8067e9a092caa03d96eb8c87dfa51ec540276249f7d2180"
+    },
+    {
+      "title": "复星证券开户教程：大陆用户无门槛开户免佣",
+      "path": "01-美股投资/02-美股券商/01-复星证券开户教程：大陆用户无门槛开户免佣.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/fosun-securities/",
+      "websiteTutorialId": "d3d657e2-12cd-4337-bdb4-9d506d52ebfb",
+      "markdownSha256": "8c2b0d04db58c81beed6eafd1239a575cec68f0cfd8f03f294e93d488372f4e7",
+      "websiteContentSha256": "7cad836af910a621f89ffe84a03a769da807068179db1c3280397e629ec0a1e3"
+    },
+    {
+      "title": "BIT 合规美股券商 + USDT 直接入金：大陆用户无门槛从 0 到 1 开户入金教程",
+      "path": "01-美股投资/02-美股券商/02-BIT 合规美股券商 + USDT 直接入金：大陆用户无门槛从 0 到 1 开户入金教程.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/bit-broker-matrixport-open-account/",
+      "websiteTutorialId": "232d894b-368d-4bce-a5c6-28c7c9364c48",
+      "markdownSha256": "630e908a2b474bf899ae5df961cd088038befddc0605f897dfece27779f3e7d3",
+      "websiteContentSha256": "d8446092e956696cc55b9d06d9e182397eff6213f9aed11804e15aeb64963eb3"
+    },
+    {
+      "title": "嘉信理财证券大陆用户从 0 到 1 线上开户攻略：无需海外地址｜免 CRS",
+      "path": "01-美股投资/02-美股券商/03-嘉信理财证券大陆用户从 0 到 1 线上开户攻略：无需海外地址｜免 CRS.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-account/",
+      "websiteTutorialId": "37f373ca-094c-403d-9ae1-27d9fe6cbc1d",
+      "markdownSha256": "7d4b58ed2acc2a4397ef9edb1cad97134318639e9242e1aa965325025b87da19",
+      "websiteContentSha256": "dab59024247eab81fe0f6dbabc78e0cee5d84d9183c494376720373cdb9b9d5f"
+    },
+    {
+      "title": "盈立证券新加坡开户教程：大陆身份证开户、费用对比与完整流程",
+      "path": "01-美股投资/02-美股券商/04-盈立证券新加坡开户教程：大陆身份证开户、费用对比与完整流程.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/usmart-sg-account-opening/",
+      "websiteTutorialId": "10cbed07-dafb-48c2-99ef-ec5d24ccb0ac",
+      "markdownSha256": "94debbd7f5da03f268cb04b71c4fff1f2401438b25a29b053af95cd710bd5f56",
+      "websiteContentSha256": "473a9e6bda0a2afe33564d05b045449a431df000a38e2840d970136a2681917a"
+    },
+    {
+      "title": "盈透券商大陆用户从 0 到 1 线上保姆级开户攻略｜Interactive Brokers｜IBKR｜免除 CRS",
+      "path": "01-美股投资/02-美股券商/05-盈透券商大陆用户从 0 到 1 线上保姆级开户攻略｜Interactive Brokers｜IBKR｜免除 CRS.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/ibkr-account/",
+      "websiteTutorialId": "5e88ccd8-088f-4098-82c7-a56e1d3223c3",
+      "markdownSha256": "6e1cd48575becd489d79d29ff76dcb7694bf9a32757128a36c2a0c65eb645bfe",
+      "websiteContentSha256": "d71fbb2eb0325853f0b666ed29988540705cabfee7155d16fdcc06b9536e1bfd"
+    },
+    {
+      "title": "Bitget 美股直连券商：USDT 购买真实美股+期权｜从 0 到 1 开户入金交易攻略",
+      "path": "01-美股投资/02-美股券商/06-Bitget 美股直连券商：USDT 购买真实美股+期权｜从 0 到 1 开户入金交易攻略.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/bitget-us-stock/",
+      "websiteTutorialId": "830a6f21-1c04-4c4e-bc70-34666c01b5dc",
+      "markdownSha256": "07dbc3f2bc54b5afb0039986c747a48b7ae23178e24c1e9bdfcee871e9e0579c",
+      "websiteContentSha256": "dd1e047ac422b7dd7ee84a2e1875cb9fd88343944b6007782bca35a9ed4b1305"
+    },
+    {
+      "title": "嘉信理财入金从 0 到 1 教程：四大入金方案｜Wise 入金｜iFAST 入金｜汇丰香港入金｜Bitget 虚拟卡入金",
+      "path": "01-美股投资/02-美股券商/07-嘉信理财入金从 0 到 1 教程：四大入金方案｜Wise 入金｜iFAST 入金｜汇丰香港入金｜Bitget 虚拟卡入金.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-deposit/",
+      "websiteTutorialId": "90a9839e-9264-4286-b127-e06be775eb2e",
+      "markdownSha256": "56429a22e3985b8a50d1baa6bb379586e79ba735465ec662e61ead0b78946259",
+      "websiteContentSha256": "89173a6c6aea74c922426567f854ae0ea3ac0456b9bf305ad51b4827408bc3a5"
+    },
+    {
+      "title": "嘉信理财大陆用户从 0 到 1 入门攻略｜手续费率、thinkorswim 如何设置、美股如何下单",
+      "path": "01-美股投资/02-美股券商/08-嘉信理财大陆用户从 0 到 1 入门攻略｜手续费率、thinkorswim 如何设置、美股如何下单.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-thinkorswim-guide/",
+      "websiteTutorialId": "0e40411d-00a9-4af6-9b73-2ba70bc3f08e",
+      "markdownSha256": "437886a12783678cb88fea450f3e207bc6b6ff20af530818be126870dce67d46",
+      "websiteContentSha256": "015337dee0373f00542c7fa3a5260c06d8f40beade5fce90973cf122fd6b95e0"
+    },
+    {
+      "title": "iFAST 入金长桥教程：无需港卡也能入金美股券商",
+      "path": "01-美股投资/02-美股券商/09-iFAST 入金长桥教程：无需港卡也能入金美股券商.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/ifast-fund-longbridge/",
+      "websiteTutorialId": "d08bf38c-e7cb-45ac-8261-f0a8032922f1",
+      "markdownSha256": "2d4385d5969b7ac8b75abc3f5b6a2f165a327e502950c473cd4e06720b634863",
+      "websiteContentSha256": "c8ebe022e9bdb8cd8b24eae9255269aaf3eaa15d22f3f0b30e3d2aa07c0bcc38"
+    },
+    {
+      "title": "SafePal 入金美股券商教程：无需港卡用 USDT 入金盈透-长桥",
+      "path": "01-美股投资/02-美股券商/10-SafePal 入金美股券商教程：无需港卡用 USDT 入金盈透-长桥.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/safepal-fund-broker/",
+      "websiteTutorialId": "dfd489c1-20e5-4c30-bdb7-b0e64f3a26ae",
+      "markdownSha256": "5c88aba32d7296c10a92609c8102b8d9bed236debf88d5afafe90a8ead2994d6",
+      "websiteContentSha256": "1152cd7bea0c657eecb118f89c3f4ccb7186d8368edda915f2b185ef58bb491e"
+    },
+    {
+      "title": "最新跨境支付通汇款入金香港教程！",
+      "path": "01-美股投资/02-美股券商/11-最新跨境支付通汇款入金香港教程！.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/cross-border-payment-funding/",
+      "websiteTutorialId": "e135b5fc-0bf7-46cc-9646-5566b721dc6a",
+      "markdownSha256": "42706a4091b4ccb2e9a7495b7102de80f7ccb0944abd290bdff1f4394bb7ca93",
+      "websiteContentSha256": "dcbea11230ca7799eebd871b50e3630fc039414d13cb3e007310d7c4802978aa"
+    },
+    {
+      "title": "港股 IPO 打新热：新手如何参与港股打新？怎么打新中签概率最高？",
+      "path": "01-美股投资/02-美股券商/12-港股 IPO 打新热：新手如何参与港股打新？怎么打新中签概率最高？.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/hongkong-stock-ipo/",
+      "websiteTutorialId": "4931837e-932f-4512-969a-662b0c90d8f3",
+      "markdownSha256": "56d40b80ed57a3a8b2ac7fb3dc3b623cdd366a868a514dc4adf188c9d307dcd0",
+      "websiteContentSha256": "37148319c153b2d73ae8ea0e45974851b06192473c9b49750be551dc2705b606"
+    },
+    {
+      "title": "长桥证券美元理财教程：5％ 收益率稳定现金管理",
+      "path": "01-美股投资/02-美股券商/13-长桥证券美元理财教程：5％ 收益率稳定现金管理.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/longbridge-usd-income/",
+      "websiteTutorialId": "ae1c4ff8-1549-4991-ae3a-fe5195bb85cf",
+      "markdownSha256": "de94cc669cbea376b2a33881c8139bfebba91e287dbcc9db81eaf1254a45f301",
+      "websiteContentSha256": "80fe2d891bf11d4dc215fb707d71767c7ee98537b1d42ba0e79b0ee013b62d6b"
+    },
+    {
+      "title": "嘉信理财美股期权从 0 到 1 教程：基础概念、开通权限与 thinkorswim 买卖实操",
+      "path": "01-美股投资/02-美股券商/14-嘉信理财美股期权从 0 到 1 教程：基础概念、开通权限与 thinkorswim 买卖实操.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-options-guide/",
+      "websiteTutorialId": "af8327c8-9c5b-4146-892c-6b668ebcfd28",
+      "markdownSha256": "416eccfc8448517bab6703cdc2497e301e730e82903325d708128a0badbe0b40",
+      "websiteContentSha256": "acab398984f74a02a135a5b672bfd78fb99bdaa72d76b844539b952fdd8aa231"
+    },
+    {
+      "title": "嘉信理财出金教程：跨境汇款出金香港银行、ACH 转账 Wise 美元账户",
+      "path": "01-美股投资/02-美股券商/15-嘉信理财出金教程：跨境汇款出金香港银行、ACH 转账 Wise 美元账户.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-withdrawal/",
+      "websiteTutorialId": "1d8b0aa1-d485-495f-9589-7c1ec43df850",
+      "markdownSha256": "688867d707476b8a4f281a055dd18444d211e3db70567edbdd3615d0b8b0b1d6",
+      "websiteContentSha256": "33fa5186131b9f0a7464faf855cff6f0e03dc747acc6d6f42bff03c148dcef65"
+    },
+    {
+      "title": "支付宝买美股基金教程：QDII 指数基金 + 美债基金最全攻略",
+      "path": "01-美股投资/03-美股QDII基金/01-支付宝买美股基金教程：QDII 指数基金 + 美债基金最全攻略.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/qdii-funds/text/alipay-qdii-funds/",
+      "websiteTutorialId": "96149fb9-043c-457f-961d-5290f0f9628c",
+      "markdownSha256": "8ca83eab4377383d2a1c426ada56ee6df6c559dad23980600f6e3c5d54c56601",
+      "websiteContentSha256": "59d37c28c824f2fa7ae0b3bb63e7a2844cfd8f483d64fef24ee2cd06b95b385b"
+    },
+    {
+      "title": "招商银行 QDII 基金投资-理财教程：美股基金实操攻略",
+      "path": "01-美股投资/03-美股QDII基金/02-招商银行 QDII 基金投资-理财教程：美股基金实操攻略.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/qdii-funds/text/cmb-qdii-funds/",
+      "websiteTutorialId": "6087e3e8-4ccb-45cc-956a-2a3c1e628718",
+      "markdownSha256": "5672336e288fcab3d5733c43191cc6ea1bb5a41eafb2b5fa59fbc9afc3161cc2",
+      "websiteContentSha256": "d4769e59becac6cd424a63c85bc9c4d1b1b4b55103c9fa9ae87a93a2d420d15b"
+    },
+    {
+      "title": "定投标普 500、纳斯达克 100：场外 QDII、境内 ETF 和美股 ETF 怎么选？",
+      "path": "01-美股投资/03-美股QDII基金/03-定投标普 500、纳斯达克 100：场外 QDII、境内 ETF 和美股 ETF 怎么选？.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/qdii-funds/text/sp500-nasdaq-dca-investment-channels/",
+      "websiteTutorialId": "4cae606b-b4d1-5fe4-be6c-a6b876beb08e",
+      "markdownSha256": "625bdb75e4feff27c2cd6dcfebf4561fa78b1c003e8936c40cbe69b51f3791ce",
+      "websiteContentSha256": "d7839916f1e140f4235b582811ca7ebb94326cce0786c8584fc5497e3997ea90"
+    },
+    {
+      "title": "同样投资标普 500、纳斯达克 100，QDII 基金和 VOO、QQQ 为什么收益不同？",
+      "path": "01-美股投资/03-美股QDII基金/04-同样投资标普 500、纳斯达克 100，QDII 基金和 VOO、QQQ 为什么收益不同？.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/qdii-funds/text/qdii-vs-us-etf-return-differences/",
+      "websiteTutorialId": "6f172536-f43d-5e06-8f60-5451b46cbc75",
+      "markdownSha256": "abc6a8cdf84fdb50e8f74de49c1ff6da98017fb92f6847224eb24a01374a11f9",
+      "websiteContentSha256": "808adec3f541ccd7f66f08224478b1fe92c529aa58558a00a84bd12db46e6aa3"
+    },
+    {
+      "title": "QDII 基金为什么限购？标普 500、纳斯达克 100 暂停申购的原因与应对方法",
+      "path": "01-美股投资/03-美股QDII基金/05-QDII 基金为什么限购？标普 500、纳斯达克 100 暂停申购的原因与应对方法.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/qdii-funds/text/why-qdii-funds-limit-subscriptions/",
+      "websiteTutorialId": "75f9245f-d5b1-56ac-95a8-7c2cec2ef0bd",
+      "markdownSha256": "2dcccbc65cb6d41ecbd28f4dfb3686f9041467f83eb59d5327866cca207fe8a8",
+      "websiteContentSha256": "c740e36a36efa2b21ef7b92c669f1959fb81d8398b769a715da99a718e9a15db"
+    },
+    {
+      "title": "美股 ETF 是什么？为什么普通人更适合从 ETF 开始投资",
+      "path": "01-美股投资/04-美股ETF/01-美股 ETF 是什么？为什么普通人更适合从 ETF 开始投资.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-etf/text/what-is-us-etf/",
+      "websiteTutorialId": "7675ea50-67fe-51bf-ab2c-dfd5a9e951d2",
+      "markdownSha256": "b2e8ef8f4cdbafbeb0f7437cd80f77e279f35512b4f9321d498d3b0e82ae7af4",
+      "websiteContentSha256": "6c89850c209c0ffbb9de3afa5fce45798dc295a2f7ba2b820122b2b51231277c"
+    },
+    {
+      "title": "美股 ETF 怎么买？大陆用户从开户、入金到第一笔交易完整教程",
+      "path": "01-美股投资/04-美股ETF/02-美股 ETF 怎么买？大陆用户从开户、入金到第一笔交易完整教程.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-etf/text/how-to-buy-your-first-us-etf/",
+      "websiteTutorialId": "8f217a3d-7619-5f21-8be9-17e9d3c092a1",
+      "markdownSha256": "c071af40ca6a09bdbda5ca1e01d4363c4191c88a85d7ec95684f749e18c7b75f",
+      "websiteContentSha256": "23abd74f7d3bab51d198e6f007a950985364ec7c6794eea6d12b1a4052831f5b"
+    },
+    {
+      "title": "如何选择一只 ETF？必须掌握的 10 大判断标准",
+      "path": "01-美股投资/04-美股ETF/03-如何选择一只 ETF？必须掌握的 10 大判断标准.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-etf/text/how-to-choose-us-etf-ten-criteria/",
+      "websiteTutorialId": "50dd14d0-0232-43bc-a2df-49e01b9b10a2",
+      "markdownSha256": "e67b9375379bafb245ad14d9d54eee8dc90af84485a56c62e2a63987af866061",
+      "websiteContentSha256": "13f347f631432dfb96c60ae7288e1235923ddb848860dda02ecdef3ee4e16d1a"
+    },
+    {
+      "title": "一文入门美股宽基 ETF：标普、纳指、道琼斯、罗素 2000",
+      "path": "01-美股投资/04-美股ETF/04-一文入门美股宽基 ETF：标普、纳指、道琼斯、罗素 2000.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-etf/text/us-broad-market-etfs-introduction/",
+      "websiteTutorialId": "9237484e-9316-4f49-9bd2-a0bb1fb79fd7",
+      "markdownSha256": "fb85fb134a877dc5f8782cc3e8017b2b94fd85cc51a42b060ec773b2c1030581",
+      "websiteContentSha256": "33addb5b9d556b7c1d8b829c7b428d683581022e01163d4b36b9e7c07fc72228"
+    },
+    {
+      "title": "标普 500 ETF 怎么选？VOO、IVV、SPY、SPYM、SPLG 对比",
+      "path": "01-美股投资/04-美股ETF/05-标普 500 ETF 怎么选？VOO、IVV、SPY、SPYM、SPLG 对比.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-etf/text/voo-spy-ivv-splg-spym-comparison/",
+      "websiteTutorialId": "c47f397c-c4e9-57c2-b44f-f7e295cf9546",
+      "markdownSha256": "17bd4095de6a76a18d5c73aa1bdfc50ded69fe230f87e61cfe8ca6138a3bf232",
+      "websiteContentSha256": "534516650c0e99256ce16198a34793b67de7ae82b8347c5c4818ae3200839ad7"
+    },
+    {
+      "title": "纳斯达克 100 ETF：QQQ、QQQM 与 IQQ 怎么选？纳斯达克 100 与标普 500 的区别？",
+      "path": "01-美股投资/04-美股ETF/06-纳斯达克 100 ETF：QQQ、QQQM 与 IQQ 怎么选？纳斯达克 100 与标普 500 的区别？.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-etf/text/nasdaq-qqq-qqqm-qqqm/",
+      "websiteTutorialId": "27eb1793-ea72-57e6-a215-2c0898bb0b57",
+      "markdownSha256": "709509a3c848a060e296d61f5f28b36ab505ac628e66fb5b17fbec4893ead45c",
+      "websiteContentSha256": "2bc023c1670d10555de6ecb4ed7ff5b891e3af2f64548da407ed3530ae8f3aef"
+    },
+    {
+      "title": "大陆用户怎么买比特币？2026 最详细教程（注册到交易全流程）",
+      "path": "02-加密货币/01-交易所/01-大陆用户怎么买比特币？2026 最详细教程（注册到交易全流程）.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/exchanges/text/how-to-buy-bitcoin/",
+      "websiteTutorialId": "5a6ded03-fe56-4c16-884d-4f0d383cc028",
+      "markdownSha256": "2c4b1b61b4ef9bc961794569d48a401686be1f0c9f0293bc70b8a5b96713a99e",
+      "websiteContentSha256": "12f5a46890c6bb71b868811b099aeb675b93dec431be1bf4ce9d7c3452ba6d90"
+    },
+    {
+      "title": "Bitget 教程：大陆用户注册入金 + 理财打新全攻略",
+      "path": "02-加密货币/01-交易所/02-Bitget 教程：大陆用户注册入金 + 理财打新全攻略.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/exchanges/text/bitget-tutorial/",
+      "websiteTutorialId": "57afb8f0-f9d9-426f-98d8-527523b04c58",
+      "markdownSha256": "e7b919c90514c397778dc2e108f0190b47da16056982847258865e539b96f0e3",
+      "websiteContentSha256": "d58f3abbd4adc4e69f85bcd5c80c80fdd12576049c5f997c82523c135d647472"
+    },
+    {
+      "title": "加密货币和 Web3 是什么？零基础入门区块链与数字资产",
+      "path": "02-加密货币/02-加密货币基础/01-加密货币和 Web3 是什么？零基础入门区块链与数字资产.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/crypto-basics/text/cryptocurrency-web3-beginner-guide/",
+      "websiteTutorialId": "dac1f163-cbe3-4ac4-9ebe-aa504a6675b9",
+      "markdownSha256": "a692ff9b8523cb4620465a2088f06e17395927cf85ca1a76ba887c4156096e74",
+      "websiteContentSha256": "0e86b7b5d5c94ab69b0cfa1847783925b09d4df74635c8dbe94ad6960d189f04"
+    },
+    {
+      "title": "比特币是什么？为什么它被称为数字黄金？",
+      "path": "02-加密货币/02-加密货币基础/02-比特币是什么？为什么它被称为数字黄金？.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/crypto-basics/text/what-is-bitcoin-digital-gold/",
+      "websiteTutorialId": "1639f7a9-aef0-406a-9977-19de6bd24fed",
+      "markdownSha256": "a659cc6e7c83699cad056e7fff2c13b5b2f23b1c788ac4b9b39a5ab1ffdaf4db",
+      "websiteContentSha256": "b9ffd4e0e853b25f0d4d2dfba8033b955b8ec1a0bffed9f54f5b07ff06b89159"
+    },
+    {
+      "title": "以太坊是什么？ETH、智能合约与 Web3 生态入门",
+      "path": "02-加密货币/02-加密货币基础/03-以太坊是什么？ETH、智能合约与 Web3 生态入门.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/crypto-basics/text/what-is-ethereum-smart-contracts/",
+      "websiteTutorialId": "c45fb037-2e57-47ad-8021-1940a1f488ae",
+      "markdownSha256": "8d7408c81edeef1aa91e358755ae16212cc56935919f1f982e8cf45c1101b99a",
+      "websiteContentSha256": "1ba7b8737b0e195259221aa95b664fc3ab10953d3980d8d465b4c2ee9c1ff34c"
+    },
+    {
+      "title": "稳定币是什么？USDT、USDC 如何维持美元价格？",
+      "path": "02-加密货币/02-加密货币基础/04-稳定币是什么？USDT、USDC 如何维持美元价格？.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/crypto-basics/text/what-are-stablecoins-usdt-usdc/",
+      "websiteTutorialId": "e439c4cc-e8af-4874-b7ac-1534e5e6ba49",
+      "markdownSha256": "4dc893a21a12c15d1dfe5f91818c93862db6c351b1f9f646ef82b924936e70ea",
+      "websiteContentSha256": "0d3df351f918d53b960c6cb61161647712b17177450669c452bace2e3c21fecc"
+    },
+    {
+      "title": "加密货币交易所怎么注册？从实名认证、入金到买入比特币",
+      "path": "02-加密货币/02-加密货币基础/05-加密货币交易所怎么注册？从实名认证、入金到买入比特币.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/crypto-basics/text/crypto-exchange-registration-buy-bitcoin/",
+      "websiteTutorialId": "2b85572b-69c5-41f0-9b2d-cab67d3ca4d0",
+      "markdownSha256": "c051e69251a1df05bbea692214df2485ef79f30e6ace2eeffda7afda3a31080f",
+      "websiteContentSha256": "0733a87767fea3ffb7ac79655c17a7491683d65ba0d22b535f5692dcac610290"
+    },
+    {
+      "title": "Web3 有哪些赛道？DeFi、NFT、Meme 与 RWA 一次看懂",
+      "path": "02-加密货币/02-加密货币基础/06-Web3 有哪些赛道？DeFi、NFT、Meme 与 RWA 一次看懂.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/crypto-basics/text/web3-sectors-defi-nft-meme-rwa/",
+      "websiteTutorialId": "0386617a-3548-41e9-957c-316413e01784",
+      "markdownSha256": "5b0a681c0dc6a859f334d81fb8896ffbac0e5b2c22cef21f4f7e365206204172",
+      "websiteContentSha256": "366bf7e0d074f1c65f49c33d358268a8b98b6bba38d74b891973d6fe04c907a5"
+    },
+    {
+      "title": "Polymarket 是什么？从 AI 上市到美联储决议，看懂预测市场怎么玩",
+      "path": "02-加密货币/02-加密货币基础/07-Polymarket 是什么？从 AI 上市到美联储决议，看懂预测市场怎么玩.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/crypto-basics/text/polymarket-prediction-market-guide/",
+      "websiteTutorialId": "72a5d03f-69cf-46a0-8938-defe6dfa4d54",
+      "markdownSha256": "cbcdd7d553ffb32650c34fd87d675e9a7c1bb7fec1d2456cdcd1b9ba10ecb479",
+      "websiteContentSha256": "42aeeddbc67bf0d936052d456794398ce11d3bba55f3b09d84246c3facf47ee0"
+    },
+    {
+      "title": "Hyperliquid 为什么这么火？Perp DEX、HYPE 与链上永续合约入门",
+      "path": "02-加密货币/02-加密货币基础/08-Hyperliquid 为什么这么火？Perp DEX、HYPE 与链上永续合约入门.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/crypto-basics/text/perp-dex-hyperliquid-guide/",
+      "websiteTutorialId": "afcb4485-dfaa-4d1a-9fd2-667d2868f03d",
+      "markdownSha256": "bc2123110a7c0031473ae300bb1095da7f471c4b686930e48aa94cade7c19fd6",
+      "websiteContentSha256": "ee194346be9d8e6c05464789c355a8ff12f653f3e5a3b691af690c2fe8b13169"
+    },
+    {
+      "title": "Robinhood 股票 Meme 为什么火了？看懂股票代币、AI／NVDA 与 BONER／HIMS",
+      "path": "02-加密货币/02-加密货币基础/09-Robinhood 股票 Meme 为什么火了？看懂股票代币、AI／NVDA 与 BONER／HIMS.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/crypto-basics/text/tokenized-stocks-stock-meme/",
+      "websiteTutorialId": "8df67a2c-9465-4144-935d-0ed547a9e846",
+      "markdownSha256": "28eafc7c74b2d7ce16236a5c2f47f661748edbf041cda64f4782361cce771588",
+      "websiteContentSha256": "7271a923510b39348c67830a4aa0e0ce5e60331307926f99437ac37d8f8459a8"
+    },
+    {
+      "title": "SEC 新政给 DEX 带来什么机会？从 Uniswap 看懂股票上链与去中心化交易",
+      "path": "02-加密货币/02-加密货币基础/10-SEC 新政给 DEX 带来什么机会？从 Uniswap 看懂股票上链与去中心化交易.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/crypto-basics/text/uniswap-sec-tokenized-stocks-guide/",
+      "websiteTutorialId": "e0567bb1-6c7d-473d-ab3a-b3a2f07b7b75",
+      "markdownSha256": "5dc6dca2029a159609778225b5b791d1e24b6ae338af0556bb660c82f0ee1846",
+      "websiteContentSha256": "9e31593074f00eec19300129b10d90e8f1266f46fc8ff6f36327a8b63bea4a22"
+    },
+    {
+      "title": "怎么判断一个币值不值得买？加密货币项目投研方法",
+      "path": "02-加密货币/02-加密货币基础/11-怎么判断一个币值不值得买？加密货币项目投研方法.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/crypto-basics/text/crypto-project-research-framework/",
+      "websiteTutorialId": "19b6c2a8-3181-4ba9-b640-5a984d9d2f0a",
+      "markdownSha256": "50cc26df34b591a665a2733d9b6aa3ec32ba9de56b0bfcb190535554671be055",
+      "websiteContentSha256": "a64169b773c5fd77ee53ad94ae9b5d6f83c498997feb09eb7559ae93026b6546"
+    },
+    {
+      "title": "币圈有哪些赚钱方式？现货、空投、合约与 Meme 币",
+      "path": "02-加密货币/02-加密货币基础/12-币圈有哪些赚钱方式？现货、空投、合约与 Meme 币.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/crypto-basics/text/crypto-profit-methods-spot-airdrop-futures-meme/",
+      "websiteTutorialId": "c7553bc5-013e-4697-be0f-28e50d2aa0ee",
+      "markdownSha256": "bfb802c5c3127ad17f589a20253c7648c7dd6f5fce6461a06629b6beaed43c16",
+      "websiteContentSha256": "eda408972a43213b085a89473d37e94ad9040c3b2fcb1571a273ccdc6b4c4a03"
+    },
+    {
+      "title": "加密货币投资策略：比特币定投、仓位控制与止盈",
+      "path": "02-加密货币/02-加密货币基础/13-加密货币投资策略：比特币定投、仓位控制与止盈.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/crypto-basics/text/crypto-investment-strategy-dca-position-exit/",
+      "websiteTutorialId": "681f8a7b-7c00-41da-ac86-0c1c1ea0e3b9",
+      "markdownSha256": "ea7c0a25dc9439a74bb97630bbccdb470cda06a0d57e5c5525d6e12ca06a69d3",
+      "websiteContentSha256": "872e80492c7e508d9c76665db27a9a1dbfb85c8ed823658c33d58a8cdbb05dff"
+    },
+    {
+      "title": "币圈常见骗局有哪些？钓鱼、假客服与貔貅盘防骗指南",
+      "path": "02-加密货币/02-加密货币基础/14-币圈常见骗局有哪些？钓鱼、假客服与貔貅盘防骗指南.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/crypto-basics/text/crypto-scam-prevention-guide/",
+      "websiteTutorialId": "3e6d7d76-4ad7-4558-9ff0-cd7b625a287c",
+      "markdownSha256": "ad41929b4bb3a80ae71723ff9de6099f3abab1284edda4f04edd9cbdd3357480",
+      "websiteContentSha256": "7a427a8a7c939f56fff8a18d8a5f8b6c2530eef2e5cfbe619e4ba7e4aec2181d"
+    },
+    {
+      "title": "2026 最新 Bybit 虚拟卡开通教程：完整实操指南",
+      "path": "02-加密货币/03-加密货币虚拟卡/01-2026 最新 Bybit 虚拟卡开通教程：完整实操指南.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/crypto-cards/text/bybit-virtual-card-2026/",
+      "websiteTutorialId": "93693b4a-6237-452b-9b26-3299072944f9",
+      "markdownSha256": "a4610e48091ff5324ca67433c081d278f39eb7a50623afd9e86709558399c0e7",
+      "websiteContentSha256": "963d342ce0455d39433093cfab38b1fbdb57ac0096b9a5cf865df3e9c9164f98"
+    },
+    {
+      "title": "Web3 钱包是什么？欧易 Web3 钱包创建与助记词备份教程",
+      "path": "02-加密货币/04-Web3钱包/01-Web3 钱包是什么？欧易 Web3 钱包创建与助记词备份教程.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/web3-wallets/text/okx-web3-wallet-create-backup/",
+      "websiteTutorialId": "78e34298-d0d1-563e-ab91-f709100befea",
+      "markdownSha256": "88bb74d2a31cee38f720323de454c0f2167c6340de0194b17b3626d587cd8d9e",
+      "websiteContentSha256": "25a0738cf9c3031dc53ce7f76c3ef5ebbb6f88c78473d63a727b43c89ee19229"
+    },
+    {
+      "title": "Web3 钱包怎么转账？USDT 转入、转出与 Gas 费教程",
+      "path": "02-加密货币/04-Web3钱包/02-Web3 钱包怎么转账？USDT 转入、转出与 Gas 费教程.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/web3-wallets/text/web3-wallet-usdt-transfer-gas/",
+      "websiteTutorialId": "722e4b03-81f9-53d6-878a-f4769a2ab88c",
+      "markdownSha256": "d190d6f8e43bc405d69214c8260c258dd9e10533c5db7cf29daa80392e3b001f",
+      "websiteContentSha256": "d7ce4952251381acff219454155edd66b0280e5f806e314b3aad096cf5664a7b"
+    },
+    {
+      "title": "USDT 怎么跨链？欧易 Web3 钱包跨链桥使用教程",
+      "path": "02-加密货币/04-Web3钱包/03-USDT 怎么跨链？欧易 Web3 钱包跨链桥使用教程.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/web3-wallets/text/okx-wallet-usdt-cross-chain-bridge/",
+      "websiteTutorialId": "cbfc6196-eb29-585b-be34-2a5911b3e895",
+      "markdownSha256": "e03df6373323563b40379e7bf4e1b1a841050f4eeba93f2ad3abd67822b4d8f1",
+      "websiteContentSha256": "46690aa7bf26190a0a0bc14ec74bc1a925f41012f6099d5e68d86eb27055bf77"
+    },
+    {
+      "title": "Web3 钱包怎么买卖代币？DEX 兑换、滑点与 MEV 防御教程",
+      "path": "02-加密货币/04-Web3钱包/04-Web3 钱包怎么买卖代币？DEX 兑换、滑点与 MEV 防御教程.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/web3-wallets/text/okx-web3-wallet-dex-swap-slippage-mev/",
+      "websiteTutorialId": "461cd5cb-39ba-5d6e-aabf-b43010a85011",
+      "markdownSha256": "811a5c61e7f595097f3a5a789fc5b5b759bc153ade4dad393d5e7a9e23c076fd",
+      "websiteContentSha256": "3211d69fb626699ad3c86081c6f9f63877fbeb39e042f182ba1e7656e4d001f5"
+    },
+    {
+      "title": "欧易 Web3 钱包还能做什么？行情追踪、Boost 空投与 DeFi 赚币",
+      "path": "02-加密货币/04-Web3钱包/05-欧易 Web3 钱包还能做什么？行情追踪、Boost 空投与 DeFi 赚币.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/web3-wallets/text/okx-web3-wallet-market-boost-defi/",
+      "websiteTutorialId": "1d4d83bc-23db-5949-9438-123674103490",
+      "markdownSha256": "f584b8f4e9d78cdc0fcfd6a9275075ce1c3be65ba87463284e026c2ddb3407df",
+      "websiteContentSha256": "f07be7e8a2cddbc4674ab2c1d1e18cf5afad45b9e84c943863454523192274e9"
+    },
+    {
+      "title": "Web3 钱包防骗指南：貔貅盘、钓鱼授权等 5 种常见骗局",
+      "path": "02-加密货币/04-Web3钱包/06-Web3 钱包防骗指南：貔貅盘、钓鱼授权等 5 种常见骗局.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/web3-wallets/text/web3-wallet-scams-security-guide/",
+      "websiteTutorialId": "67538226-b444-5bac-89ac-98160d1f8b59",
+      "markdownSha256": "b8aa3088fa51f00b936941a4f314b7d15fa30fc2f3b1702ce567ba104de6e049",
+      "websiteContentSha256": "a331248cab9ff70514a0295066f2ca58cc3162f0f0a9f2d9d00fa025ed1a88ea"
+    },
+    {
+      "title": "Web3 钱包入门教程：新手从 0 到 1 全流程实操指南",
+      "path": "02-加密货币/04-Web3钱包/07-Web3 钱包入门教程：新手从 0 到 1 全流程实操指南.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/web3-wallets/text/web3-wallet/",
+      "websiteTutorialId": "8e35ee3f-261a-46c5-9bcd-7f5a5464a8aa",
+      "markdownSha256": "55ea8b0619fd490a625196c906f312b9efe7e2b521eea3a48434b4a07da1dcd3",
+      "websiteContentSha256": "d297cbe79281f813e14fd91a68f7050defcfd51db114e6cb26c12c982e8e8931"
+    },
+    {
+      "title": "兴业银行寰宇人生开户：大陆无损入金汇丰中银的跨境神卡",
+      "path": "03-出入金与资金流转/01-出入金/01-兴业银行寰宇人生开户：大陆无损入金汇丰中银的跨境神卡.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/cib-global-card/",
+      "websiteTutorialId": "1e9e76f4-2089-4b28-80be-18ddc56a15fe",
+      "markdownSha256": "e15997e5143970b522225d20e0b9e03221004589a468d71cbd5542e0f172ab44",
+      "websiteContentSha256": "eba6750bef1e6dfee59d85a839d2470c207921445669ff167738b59db8fdfc7b"
+    },
+    {
+      "title": "熊猫速汇教程：港币美元出金回国最详细攻略",
+      "path": "03-出入金与资金流转/01-出入金/02-熊猫速汇教程：港币美元出金回国最详细攻略.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/panda-remit/",
+      "websiteTutorialId": "57864a6e-6efa-446a-ada5-cb8e3d766249",
+      "markdownSha256": "c02fd69d3b10307eb6589ae37e1cf9b49db2e9f97f0ce9b021dbafc5e054de97",
+      "websiteContentSha256": "cfbcc50ffa711273cb01a953038d7d796ae998f72853d57f5f2219d0ef308e21"
+    },
+    {
+      "title": "BOC Pay 港币出金教程：大额港币出金回国+无需结汇+秒级到账",
+      "path": "03-出入金与资金流转/01-出入金/03-BOC Pay 港币出金教程：大额港币出金回国+无需结汇+秒级到账.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/boc-pay-hongkong/",
+      "websiteTutorialId": "54b98395-45d5-43fc-a03f-9e389ccdc9ab",
+      "markdownSha256": "73da031fe42be7bcc99fcbab130d88b4dd2cc9069404508c34371ffeb33c9148",
+      "websiteContentSha256": "39469a6c93550fcc4aa800188e06c9d86fc110a304d74b806f90e0c71edc613d"
+    },
+    {
+      "title": "Bybit Card + 香港支付宝出金 USDT 教程：大陆用户实操",
+      "path": "03-出入金与资金流转/01-出入金/04-Bybit Card + 香港支付宝出金 USDT 教程：大陆用户实操.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/bybit-card-alipay-withdraw/",
+      "websiteTutorialId": "57a9b0df-1e1d-4113-b4f2-3539e6755b42",
+      "markdownSha256": "834d86351cb97f819459b7e16945aa653d5328f9e2d60ea56552fb9179ed7c21",
+      "websiteContentSha256": "2972d1432e6e3b998d1e760c2858ad84546e1b36a4b2d79bdd2c46c018b5ec38"
+    },
+    {
+      "title": "港币出金回国：Apple Pay 绑定港卡搭配云闪付",
+      "path": "03-出入金与资金流转/01-出入金/05-港币出金回国：Apple Pay 绑定港卡搭配云闪付.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/apple-pay-hk-card-unionpay/",
+      "websiteTutorialId": "5328d5f8-27db-437c-acb4-6d3170a37129",
+      "markdownSha256": "698330e326a47a5f0dff72358a75c554696b898bae72844872a371ce1d443038",
+      "websiteContentSha256": "597811b2917b9a6959192e035f8341243d9a5a4294c7bc9a965fcb1af132a129"
+    },
+    {
+      "title": "众安银行出金回国攻略：秒级到账不占外汇额度",
+      "path": "03-出入金与资金流转/01-出入金/06-众安银行出金回国攻略：秒级到账不占外汇额度.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/za-bank-withdraw-to-mainland/",
+      "websiteTutorialId": "176f65c5-1287-4b79-8630-954db23cb3e2",
+      "markdownSha256": "85eebf165d6ea590bc58d678e8b32a9e71f2bf77d675be4ce8275fe36fe79fc8",
+      "websiteContentSha256": "d5065fd89010020cd5c7ed866916e0638cf2b862e50edd1c304dedfefc81731f"
+    },
+    {
+      "title": "众安银行 + 香港支付宝出金教程：大陆用户线上操作",
+      "path": "03-出入金与资金流转/01-出入金/07-众安银行 + 香港支付宝出金教程：大陆用户线上操作.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/za-bank-alipay-withdraw/",
+      "websiteTutorialId": "aaae8140-6e8c-46e3-a7a8-a5fc6c3bb643",
+      "markdownSha256": "33f941dcda77cace01c11dde10ac7082a4255d674df2e747f528af4a6f52f3fc",
+      "websiteContentSha256": "73c250910af0975f170e2a27388dbe96b581a1511509ef777d0cec3b9f1c1342"
+    },
+    {
+      "title": "香港支付宝出金教程：线上开通 + 搭配蚂蚁银行秒级出金",
+      "path": "03-出入金与资金流转/01-出入金/08-香港支付宝出金教程：线上开通 + 搭配蚂蚁银行秒级出金.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/alipay-hk-ant-bank/",
+      "websiteTutorialId": "adf326ca-f9a5-46e0-b809-a69a08a02f50",
+      "markdownSha256": "5bff93f9ce2c31ac8d709bc9efd10b2a0c9b33de3b5e0a35aa9adaeef539af01",
+      "websiteContentSha256": "d4e0acc3a5587486a9611bf9db9cc0ac833a82a6a187e7c02ae85cb171ee922a"
+    },
+    {
+      "title": "微信香港钱包开通教程：大陆用户绑卡消费出金全流程",
+      "path": "03-出入金与资金流转/01-出入金/09-微信香港钱包开通教程：大陆用户绑卡消费出金全流程.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/wechat-hk-wallet/",
+      "websiteTutorialId": "59e65456-3ae0-4b26-9a45-100fbd8e0782",
+      "markdownSha256": "bbe482ebd6e081670c65443a61e2a28890393a9ebd56f9689b31186d7dd947fa",
+      "websiteContentSha256": "651b8b7ff032fb677e9bbf17cce64358a74ece3a179cf85ef49569b0f30d3f59"
+    },
+    {
+      "title": "Nihao China 绑定港卡消费教程：云闪付的最佳替代方案",
+      "path": "03-出入金与资金流转/01-出入金/10-Nihao China 绑定港卡消费教程：云闪付的最佳替代方案.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/nihao-china-bindcard/",
+      "websiteTutorialId": "473d21cb-05fb-4e51-bb16-3f7d0f564f61",
+      "markdownSha256": "2bb051d7ddc8f6d9c5c3f530bd9d5dba459ce53d9cd15e1ebb61f0b3a54dd08b",
+      "websiteContentSha256": "d98bce151c7f00efde28e772866e784388a38769b080bcd90a67701dae538010"
+    },
+    {
+      "title": "香港银联卡 + Apple Pay：内地消费港币的王炸方案",
+      "path": "03-出入金与资金流转/01-出入金/11-香港银联卡 + Apple Pay：内地消费港币的王炸方案.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/hk-unionpay-apple-pay/",
+      "websiteTutorialId": "e12afe38-3b72-46a9-95f8-8d14466daeec",
+      "markdownSha256": "1aa745db2ca6a07bb21f6c6a1b97eb614136ca1d19e58ca3b0c72b755184787d",
+      "websiteContentSha256": "c62158aca014bd9b6002a5199d831217ecc41d54a44404b0fa91adea6fedbfa1"
+    },
+    {
+      "title": "复星虚拟资产账户教程：大额出入金 USDT + 投资港美股",
+      "path": "03-出入金与资金流转/01-出入金/12-复星虚拟资产账户教程：大额出入金 USDT + 投资港美股.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/fosun-virtual-asset/",
+      "websiteTutorialId": "d3412539-5e21-4e96-81cb-580d56de936e",
+      "markdownSha256": "5d68ee891a2690bf2dab66419ec274063cb3f798e98ca70a2707f32da1898d8f",
+      "websiteContentSha256": "a497bc005b10d838d039a425b49ddd12c7dabe0d82588afa3c112cd0afc3a780"
+    },
+    {
+      "title": "港卡的钱怎么在内地花？9 大港币消费方式全解析",
+      "path": "03-出入金与资金流转/01-出入金/13-港卡的钱怎么在内地花？9 大港币消费方式全解析.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/hk-card-spending-in-mainland/",
+      "websiteTutorialId": "8f667bce-05c3-419e-b8fc-4be440f4d8dd",
+      "markdownSha256": "53a8fb7569c15cbdcaee051666b10c5fd50cccb5c67a67e5e697373164a4fd8c",
+      "websiteContentSha256": "27f9c51e21913801c864365c83bd64324d477aa8d107eca3e3d8ff089ff2fa86"
+    },
+    {
+      "title": "Wise 多币种钱包从 0 到 1 开户-入金-出金教程：轻松玩转 Wise",
+      "path": "03-出入金与资金流转/01-出入金/14-Wise 多币种钱包从 0 到 1 开户-入金-出金教程：轻松玩转 Wise.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/wise-account/",
+      "websiteTutorialId": "d79d549c-704b-4e2c-b088-e372bf34fe99",
+      "markdownSha256": "c456ed1ebd1bec34a3780a849068017e23ecefdcd8a6366a0be774581434c775",
+      "websiteContentSha256": "be465acf9af3940072fcfd71718d8ac555dba16f76ab62da0b3494ef5b635f61"
+    },
+    {
+      "title": "币安+众安银行跨境汇款出入金 USDT 教程",
+      "path": "03-出入金与资金流转/01-出入金/15-币安+众安银行跨境汇款出入金 USDT 教程.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/binance-transfer-usdt/",
+      "websiteTutorialId": "514baec5-c2ad-4a4f-9499-9b3b68bd8645",
+      "markdownSha256": "e35493fa8f1045b68542826fe346f8e225c7487b5420d430b28114b5bedf39c9",
+      "websiteContentSha256": "4f64e587a528a59c2cc8e213fb07dc4971d6bd30ec21b6bcb990f9e18d20376e"
+    },
+    {
+      "title": "Starryblu 开户教程：大陆用户开户、入金、支付宝出金及 Wise 对比",
+      "path": "03-出入金与资金流转/01-出入金/16-Starryblu 开户教程：大陆用户开户、入金、支付宝出金及 Wise 对比.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/starryblu-account-transfer-guide/",
+      "websiteTutorialId": "4c693067-0dbe-4d94-a7a2-e8cfc839e36d",
+      "markdownSha256": "a6a4f8ff6936985a6fc42db406ae393a53e21ed93216f409b9f0f435daf05592",
+      "websiteContentSha256": "7a0a0d473a3ef52df2bc86434b1f75da5f173c937b6c8e3f5e459d7e66b0db0f"
+    },
+    {
+      "title": "Xesim + Club SIM：大陆用户获取海外手机号实操教程",
+      "path": "03-出入金与资金流转/02-海外电话卡/01-Xesim + Club SIM：大陆用户获取海外手机号实操教程.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/overseas-sim/text/xesim-club-sim/",
+      "websiteTutorialId": "9d75042c-809c-41f3-874b-839078b11c67",
+      "markdownSha256": "52c9fc940a6739881e9eb145f4e7f06991f54edacfa15d7a9283e96f71f89b28",
+      "websiteContentSha256": "182e693cb5fc5b09f3212ad430a1715ded5c6440504e9a144ecd3c1cf7a077f0"
+    },
+    {
+      "title": "Giffgaff 英国手机卡教程：大陆用户无门槛开通",
+      "path": "03-出入金与资金流转/02-海外电话卡/02-Giffgaff 英国手机卡教程：大陆用户无门槛开通.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/overseas-sim/text/giffgaff-uk-sim/",
+      "websiteTutorialId": "f3b71df7-f613-4487-9011-a14b6682934a",
+      "markdownSha256": "8cc5e213b44a64ceb715166a4b239fc74ab8f1b2e9918c40907e04892dee3a71",
+      "websiteContentSha256": "65c82a640c242bf4a41435a13c66323ee9da41c621afb2609ff7f3ba20c41bb6"
+    }
+  ]
+}

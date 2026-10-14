@@ -1,3 +1,7 @@
+# 嘉信理财入金从 0 到 1 教程：四大入金方案｜Wise 入金｜iFAST 入金｜汇丰香港入金｜Bitget 虚拟卡入金
+
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-deposit/) · [返回本分类](./README.md)
+
 最近，富途老虎长桥这三家美股券商，在内地监管的重拳出击之下，都已经彻底关闭了内地用户的开户通道。
 
 在这种情况下，少数几个支持大陆用户开户入金交易的美股券商，成为了美股难民们的避难所，嘉信理财就是其中之一。
@@ -8,7 +12,7 @@
 
 ---
 
-# 1. Wise 美元入金
+## 1. Wise 美元入金
 
 首先第一个方式是 Wise 美元入金。它是四种入金方案里面，最丝滑、到账速度最快的一种。
 
@@ -29,19 +33,19 @@
 
 首先，我们登陆进入嘉信的官方页面。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909429251_3y7qxo.png)
+![嘉信理财入金从 0 到 1 教程：Wise 美元入金（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909429251_3y7qxo.png)
 
 点击上面的资金转移，然后点击外部账户。嘉信改版之后，大家看到的界面可能有所不同，新版本的按钮选项是连接外部银行。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909438641_gbxksa.png)
+![嘉信理财入金从 0 到 1 教程：点击上面的资金转移，然后点击外部账户。嘉信改版之后，大家看到的界面可能有所不同，新版本的按钮选项是连接外部银行（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909438641_gbxksa.png)
 
 接着，我们点击添加账户。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909449018_6coxbu.png)
+![嘉信理财入金从 0 到 1 教程：接着，我们点击添加账户（配图 3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909449018_6coxbu.png)
 
 选中你的嘉信理财账户，然后点击继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909459270_invb3o.png)
+![嘉信理财入金从 0 到 1 教程：选中你的嘉信理财账户，然后点击继续（配图 4）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909459270_invb3o.png)
 
 接着，它这里提示我们，需要验证一下我们的外部银行账户，也就是我们接下来要绑定的 Wise。
 
@@ -51,11 +55,11 @@
 
 理解清楚这个流程的原理之后，我们点击继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909484505_3zwhnh.png)
+![嘉信理财入金从 0 到 1 教程：理解清楚这个流程的原理之后，我们点击继续（配图 5）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909484505_3zwhnh.png)
 
 上面问你是不是这个外部银行账户的持有人，选择 Yes，同名账户入金。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909511187_s4hocq.png)
+![嘉信理财入金从 0 到 1 教程：上面问你是不是这个外部银行账户的持有人，选择 Yes，同名账户入金（配图 6）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909511187_s4hocq.png)
 
 接下来，打开 Wise App，进入美元账户信息界面。
 
@@ -67,35 +71,35 @@
 
 - nickname 随便写一个，作为备注。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909531230_ix1x4c.png)
+![嘉信理财入金从 0 到 1 教程：Wise 美元入金（配图 7）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909531230_ix1x4c.png)
 
 然后往下拉，勾选一下，点击 Submit。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909545831_zgd2hs.png)
+![嘉信理财入金从 0 到 1 教程：然后往下拉，勾选一下，点击 Submit（配图 8）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909545831_zgd2hs.png)
 
 接着，它这里就会提示我们，需要验证这个账户是否有效。验证通过之后，嘉信会给你发邮件，你的 Wise 账户也会出现一笔取款和两笔存款。
 
 我们点击 Continue Verification。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909586381_c40b59.png)
+![嘉信理财入金从 0 到 1 教程：我们点击 Continue Verification（配图 9）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909586381_c40b59.png)
 
 接下来，就耐心等待一个工作日左右的时间，嘉信就会完成验证。
 
 验证通过后，会收到这样一封邮件，提示你已经验证成功，需要再到账户界面，完成最后一步绑定操作。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909569762_nmxndq.png)
+![嘉信理财入金从 0 到 1 教程：Wise 美元入金（配图 10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909569762_nmxndq.png)
 
 我们还是回到连接外部银行的界面，下面就有一个立即验证的按钮，点击它。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909630280_o4fx41.png)
+![嘉信理财入金从 0 到 1 教程：我们还是回到连接外部银行的界面，下面就有一个立即验证的按钮，点击它（配图 11）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909630280_o4fx41.png)
 
 接着，嘉信会提示我们有两笔存款和一笔取款，我们点击继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909638407_hb23lm.png)
+![嘉信理财入金从 0 到 1 教程：接着，嘉信会提示我们有两笔存款和一笔取款，我们点击继续（配图 12）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909638407_hb23lm.png)
 
 下面会让我们填写这几笔转账对应的金额。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909672356_yq19eb.png)
+![嘉信理财入金从 0 到 1 教程：下面会让我们填写这几笔转账对应的金额（配图 13）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909672356_yq19eb.png)
 
 这个时候就需要在 Wise App 上面查看了。
 
@@ -107,13 +111,13 @@
 
 填好之后，点击 continue。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909718601_r0vx6k.png)
+![嘉信理财入金从 0 到 1 教程：填好之后，点击 continue（配图 14）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909718601_r0vx6k.png)
 
 验证通过之后，接下来，我们就可以用这个 Wise 美元账户进行入金了。
 
 点击转移资金。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909738134_p99hcl.png)
+![嘉信理财入金从 0 到 1 教程：点击转移资金（配图 15）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909738134_p99hcl.png)
 
 然后选择仅现金，下面第一个账户，选择刚刚绑定好的 Wise 账户，第二个账户，就是我们的嘉信理财账户。
 
@@ -121,21 +125,21 @@
 
 频率就选择一次性。转账日期就是当天。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909756374_wdbslh.png)
+![嘉信理财入金从 0 到 1 教程：频率就选择一次性。转账日期就是当天（配图 16）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909756374_wdbslh.png)
 
 然后拉到下面，点击继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909772454_cn8pfs.png)
+![嘉信理财入金从 0 到 1 教程：然后拉到下面，点击继续（配图 17）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909772454_cn8pfs.png)
 
 确认一下转账的信息，点击提交。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909783571_qihcnp.png)
+![嘉信理财入金从 0 到 1 教程：确认一下转账的信息，点击提交（配图 18）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909783571_qihcnp.png)
 
 到此为止，我们就成功完成了 Wise 账户的绑定以及入金流程。
 
 Wise 入金的速度还是比较快的，大概过了几个小时之后，这笔钱就转入到嘉信理财账户中了。
 
-# 2. iFAST 英镑入金
+## 2. iFAST 英镑入金
 
 接下来，我们继续看 iFAST 英镑入金。
 
@@ -155,17 +159,17 @@ Wise 入金的速度还是比较快的，大概过了几个小时之后，这笔
 
 进入嘉信账户界面，选中上面的转账与支付，然后点击转移资金，再点击银行路径号码与直接付款。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909874175_9f5ryo.png)
+![嘉信理财入金从 0 到 1 教程：进入嘉信账户界面，选中上面的转账与支付，然后点击转移资金，再点击银行路径号码与直接付款（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909874175_9f5ryo.png)
 
 接着，我们点击下面的货币专用电汇指示。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909882785_5yiv6d.png)
+![嘉信理财入金从 0 到 1 教程：接着，我们点击下面的货币专用电汇指示（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909882785_5yiv6d.png)
 
 会弹出一个文件，这里会显示所有支持币种的本地汇款信息。
 
 我们找到 GBP，也就是英镑，就可以看到对应的转账信息。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909894190_spgxr7.png)
+![嘉信理财入金从 0 到 1 教程：iFAST 英镑入金（配图 3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780909894190_spgxr7.png)
 
 接下来，我们打开 iFAST 手机 App。
 
@@ -185,7 +189,7 @@ Wise 入金的速度还是比较快的，大概过了几个小时之后，这笔
 
 我们回到刚才银行路径号码与直接付款的界面，点击国际美元后面的国际电汇指示按钮，在最终收款人这里，您的姓名后面就是我们的8位数账号。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780910085433_labyil.png)
+![嘉信理财入金从 0 到 1 教程：iFAST 英镑入金（图 1–2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780910085433_labyil.png)
 
 如图 3 所示，在 iFAST App 中填好备注之后，往下拉，继续填写收款人信息。
 
@@ -199,13 +203,13 @@ Wise 入金的速度还是比较快的，大概过了几个小时之后，这笔
 
 如图 6 所示，然后就看到转账成功的提示了。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780910011201_axdez9.png)
+![嘉信理财入金从 0 到 1 教程：iFAST 英镑入金（图 3–6）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780910011201_axdez9.png)
 
 到此为止，我们就成功完成了 iFAST 英镑入金的全流程。
 
 实测下来，这个入金过程会比 Wise 入金慢一些，需要1-2个工作日的时间，但是同样没有任何手续费。
 
-# 3. 汇丰香港入金
+## 3. 汇丰香港入金
 
 接下来，我们继续看汇丰香港港币入金，和 iFAST 英镑入金的原理基本一致，同样都是转账给当地的花旗银行账户，只不过币种换成了港币。
 
@@ -215,7 +219,7 @@ Wise 入金的速度还是比较快的，大概过了几个小时之后，这笔
 
 在弹出来的文件中，找到港币汇款相关的信息，这里大家看到的信息都是完全相同的，
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780910364923_yx8iaw.png)
+![嘉信理财入金从 0 到 1 教程：汇丰香港入金（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780910364923_yx8iaw.png)
 
 接下来，打开汇丰香港的 App。
 
@@ -245,13 +249,13 @@ Wise 入金的速度还是比较快的，大概过了几个小时之后，这笔
 
 如图 7 所示，接下来，汇丰香港就会提示我们转账已经成功发起了。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780910443620_zc8l8t.png)
+![嘉信理财入金从 0 到 1 教程：汇丰香港入金（图 1–7）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780910443620_zc8l8t.png)
 
 到此为止，汇丰香港港币入金的流程就全部演示完了。
 
 它的入金到账速度，和 iFAST 银行差不多，也没有任何手续费。
 
-# 4. Bitget 钱包虚拟卡欧元入金
+## 4. Bitget 钱包虚拟卡欧元入金
 
 > 目前 Bitget 钱包虚拟卡已经暂停大陆用户开户，已经开过的朋友可以参考如下教程
 
@@ -285,7 +289,7 @@ Wise 入金的速度还是比较快的，大概过了几个小时之后，这笔
 
 如图 5 所示，选择 payout，然后点击 trading platforms。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780910733166_sx1c1d.png)
+![嘉信理财入金从 0 到 1 教程：Bitget 钱包虚拟卡欧元入金（图 1–5）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780910733166_sx1c1d.png)
 
 如图 6 所示，继续选择 broker，就可以看到盈透和嘉信这两个券商选项，我们点击下面的嘉信。
 
@@ -309,7 +313,7 @@ Wise 入金的速度还是比较快的，大概过了几个小时之后，这笔
 
 如图 9 所示，然后这笔钱就成功汇出了，大概 1 个工作日时间就可以到账。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780910784694_5rcm03.png)
+![嘉信理财入金从 0 到 1 教程：Bitget 钱包虚拟卡欧元入金（图 6–9）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1780910784694_5rcm03.png)
 
 ---
 

@@ -1,3 +1,7 @@
+# Giffgaff 英国手机卡教程：大陆用户无门槛开通
+
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/overseas-sim/text/giffgaff-uk-sim/) · [返回本分类](./README.md)
+
 有没有一张海外手机卡，不需要 KYC 实名认证，不需要借助 eSIM，开卡成本低，保号成本低。每年只需要花几块钱，就可以连续用几十年？
 
 这张手机卡就是英国的 giffgaff，又被称之为海外保号神卡。
@@ -35,7 +39,7 @@ giffgaff 是一家英国的虚拟移动运营商，背后是英国三大运营�
 
 最大的问题在于它没有电话客服，但如果你只有收发海外短信需求的话，基本上用不到客服。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773215931816_mvuhcd.jpg)
+![Giffgaff 英国手机卡教程（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773215931816_mvuhcd.jpg)
 
 在我拿到 giffgaff 卡之后，已经使用一周左右时间了。
 
@@ -59,7 +63,7 @@ giffgaff 是一家英国的虚拟移动运营商，背后是英国三大运营�
 
 大家可以自己结合实际情况评估一下，要不要购买激活这张英国手机卡。
 
-# 二、giffgaff 购买/激活流程
+## 二、giffgaff 购买/激活流程
 
 接下来，我再给大家详细演示一下 giffgaff 的购买和激活流程。
 
@@ -73,7 +77,7 @@ giffgaff 是一家英国的虚拟移动运营商，背后是英国三大运营�
 
 等卡片邮寄到家之后，大概是长这个样子，上面会有一个 Activation Code，就是我们之后要用到的激活码。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773216293693_5rzo5f.png)
+![Giffgaff 英国手机卡教程：giffgaff 购买/激活流程（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773216293693_5rzo5f.png)
 
 如图 1 所示，打开 Apple Store 或者 Google Play，下载安装 giffgaff App。
 
@@ -85,7 +89,7 @@ giffgaff 是一家英国的虚拟移动运营商，背后是英国三大运营�
 
 如图 5 所示，填写一下收到的邮箱验证码，点击 confirm。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773216567277_boa4sc.png)
+![Giffgaff 英国手机卡教程：giffgaff 购买/激活流程（图 1–5）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773216567277_boa4sc.png)
 
 如图 6 所示，输入一个密码，需要包含大小写字母和特殊字符，然后点击下面的 register 按钮。
 
@@ -99,7 +103,7 @@ giffgaff 是一家英国的虚拟移动运营商，背后是英国三大运营�
 
 如图 10 所示，输入实体手机卡上的激活码，点击 continue。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773216608685_edokp7.png)
+![Giffgaff 英国手机卡教程：giffgaff 购买/激活流程（图 6–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773216608685_edokp7.png)
 
 如图 11 所示，这里会让我们选择套餐，但如果只是保号、接受短信的话，我们不需要购买任何套餐，直接点击最下面的按钮，直接充钱就可以了。
 
@@ -113,7 +117,7 @@ giffgaff 是一家英国的虚拟移动运营商，背后是英国三大运营�
 
 如图 15 所示，这里我就使用 Credit or debit card。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773216700462_z4t3gq.png)
+![Giffgaff 英国手机卡教程：giffgaff 购买/激活流程（图 11–15）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773216700462_z4t3gq.png)
 
 如图 16 所示，勾选同意之后，点击 go to payment。
 
@@ -144,17 +148,17 @@ Cardholder‘s name 就是持卡人姓名。
 
 填完之后，点击下方的支付按钮。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773216777391_q7z19j.png)
+![Giffgaff 英国手机卡教程：giffgaff 购买/激活流程（图 16–20）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773216777391_q7z19j.png)
 
 如图 21/22 所示，giffgaff 提示需要等一小会儿时间，接着就成功激活好手机卡了。
 
 如图 23 所示，如果你把这张卡插到手机上的话，这个时候应该也会收到 giffgaff 给你发来的短信，上面也会有你的手机号。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773217450651_eitnoe.png)
+![Giffgaff 英国手机卡教程：giffgaff 购买/激活流程（图 21–23）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773217450651_eitnoe.png)
 
 到此为止，我们就成功完成了 giffgaff 手机卡的激活和充值流程，非常简单，10 分钟时间就可以成功搞定。
 
-# 三、giffgaff 注意事项
+## 三、giffgaff 注意事项
 
 最后还需要再给大家讲一下 giffgaff 手机卡相关的注意事项。
 
@@ -172,7 +176,7 @@ giffgaff 官方有一个条款，如果手机号在 6 个月时间内不做相�
 
 这些操作是：至少拨打一次电话，发送一次短信，至少使用一次流量，至少充值一次话费。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773217726187_tt3qec.png)
+![Giffgaff 英国手机卡教程：giffgaff 注意事项（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773217726187_tt3qec.png)
 
 根据 Giffgaff 的收费情况来看，发短信是成本最低的保号方式。
 

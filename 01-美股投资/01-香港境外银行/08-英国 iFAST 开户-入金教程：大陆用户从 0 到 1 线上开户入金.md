@@ -1,3 +1,7 @@
+# 英国 iFAST 开户-入金教程：大陆用户从 0 到 1 线上开户入金
+
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/hk-banks/text/ifast-bank/) · [返回本分类](./README.md)
+
 iFAST 奕丰环球银行，是一家英国数字银行，支持大陆用户使用身份证在线上开通，没有入金存款门槛，不收年费和管理费，而且支持内地银行转账汇款。
 
 如果你目前无法前往香港办理港卡，iFAST 是一个不错的备选方案。
@@ -22,7 +26,7 @@ iFAST 银行背后的公司是奕丰集团，一家新加坡上市公司，2000 
 
 所以一定要提前做好功课，做到心中有数，想清楚之后再去开户入金。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742372633_4c8hka.png)
+![英国 iFAST 开户-入金教程：iFAST 银行背景介绍（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742372633_4c8hka.png)
 
 ---
 
@@ -32,45 +36,45 @@ iFAST 银行背后的公司是奕丰集团，一家新加坡上市公司，2000 
 
 点击右上角语言按钮，切换为简体中文。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742422857_iohcsm.png)
+![英国 iFAST 开户-入金教程：点击右上角语言按钮，切换为简体中文（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742422857_iohcsm.png)
 
 点击右上角开户按钮。用户类型保持为个人申请人，点击开始。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742474525_rc1cvv.png)
+![英国 iFAST 开户-入金教程：点击右上角开户按钮。用户类型保持为个人申请人，点击开始（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742474525_rc1cvv.png)
 
 点击"不，我是奕丰的新用户"。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742527375_ej8yww.png)
+![英国 iFAST 开户-入金教程：点击"不，我是奕丰的新用户"（配图 3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742527375_ej8yww.png)
 
 继续点击我不是。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742585170_8pkpcq.png)
+![英国 iFAST 开户-入金教程：继续点击我不是（配图 4）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742585170_8pkpcq.png)
 
 注册界面输入你的电子邮箱地址、登录名和密码，点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742592737_fbsh3s.png)
+![英国 iFAST 开户-入金教程：注册界面输入你的电子邮箱地址、登录名和密码，点击下一步（配图 5）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742592737_fbsh3s.png)
 
 继续点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742607928_y3f6ke.png)
+![英国 iFAST 开户-入金教程：继续点击下一步（配图 6）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742607928_y3f6ke.png)
 
 国家地区选择中国 China，目前位置也是中国，点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742615658_1y82oq.png)
+![英国 iFAST 开户-入金教程：国家地区选择中国 China，目前位置也是中国，点击下一步（配图 7）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742615658_1y82oq.png)
 
 美国相关的标记，都选择没有就可以。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742624300_k94sja.png)
+![英国 iFAST 开户-入金教程：美国相关的标记，都选择没有就可以（配图 8）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742624300_k94sja.png)
 
 拉到底部，居住地区选择中国 China，纳税识别号填写你的大陆身份证号，点击保存并继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742630872_flhzsu.png)
+![英国 iFAST 开户-入金教程：拉到底部，居住地区选择中国 China，纳税识别号填写你的大陆身份证号，点击保存并继续（配图 9）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742630872_flhzsu.png)
 
 验证电子邮箱地址，填写手机号，+86 手机号也可以。
 
 个人信息这里，姓氏和名需要填写英文大写拼音。性别 Male 是男性，Female 是女性。证件类型选择 Identity Card，也就是身份证。其他信息如实填写。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742649935_jdfssb.png)
+![英国 iFAST 开户-入金教程：iFAST 银行开户流程（配图 10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742649935_jdfssb.png)
 
 往下拉，还有一部分个人信息需要填写中文，虽然有点奇怪，但按照要求来填写就好。
 
@@ -84,43 +88,43 @@ iFAST 银行背后的公司是奕丰集团，一家新加坡上市公司，2000 
 
 点击保存并继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742675968_k21euu.png)
+![英国 iFAST 开户-入金教程：点击保存并继续（配图 11）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742675968_k21euu.png)
 
 职业信息如实填写，注意需要用英文。不知道怎么写的话，还是用翻译软件把中文翻译为英文。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742704906_g9jzol.png)
+![英国 iFAST 开户-入金教程：职业信息如实填写，注意需要用英文。不知道怎么写的话，还是用翻译软件把中文翻译为英文（配图 12）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742704906_g9jzol.png)
 
 财务信息根据自己的实际情况填写。比如收入来源选择 Salary 和 Saving interest，意思是收入来自工资和银行存款利息，再填写大概金额。
 
 有一点需要额外注意，开户过程中填写的信息一定要记一下。最后一步会让你录制视频，随机问到一些问题，比如开户目的、居住地之类的信息，非常简单。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742748968_vzykms.png)
+![英国 iFAST 开户-入金教程：有一点需要额外注意，开户过程中填写的信息一定要记一下。最后一步会让你录制视频，随机问到一些问题，比如开户目的、居住地之类的信息，非常简单（配图 13）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742748968_vzykms.png)
 
 往下拉，会让你勾选是否持有加密货币。iFAST 这家银行经常用于币圈 USDT 的出入金，因为它支持合规交易所的提现，建议勾选是，方便以后 USDT 出金。
 
 点击保存并继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742764829_o7cpxu.png)
+![英国 iFAST 开户-入金教程：点击保存并继续（配图 14）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742764829_o7cpxu.png)
 
 开户原因选择 Savings/investment，意思是储蓄投资。第一笔存款、持续供资这些内容根据自己的实际情况来填写。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742800553_syq10h.png)
+![英国 iFAST 开户-入金教程：开户原因选择 Savings/investment，意思是储蓄投资。第一笔存款、持续供资这些内容根据自己的实际情况来填写（配图 15）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742800553_syq10h.png)
 
 勾选之后，点击保存并继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742874750_ub2g9f.png)
+![英国 iFAST 开户-入金教程：勾选之后，点击保存并继续（配图 16）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742874750_ub2g9f.png)
 
 确认刚才填写的信息，点击同意并继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742883086_jlijgc.png)
+![英国 iFAST 开户-入金教程：确认刚才填写的信息，点击同意并继续（配图 17）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742883086_jlijgc.png)
 
 把相关内容打开看一遍，再次点击同意并继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742896034_lbc38x.png)
+![英国 iFAST 开户-入金教程：把相关内容打开看一遍，再次点击同意并继续（配图 18）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742896034_lbc38x.png)
 
 继续做身份认证，勾选点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742924391_npwpko.png)
+![英国 iFAST 开户-入金教程：继续做身份认证，勾选点击下一步（配图 19）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742924391_npwpko.png)
 
 选择国家为中国，准备好你的大陆身份证，点击下一步。
 
@@ -128,7 +132,7 @@ iFAST 银行背后的公司是奕丰集团，一家新加坡上市公司，2000 
 
 如果没有，需要下载 iFAST 的 App，在手机上完成最后的认证操作。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742971704_un38fy.png)
+![英国 iFAST 开户-入金教程：iFAST 银行开户流程（配图 20）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776742971704_un38fy.png)
 
 如图 1 所示，打开 Apple Store 或 Google Play，搜索 iFAST 并下载。
 
@@ -144,7 +148,7 @@ iFAST 银行背后的公司是奕丰集团，一家新加坡上市公司，2000 
 
 如图 9/10 所示，选择国家为中国，文件类型为身份证，点击下一步，拍身份证照片，网页会提示已收到证件。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776743177672_bol8m4.png)
+![英国 iFAST 开户-入金教程：iFAST 银行开户流程（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776743177672_bol8m4.png)
 
 如图 11 所示，第二步需要提交居住证明，可以用你的银行信用卡账单、水电煤气账单、网费账单，我这里用的是招商银行卡账单。
 
@@ -158,11 +162,11 @@ iFAST 银行背后的公司是奕丰集团，一家新加坡上市公司，2000 
 
 如图 15 所示，视频验证完成后，会显示开户申请编号。接下来耐心等待就可以了，过程中注意查收邮件，有可能会让补充信息。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776743245913_93feo9.png)
+![英国 iFAST 开户-入金教程：iFAST 银行开户流程（图 11–15）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776743245913_93feo9.png)
 
 开户申请通过后，会收到一封欢迎邮件。我当时大概等了 3 个工作日左右，还是挺快的。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776743756546_19gvtp.png)
+![英国 iFAST 开户-入金教程：iFAST 银行开户流程（配图 23）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776743756546_19gvtp.png)
 
 如图 16/17 所示，开好 iFAST 账户后，通过手机登录 iFAST 银行，注册一下保安编码器。
 
@@ -172,7 +176,7 @@ iFAST 银行背后的公司是奕丰集团，一家新加坡上市公司，2000 
 
 如图 20 所示，首笔入金存款必须来自本人名下的账户，也就是同名转账汇款。首笔存款没有最低金额要求，汇多少都可以激活 iFAST。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776744161991_jhz418.png)
+![英国 iFAST 开户-入金教程：iFAST 银行开户流程（图 16–20）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776744161991_jhz418.png)
 
 ---
 
@@ -204,13 +208,13 @@ iFAST 银行背后的公司是奕丰集团，一家新加坡上市公司，2000 
 
 如图 10 所示，收款人英文地址，直接在 Google 上搜索英国伦敦酒店，随便找一个酒店，将地址复制粘贴过去。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776744586047_l0u23j.png)
+![英国 iFAST 开户-入金教程：内地银行入金 iFAST（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776744586047_l0u23j.png)
 
 常驻国家选择英国，收款行 SWIFT 代码直接复制粘贴 iFAST 提供的 SWIFT 代码。
 
 收款行名称和地址会自动显示出来，选填内容不需要填。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776744483525_q8dkiv.png)
+![英国 iFAST 开户-入金教程：内地银行入金 iFAST（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776744483525_q8dkiv.png)
 
 如图 11 所示，确认转账信息，点击确认转账。
 
@@ -222,7 +226,8 @@ iFAST 银行背后的公司是奕丰集团，一家新加坡上市公司，2000 
 
 如果需要使用 iFAST 大额入金美股券商，从内地银行到 iFAST 银行的手续费是不可避免的。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776744473063_1bpe3l.png)
+![英国 iFAST 开户-入金教程：内地银行入金 iFAST（图 11–12）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776744473063_1bpe3l.png)
+
 ---
 
 ## 四、Wise 入金 iFAST
@@ -255,11 +260,11 @@ iFAST 入金激活没有金额要求，我只换了不到 6 英镑。
 
 如图 10 所示，这笔钱就成功从 Wise 汇出了。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776744703208_2zklg1.png)
+![英国 iFAST 开户-入金教程：Wise 入金 iFAST（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776744703208_2zklg1.png)
 
 到账用了多长时间呢？Wise 汇出时间是晚上 11 点 58 分，到账是第二天上午 11 点 23 分，大概半天左右。可能因为汇出时间太晚，如果在工作日白天汇出，应该会更快。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776744795169_zixcxc.png)
+![英国 iFAST 开户-入金教程：Wise 入金 iFAST（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776744795169_zixcxc.png)
 
 ---
 

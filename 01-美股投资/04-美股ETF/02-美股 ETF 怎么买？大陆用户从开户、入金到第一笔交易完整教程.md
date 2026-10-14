@@ -1,5 +1,7 @@
 # 美股 ETF 怎么买？大陆用户从开户、入金到下单完整教程
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/us-etf/text/how-to-buy-your-first-us-etf/) · [返回本分类](./README.md)
+
 在上一篇教程中，我们详细讲解了关于 ETF 的一些基础知识概念。
 
 <01-美股 ETF 是什么？为什么普通人更适合从 ETF 开始投资.md>
@@ -14,9 +16,8 @@
 
 其实非常简单。接下来，我们就一步步看看如何操作。
 
-::after-hook
 
-# 0. 美股 ETF 可以通过哪些渠道购买？
+## 0. 美股 ETF 可以通过哪些渠道购买？
 
 对内地投资者来说，投资美股 ETF 通常有两条路径。
 
@@ -34,7 +35,7 @@
 
 > 关于如何查询 QDII 基金购买额度，可以使用[投资工具「QDII 额度宝」](https://invest-nav.com/tools/qdii-quota/)：
 
-# 1. 开户篇：如何选择券商？
+## 1. 开户篇：如何选择券商？
 
 还记得几个月之前，我专门出过一期大陆用户美股券商 101 指南，给大家详细讲解过各大美股券商的对比。[大陆用户美股券商 101 指南](../02-美股券商/README.md)
 
@@ -64,7 +65,7 @@
 
 > 至于演示中涉及到的 ETF 是什么、如何筛选适合自己的 ETF，在后续 ETF 系列教程中我们还会详细讲到。
 
-# 2. 嘉信理财
+## 2. 嘉信理财
 
 嘉信理财是美国本土的券商，UI 界面以及操作流程会相对复杂一些。
 
@@ -113,7 +114,7 @@
 
 ![Frame 436](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1788526673842_vstylw.png)
 
-# 3. 复星券商
+## 3. 复星券商
 
 如图 1 所示，打开复星券商 App，点击右上角搜索框。
 
@@ -145,7 +146,7 @@
 
 ![Frame 440](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1788526708202_5sdhld.png)
 
-# 4. BIT 券商
+## 4. BIT 券商
 
 如图 1 所示，打开 BIT 券商 App，点击左侧或者右下角的美股按钮，进入美股交易界面。
 
@@ -177,7 +178,7 @@
 
 ![Frame 439](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1788526688030_x6nf7k.png)
 
-# 5. 写在最后
+## 5. 写在最后
 
 其实从 0 到 1 买入第一支美股 ETF，并没有大家想象中那么复杂。
 

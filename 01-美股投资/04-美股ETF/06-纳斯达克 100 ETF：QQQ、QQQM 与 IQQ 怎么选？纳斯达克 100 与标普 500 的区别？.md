@@ -1,5 +1,7 @@
 # 纳斯达克 100 ETF：QQQ、QQQM 与 IQQ 怎么选？
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/us-etf/text/nasdaq-qqq-qqqm-qqqm/) · [返回本分类](./README.md)
+
 上一篇，我们比较了 VOO、IVV、SPY 和 SPYM。接下来，我们再继续看纳斯达克 100。
 
 同样都是纳指 ETF，QQQ、QQQM、IQQ 这三只 ETF 到底应该如何选择？

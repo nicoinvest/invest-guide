@@ -1,5 +1,7 @@
 # 支付宝买美股基金教程：QDII 指数基金 + 美债基金最全攻略	
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/qdii-funds/text/alipay-qdii-funds/) · [返回本分类](./README.md)
+
 有很多朋友都在问我如何在支付宝基金投资美股和美债。今天我就统一出一期教程，一次性把支付宝基金投资的事情说清楚。
 
 支付宝投资美股/美债，看这一篇教程就足够！
@@ -31,7 +33,7 @@
 
 我们投资支付宝美股基金，具体应该投资什么基金产品呢？当你在支付宝上搜索“标普 500”的话，会出现很多基金产品，如下图所示：
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2024-09-14-alipay-index-fund-1_1753293954027.jpeg)
+![支付宝买美股基金教程：支付宝美股基金投资篇（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2024-09-14-alipay-index-fund-1_1753293954027.jpeg)
 
 **但是我们在购买时，只需要认准“标普500ETF”与“纳斯达克100ETF”，其它任何基金都不要考虑。**
 
@@ -60,13 +62,13 @@
 
 支付宝投资美债的选择性则相对少很多，当我们在支付宝基金中搜索“美债”时，出现的基金产品基本都是带有“美元债债券”的字样，如下图所示：
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2024-09-14-alipay-index-fund-2_1753293954727.jpeg)
+![支付宝买美股基金教程：支付宝投资美债的选择性则相对少很多，当我们在支付宝基金中搜索“美债”时，出现的基金产品基本都是带有“美元债债券”的字样，如下图所示：（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2024-09-14-alipay-index-fund-2_1753293954727.jpeg)
 
 这就意味着我们无法选择投资具体的短期美债、中期美债或是长期美债，因为支付宝的美债基金是把各种美债打包在一起，组成了这样一种“美元债券基金”。
 
 在这一部分，我们以“中银美元债债券”作为例子，详细说一下这个基金都包含哪些成分。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2024-09-14-alipay-index-fund-3_1753293955877.jpeg)
+![支付宝买美股基金教程：支付宝美债基金投资篇（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2024-09-14-alipay-index-fund-3_1753293955877.jpeg)
 
 大家可以看到债券名称都差不多，我们以其中一个举例。
 
@@ -86,7 +88,7 @@
 
 我们以博时标普 500 ETF 联接举例。在支付宝基金中搜索“博时标普 500 ETF”，点击进入页面后，右下角有一个“定投”按钮。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2024-09-14-alipay-index-fund-4_1753293956383.jpeg)
+![支付宝买美股基金教程：我们以博时标普 500 ETF 联接举例。在支付宝基金中搜索“博时标普 500 ETF”，点击进入页面后，右下角有一个“定投”按钮（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2024-09-14-alipay-index-fund-4_1753293956383.jpeg)
 
 点击进入定投界面，设置好定投金额、付款方式、定投周期就可以轻松开始定投啦～
 

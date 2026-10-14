@@ -1,5 +1,7 @@
 # 以太坊是什么？ETH、智能合约与 Web3 生态入门
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/crypto-basics/text/what-is-ethereum-smart-contracts/) · [返回本分类](./README.md)
+
 上一篇讲了比特币，它是价值存储工具、数字黄金，拥有极强的市场共识。
 
 而这一篇要讲的以太坊，它的定位以及所要解决的问题，与比特币完全不同。

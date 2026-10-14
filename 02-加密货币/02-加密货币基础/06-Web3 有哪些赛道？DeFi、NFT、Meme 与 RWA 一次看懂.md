@@ -1,5 +1,7 @@
 # Web3 有哪些赛道？DeFi、NFT、Meme 与 RWA 一次看懂
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/crypto-basics/text/web3-sectors-defi-nft-meme-rwa/) · [返回本分类](./README.md)
+
 前面几篇讲的是单个资产。这一篇我们退一步，看看 Web3 这个行业整体上有哪些方向哪些赛道。
 
 最近几年随着 Web3 的发展，涌现出了非常多的热门赛道，如果要挨个讲解一遍的话，可能三天三夜都说不完。所以我大概列一下几个主流赛道，并挑选其中最值得关注的赛道，详细和大家分享一下我的见解。

@@ -1,5 +1,7 @@
 # SafePal 入金美股券商教程：无需港卡用 USDT 入金盈透/长桥	
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/us-brokers/text/safepal-fund-broker/) · [返回本分类](./README.md)
+
 如果你目前没有港卡，而且因为主观或者客观原因，无法立即前往香港办理银行账户，可以使用 SafePal 入金美股券商、投资美股。
 
 因为 SafePal 在开通之后，会有一个个人 IBAN 同名账户，通过它就可以入金美股券商。
@@ -13,7 +15,7 @@ https://youtu.be/yicj78fT_i8?si=8SNfwejes4JeCZnl
 
 在今天这篇推文教程中，我会从 0 到 1 详细演示如何使用 SafePal 入金长桥券商！
 
-# 1. 入金三步原理
+## 1. 入金三步原理
 
 SafePal 的真正优势在于，将 Web3 世界和传统金融世界融合在了一起，通过它我们可以丝滑地在币圈和传统金融世界之间来回切换。
 
@@ -29,7 +31,7 @@ SafePal 的真正优势在于，将 Web3 世界和传统金融世界融合在了
 
 如果你听不太懂的话也没有关系，在接下来的具体操作中，我会一步步演示。
 
-# 2. USDC 充值到 SafePal
+## 2. USDC 充值到 SafePal
 
 1. 如图 1 所示，打开 SafePal App，点击上方的Coin，然后点击收款按钮。
 2. 如图 2 所示，找到 USDC Arbitrum，点击它。
@@ -65,9 +67,9 @@ SafePal 的真正优势在于，将 Web3 世界和传统金融世界融合在了
 
 到此为止，我们就完成了第一步充值操作，第二步就是换汇。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-07-08-safepal-longbridge-2_1753293958258.png)
+![SafePal 入金美股券商教程：USDC 充值到 SafePal（图 1–13）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-07-08-safepal-longbridge-2_1753293958258.png)
 
-# 3. SafePal 换汇
+## 3. SafePal 换汇
 
 1. 如图 1 所示，回到 SafePal App 中，点击上方的 Bank 按钮，再点击中间的充值按钮。
 2. 如图 2 所示，需要将刚才充值的 200 USDC，全部转换为欧元，因为目前 SafePal 只支持欧元的跨境汇款操作。
@@ -79,9 +81,9 @@ SafePal 的真正优势在于，将 Web3 世界和传统金融世界融合在了
 
 到此为止，我们就已经完成了入金美股券商的所有前置流程。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-07-08-safepal-longbridge-3_1753293959161.png)
+![SafePal 入金美股券商教程：SafePal 换汇（图 1–4）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-07-08-safepal-longbridge-3_1753293959161.png)
 
-# 4. SafePal 汇款到 Wise 账户
+## 4. SafePal 汇款到 Wise 账户
 
 这里我们需要借助 Wise 钱包来中转一下，将欧元转换为新币，入金到新加坡长桥券商中，这个操作过程不会特别复杂。
 
@@ -114,9 +116,9 @@ https://activity.lbmkt.ing/pages/longbridge/7415/index.html?app_id=longbridge&or
 
 到此为止，我们就成功将欧元从 SafePal 转入到了 Wise 钱包中。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-07-08-safepal-longbridge-4_1753293960010.png)
+![SafePal 入金美股券商教程：SafePal 汇款到 Wise 账户（图 1–12）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-07-08-safepal-longbridge-4_1753293960010.png)
 
-# 5. Wise 入金新加坡长桥
+## 5. Wise 入金新加坡长桥
 
 1. 如图 1 所示，我们将 Wise 账户中的欧元转换为新加坡币，点击兑换按钮。
 2. 如图 2、3 所示，将这 80 欧元兑换为新币。
@@ -132,7 +134,7 @@ https://activity.lbmkt.ing/pages/longbridge/7415/index.html?app_id=longbridge&or
 12. 如图 13 所示，往下拉，我们还需要填写一下汇款参考信息，也就是刚才长桥券商中的备注，复制粘贴过来就可以。点击“确认并汇款”。
 13. 如图 14 所示，切回到长桥app的时候，它就已经提示入金成功了，速度非常快，基本上是秒级到账。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-07-08-safepal-longbridge-5_1753293960797.png)
+![SafePal 入金美股券商教程：Wise 入金新加坡长桥（图 1–14）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-07-08-safepal-longbridge-5_1753293960797.png)
 
 接下来我们的操作空间就很大了，你可以选择继续在新加坡长桥券商中购买美股，也可以选择使用长桥内部的资金划转功能，将这部分新币划转到香港长桥券商账户中，这个划转是不收取任何手续费的。
 

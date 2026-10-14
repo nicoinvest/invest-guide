@@ -1,5 +1,7 @@
 # Robinhood 股票 Meme 为什么火了？看懂股票代币、AI/NVDA 与 BONER/HIMS
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/crypto-basics/text/tokenized-stocks-stock-meme/) · [返回本分类](./README.md)
+
 最近 Robinhood Chain 上出现了一个很有意思的现象。大家用来兑换 Meme 币的资产里，开始出现英伟达、Hims & Hers 这些公司的股票代币。两种资产组成的兑换市场，就叫交易对。
 
 比如 Artificial Inu 的 AI/NVDA，以及 BONER/HIMS。一个是社区发行的 Meme，一个是与现实公司股价相关的资产，两边被放进同一个交易池，形成了新的交易玩法。

@@ -1,5 +1,7 @@
 # 嘉信理财出金教程：跨境汇款出金香港银行、ACH 转账 Wise 美元账户
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-withdrawal/) · [返回本分类](./README.md)
+
 ![嘉信理财出金教程封面](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/charles-schwab-withdrawal/2026-10-05-c012165d2d56/cover.webp)
 
 嘉信理财美股券商如何出金？手续费磨损是多少？到账时间多久？整个过程中有哪些注意事项？还有就是，嘉信理财的借记卡，大陆用户到底能不能申请？这篇教程，我会从 0 到 1，把以上这些问题，一次性说清楚。
@@ -11,7 +13,7 @@
 ![嘉信理财通过国际电汇转入香港银行，或通过 ACH 转入 Wise 美元账户](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/charles-schwab-withdrawal/2026-10-05-c012165d2d56/fig-01.webp)
 
 
-# 1. 国际电汇出金到香港银行
+## 1. 国际电汇出金到香港银行
 
 首先我们先来看第一种方式，从嘉信理财发起国际电汇，将账户中的美元现金，转入到你自己的香港银行账户。这里大家需要注意一点，不能直接从嘉信理财出金到内地银行，大概率会被拒收。接下来，我就给大家演示一下具体的出金流程。
 
@@ -83,7 +85,7 @@
 
 最后我们做个简单的总结，嘉信理财电汇出金的单笔手续费是固定的，也就是说，你单次出金的金额越大，算下来的手续费比例就越低。所以说，这套方案比较适合大额出金。
 
-# 2. ACH 转账出金到 Wise
+## 2. ACH 转账出金到 Wise
 
 接下来，我们继续看第二种出金方案，通过美国本土的 ACH 转账，将嘉信理财账户中的美元，转入到 Wise 的美元账户。ACH 就是一种美国银行账户之间的本地电子转账方式，一般不收取手续费，到账速度也非常快。
 
@@ -131,7 +133,7 @@
 
 ![嘉信理财转往美国本土银行的路线示意](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/charles-schwab-withdrawal/2026-10-05-c012165d2d56/fig-29.webp)
 
-# 3. 嘉信理财借记卡
+## 3. 嘉信理财借记卡
 
 在教程的最后，我再给大家简单说一下嘉信理财的借记卡。很多朋友对这张卡感兴趣，是因为它可以直接使用股票账户里面的现金消费，也能在全球各地的 ATM 上面取现。
 

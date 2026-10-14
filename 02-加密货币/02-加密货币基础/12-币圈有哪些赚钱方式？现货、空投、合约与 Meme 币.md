@@ -1,5 +1,7 @@
 # 币圈有哪些赚钱方式？现货、空投、合约与 Meme 币
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/crypto-basics/text/crypto-profit-methods-spot-airdrop-futures-meme/) · [返回本分类](./README.md)
+
 前面讲完了四篇热门赛道专题和项目投研方法。这一篇讲大家最感兴趣的部分，币圈到底有哪些赚钱的路子。
 
 一期教程不可能把所有赚钱门道的细节都具体讲一遍，我在这里带大家系统性地梳理一遍。从我自身的经验来看，我认为普通人在币圈当中，有这么 4 个主流的赚钱方法，分别是现货投资、打新撸空投、合约交易、链上打土狗。

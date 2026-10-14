@@ -1,8 +1,12 @@
+# 大陆用户香港必做的 4 件事：港卡｜香港手机卡｜美股券商｜Gmail 邮箱
+
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/hk-banks/text/mainland-hongkong-bank-sim-brokers-gmail/) · [返回本分类](./README.md)
+
 去一趟香港，建议一次性把这四件事全部搞定，这样一来你的全球资产配置工具就基本齐全了。
 
 ---
 
-# 一、开通香港银行卡
+## 一、开通香港银行卡
 
 这是最重要的一件事。没有港卡，后面的券商开户、跨境汇款、资金流转、全球资产配置走不通。
 
@@ -12,7 +16,7 @@
 > 
 > 之后我会单独写一篇文章，详细对比各大银行出金到内地的手续费率。
 
-## 汇丰香港
+### 汇丰香港
 
 我的主力账户，跨境汇款、美股券商出入金、接收海外资金，基本都用汇丰。
 
@@ -26,9 +30,9 @@
 
 额外需要注意一点，2026 年开始汇丰对余额低于 1 万港币的账户收每月 100 港币管理费，开了之后记得存点钱进去。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775816062971_13ig0g.png)
+![大陆用户香港必做的 4 件事：汇丰香港（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775816062971_13ig0g.png)
 
-## 中银香港
+### 中银香港
 
 最大的优势是和内地中国银行无缝衔接，转账零手续费，资金往来最方便。
 
@@ -40,9 +44,9 @@
 
 如果你在线上开户的话，最后的用户名和密码一定要记好。忘了用户名只能本人再去一趟香港线下网点重置，远程没法处理。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775816117853_tdq8qk.png)
+![大陆用户香港必做的 4 件事：中银香港（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775816117853_tdq8qk.png)
 
-## 众安银行
+### 众安银行
 
 虚拟银行，没有线下网点，所有操作都在 App 上完成。
 
@@ -52,9 +56,9 @@
 
 众安有消费返现返股票的活动，适合绑定微信或支付宝完成小额消费，顺便薅羊毛。App 体验在所有港卡里最好。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775816077212_hwgum1.png)
+![大陆用户香港必做的 4 件事：众安银行（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775816077212_hwgum1.png)
 
-## 蚂蚁银行
+### 蚂蚁银行
 
 开户要求和众安基本相同，都是线上 App 操纵，很简单。
 
@@ -62,9 +66,9 @@
 
 出金到内地支付宝秒级到账，固定 25 港币手续费。搭配香港支付宝还可以在美团、淘宝上消费，没有手续费，只有汇率损耗。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775816132946_xuggqt.png)
+![大陆用户香港必做的 4 件事：蚂蚁银行（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775816132946_xuggqt.png)
 
-## 天星银行
+### 天星银行
 
 要求和蚂蚁众安都是一样的。
 
@@ -76,9 +80,9 @@
 
 如果你要大额出金到内地的话，这三家虚拟银行，天星是最佳选择。过几天我会出实测对比文章。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775990597509_gyoz4r.jpg)
+![大陆用户香港必做的 4 件事：如果你要大额出金到内地的话，这三家虚拟银行，天星是最佳选择。过几天我会出实测对比文章（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775990597509_gyoz4r.jpg)
 
-## 五张卡的配置
+### 五张卡的配置
 
 汇丰 → 主力账户，全球资金流转和投资入金
 
@@ -98,7 +102,7 @@
 
 ---
 
-# 二、办一张香港手机号
+## 二、办一张香港手机号
 
 办香港手机号，这个确实不需要强制在香港操作，但最好在香港一并搞定。
 
@@ -117,7 +121,7 @@
 [Club SIM 文字教程](<../../03-出入金与资金流转/02-海外电话卡/01-Xesim + Club SIM：大陆用户获取海外手机号实操教程.md>)
 Club SIM 视频教程 https://youtu.be/cDqBZ3ylqcA?si=XoajDvzdobimb2R1
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775816151221_esnurg.png)
+![大陆用户香港必做的 4 件事：办一张香港手机号（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775816151221_esnurg.png)
 
 备选 GiffGaff 英国号。
 
@@ -131,11 +135,11 @@ Club SIM 视频教程 https://youtu.be/cDqBZ3ylqcA?si=XoajDvzdobimb2R1
 
 [GiffGaff 文字教程](<../../03-出入金与资金流转/02-海外电话卡/02-Giffgaff 英国手机卡教程：大陆用户无门槛开通.md>)
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775816176401_comha0.png)
+![大陆用户香港必做的 4 件事：办一张香港手机号（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775816176401_comha0.png)
 
 ---
 
-# 三、开通美股券商
+## 三、开通美股券商
 
 开券商，在内地或者香港都可以操作。但如果要入金的话，还是必须搭配香港银行卡。
 
@@ -147,7 +151,7 @@ Club SIM 视频教程 https://youtu.be/cDqBZ3ylqcA?si=XoajDvzdobimb2R1
 
 ---
 
-# 四、用香港 IP 注册 Gmail 邮箱
+## 四、用香港 IP 注册 Gmail 邮箱
 
 这一步很多人会忽略，但其实挺有用的，人在香港，用香港本地网络，100% 可以注册成功。
 

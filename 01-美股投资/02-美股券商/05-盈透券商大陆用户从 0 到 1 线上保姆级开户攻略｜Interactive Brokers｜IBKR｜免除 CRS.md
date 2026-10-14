@@ -1,3 +1,7 @@
+# 盈透券商大陆用户从 0 到 1 线上保姆级开户攻略｜Interactive Brokers｜IBKR｜免除 CRS
+
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/us-brokers/text/ibkr-account/) · [返回本分类](./README.md)
+
 提到投资美股，盈透是很多人心目中的第一券商，历史悠久，覆盖全球市场，交易成本低，这些都是它广为人知 的优点。
 
 但是盈透的开户流程也确实比较繁琐，而且对于大陆用户来说，有一个很大的门槛，需要境外地址证明。
@@ -8,7 +12,7 @@
 
 ---
 
-# 一、什么是盈透证券？
+## 一、什么是盈透证券？
 
 还是按照之前的惯例，先给大家简单介绍一下盈透券商。
 
@@ -26,7 +30,7 @@
 
 第二个优势是它的交易成本低。盈透虽然不是像嘉信一样完全没有手续费，但是整体的佣金水平相对比较低。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778077897388_jbqsin.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：什么是盈透证券？（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778077897388_jbqsin.png)
 
 第三个优势就是安全性，这一点不必多说，盈透这种老牌券商，受到的监管是非常严格的，用它来投资交易很靠谱。
 
@@ -46,7 +50,7 @@
 
 不过你可以只用盈透完成下单交易，看盘盯盘的话就用香港券商 App 就可以。
 
-# 二、开户前的准备清单
+## 二、开户前的准备清单
 
 在开户之前，大家需要准备好两样东西。
 
@@ -54,7 +58,7 @@
 
 另外一个是境外地址证明，这个等讲到后面的时候，我会告诉大家对应的解决方案。
 
-# 三、从 0 到 1 开户流程
+## 三、从 0 到 1 开户流程
 
 接下来，我就给大家详细演示一下盈透券商的开户流程。
 
@@ -64,11 +68,11 @@
 
 进入界面之后，点击下面的 Open Account。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078098569_ixtslt.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：进入界面之后，点击下面的 Open Account（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078098569_ixtslt.png)
 
 然后点击右上角的语言标识，切换到中文。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078112958_g2blfc.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：然后点击右上角的语言标识，切换到中文（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078112958_g2blfc.png)
 
 接着，输入你的电子邮箱地址、用户名、密码。
 
@@ -76,25 +80,25 @@
 
 下面国家地区选择中国，勾选条款。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078120627_nftnvl.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：下面国家地区选择中国，勾选条款（配图 3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078120627_nftnvl.png)
 
 然后它这里会弹出针对中国大陆用户的提示，要求必须提供海外地址证明。我们点击继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078142978_gryqm0.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：然后它这里会弹出针对中国大陆用户的提示，要求必须提供海外地址证明。我们点击继续（配图 4）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078142978_gryqm0.png)
 
 上面会有一个确认电子邮箱的提示，我们点击确认。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078174817_hibkw3.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：上面会有一个确认电子邮箱的提示，我们点击确认（配图 5）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078174817_hibkw3.png)
 
 邮箱里会收到一个确认码，填写到输入框里，完成确认就好。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078188794_uip535.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：邮箱里会收到一个确认码，填写到输入框里，完成确认就好（配图 6）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078188794_uip535.png)
 
 账户类型我们就选择个人账户。
 
 拉到底部，语言选择简体中文，点击开始申请。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078196217_k0v8wp.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：拉到底部，语言选择简体中文，点击开始申请（配图 7）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078196217_k0v8wp.png)
 
 姓氏和名字，就正常输入你中文的姓和名，不需要英文拼音。
 
@@ -102,17 +106,17 @@
 
 填写完之后点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078209974_hssali.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：填写完之后点击下一步（配图 8）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078209974_hssali.png)
 
 接下来就是填写你英文拼音的姓氏和名字。
 
 填好后点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078219277_p82q5y.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：填好后点击下一步（配图 9）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078219277_p82q5y.png)
 
 出生日期如实填写，和你身份证上面的要保持一致。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078227828_kbuqww.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：出生日期如实填写，和你身份证上面的要保持一致（配图 10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078227828_kbuqww.png)
 
 居住地址这里，填写你身份证上的地址，只填写第一行就好，精确到省市区街道小区门牌号。
 
@@ -122,29 +126,29 @@
 
 都填好之后，点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078251767_tyj8c0.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：都填好之后，点击下一步（配图 11）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078251767_tyj8c0.png)
 
 主要国籍信息选择中国，点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078282662_inx0xn.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：主要国籍信息选择中国，点击下一步（配图 12）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078282662_inx0xn.png)
 
 电话号码对应的国家代码选择 CN，也就是+86，输入你的手机号，点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078288231_szw6zl.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：电话号码对应的国家代码选择 CN，也就是+86，输入你的手机号，点击下一步（配图 13）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078288231_szw6zl.png)
 
 然后接受一下手机验证码，盈透不存在大陆手机号收不到验证码的问题，很方便。点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078293113_tydab5.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：然后接受一下手机验证码，盈透不存在大陆手机号收不到验证码的问题，很方便。点击下一步（配图 14）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078293113_tydab5.png)
 
 基础货币选择美元，点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078317405_of75ra.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：基础货币选择美元，点击下一步（配图 15）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078317405_of75ra.png)
 
 雇佣情况最好选择受雇，最好不要选择自由职业，可能涉及到额外审核。
 
 下面的选择否，点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078330480_mx0rd4.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：下面的选择否，点击下一步（配图 16）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078330480_mx0rd4.png)
 
 然后就是填写雇佣公司情况，公司名称、业务性质、职业这些信息正常填写一下就可以，盈透不会具体调查。
 
@@ -152,39 +156,39 @@
 
 都填完之后，点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078350197_dd1tub.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：都填完之后，点击下一步（配图 17）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078350197_dd1tub.png)
 
 接着必须的监管信息，就是问你是不是某个公司的股东或者管理层，直接选择否，点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078360573_717yrl.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：接着必须的监管信息，就是问你是不是某个公司的股东或者管理层，直接选择否，点击下一步（配图 18）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078360573_717yrl.png)
 
 财富来源根据实际情况勾选一下，一般就是工作收入、市场投资交易、利息股息收入这几项，点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078371230_zmsmel.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：财富来源根据实际情况勾选一下，一般就是工作收入、市场投资交易、利息股息收入这几项，点击下一步（配图 19）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078371230_zmsmel.png)
 
 账户类型这里，不要按照图上的选保证金，最好先选择现金账户，因为我看到有些人说如果选择保证金、期权账户的话，可能会涉及到额外人工审核。
 
 如果你后续需要使用券商margin融资功能的话，等你开户成功之后，再升级到保证金账户，也是没问题的。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078381096_8bvx5f.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：从 0 到 1 开户流程（配图 20）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078381096_8bvx5f.png)
 
 收入和资产净值根据实际情况填写，你可以稍微填高一些。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078387759_mz4na3.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：收入和资产净值根据实际情况填写，你可以稍微填高一些（配图 21）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078387759_mz4na3.png)
 
 投资目标就选择资产保值和增长。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078396575_hxxjgg.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：投资目标就选择资产保值和增长（配图 22）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078396575_hxxjgg.png)
 
 交易许可这里，我们只选择股票。
 
 期权、预测市场、债券、期货都不要选，点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078405500_kui91d.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：期权、预测市场、债券、期货都不要选，点击下一步（配图 23）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078405500_kui91d.png)
 
 投资经验就根据自己实际情况选择。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078424297_wa6o4u.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：投资经验就根据自己实际情况选择（配图 24）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078424297_wa6o4u.png)
 
 然后这里盈透让你选是否要出借股票赚取收益，这个就是盈透的**股票收益提升计划**。
 
@@ -200,51 +204,51 @@
 
 我这里选择勾选参与，大家根据自己情况决定。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078458369_su25wp.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：我这里选择勾选参与，大家根据自己情况决定（配图 25）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078458369_su25wp.png)
 
 下面就是安全问题，根据自己实际情况设置一下，找回密码的时候用得到。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078471614_uevbdo.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：下面就是安全问题，根据自己实际情况设置一下，找回密码的时候用得到（配图 26）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078471614_uevbdo.png)
 
 通过什么途径得知的IBKR，我们就勾选推荐项目。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078479527_1h7no5.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：通过什么途径得知的IBKR，我们就勾选推荐项目（配图 27）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078479527_1h7no5.png)
 
 税务信息这里，婚姻情况、家属人数如实填写，居住地选择中国，纳税识别号就是你的身份证号，点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078491823_uh5v1b.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：税务信息这里，婚姻情况、家属人数如实填写，居住地选择中国，纳税识别号就是你的身份证号，点击下一步（配图 28）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078491823_uh5v1b.png)
 
 身份证件签发国家选择中国，证件类型按照图上的选，就是身份证，证件号码就是身份证号码，有效期如实填写，点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078513474_tdcscj.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：身份证件签发国家选择中国，证件类型按照图上的选，就是身份证，证件号码就是身份证号码，有效期如实填写，点击下一步（配图 29）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078513474_tdcscj.png)
 
 然后确认信息是否填写正确，没问题就点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078520840_fnsoug.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：然后确认信息是否填写正确，没问题就点击下一步（配图 30）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078520840_fnsoug.png)
 
 接着勾选一下上面两个条款，都选择是。下面把你的姓名按照格式输进去，点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078533195_w0732e.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：接着勾选一下上面两个条款，都选择是。下面把你的姓名按照格式输进去，点击下一步（配图 31）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078533195_w0732e.png)
 
 然后就到了协议披露的环节，全都勾选同意，然后往下拉，和刚才一样签名，点击提交。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078542262_c59ami.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：然后就到了协议披露的环节，全都勾选同意，然后往下拉，和刚才一样签名，点击提交（配图 32）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078542262_c59ami.png)
 
 然后盈透会提示你还需要更多的信息，我们点击继续申请。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078558793_uu2mqv.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：然后盈透会提示你还需要更多的信息，我们点击继续申请（配图 33）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078558793_uu2mqv.png)
 
 这里其实就已经完成主体的开户申请流程了，但是还有两个必做项。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078575333_00rj2b.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：从 0 到 1 开户流程（配图 34）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078575333_00rj2b.png)
 
 一个是回答问题，很简单，我们直接选择是，然后点击继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078581285_z0uz6n.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：一个是回答问题，很简单，我们直接选择是，然后点击继续（配图 35）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078581285_z0uz6n.png)
 
 剩下的就是提交海外地址证明了，我们点击上传文件。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078600861_ksa63y.png)
+![盈透券商大陆用户从 0 到 1 线上保姆级开户攻略：剩下的就是提交海外地址证明了，我们点击上传文件（配图 36）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778078600861_ksa63y.png)
 
 目前我已知的办法有两个，一个是使用国内的个税单，但是这个的通过概率并不是百分之百，有些人能过，有些过不了，目前还找不到具体的原因，可能是遇到了人工审核，被直接拒绝了。
 

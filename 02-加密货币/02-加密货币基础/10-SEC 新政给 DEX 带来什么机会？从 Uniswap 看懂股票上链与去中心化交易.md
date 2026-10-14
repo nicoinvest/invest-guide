@@ -1,5 +1,7 @@
 # SEC 新政给 DEX 带来什么机会？从 Uniswap 看懂股票上链与去中心化交易
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/crypto-basics/text/uniswap-sec-tokenized-stocks-guide/) · [返回本分类](./README.md)
+
 今年 9 月 17 日，SEC 发布了一项与链上股票交易有关的创新豁免。符合条件的交易场所，可以用自动做市和流动性池的方式，让代币化股票在链上交易。
 
 对一直关注 DeFi 的朋友来说，这个变化很值得研究。过去 Uniswap 这类产品主要用来换币，现在传统证券也开始为类似的交易机制寻找合规路径。

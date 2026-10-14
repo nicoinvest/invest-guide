@@ -1,5 +1,7 @@
 # 美股 ETF 是什么？为什么普通人更适合从 ETF 开始投资
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/us-etf/text/what-is-us-etf/) · [返回本分类](./README.md)
+
 很多人第一次接触美股投资，最先听到的通常不是苹果、英伟达或者特斯拉，而是 VOO、SPY、QQQ 这些代码。
 
 有人会告诉你，买 VOO 就相当于买入美国最优秀的 500 家上市公司；买 QQQ 就相当于押注美国科技巨头；如果不懂选股，长期定投 ETF 就可以了。
@@ -14,7 +16,6 @@ ETF 为什么可以买卖？一只 ETF 里面装了什么？ETF、股票、基�
 >
 > 预计这个系列可能会有 10+ 篇教程，欢迎大家持续关注。
 
-::after-hook
 
 ## 1. ETF 到底是什么？
 

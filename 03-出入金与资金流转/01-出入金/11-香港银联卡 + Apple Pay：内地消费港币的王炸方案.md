@@ -1,3 +1,7 @@
+# 香港银联卡 + Apple Pay：内地消费港币的王炸方案
+
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/fund-transfer/text/hk-unionpay-apple-pay/) · [返回本分类](./README.md)
+
 有港卡的朋友，真的没必要太过于纠结出金这件事。
 
 如果出金是为了消费，那能用港卡直接消费搞定的问题，就没必要出金。
@@ -6,7 +10,7 @@
 
 这基本上涵盖了日常衣食住行的绝大多数场景。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774352239003_2voajd.png)
+![香港银联卡 + Apple Pay（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774352239003_2voajd.png)
 
 具体看看 Apple Pay + 港卡的消费注意事项：
 
@@ -33,7 +37,7 @@ Apple Pay 消费本身是不收额外手续费的，关键还是在于银行本�
 
 所以说，一部苹果手机，开通 Apple Pay，绑定香港的银联卡，把港币换成离岸人民币，就是内地王炸级的港币消费方案。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774352251517_gk1q68.png)
+![香港银联卡 + Apple Pay（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774352251517_gk1q68.png)
 
 --- 
 

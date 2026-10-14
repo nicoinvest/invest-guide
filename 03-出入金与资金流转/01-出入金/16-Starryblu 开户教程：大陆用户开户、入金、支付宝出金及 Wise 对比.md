@@ -1,5 +1,7 @@
 # Starryblu 开户教程：大陆用户开户、入金、支付宝出金及 Wise 对比
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/fund-transfer/text/starryblu-account-transfer-guide/) · [返回本分类](./README.md)
+
 有这样一个多币种钱包，大陆用户使用真实资料，就可以直接在线上完成开户。
 
 它可以接收港币和新币，可以把账户里的钱汇到内地银行卡、微信或者支付宝，也可以像微信一样，在国内线下扫码付款。
@@ -14,7 +16,7 @@
 
 今天这篇教程，我会一次性讲清楚 Starryblu 背后的公司、开户流程、港币和新币入金、支付宝出金、线下消费、万事达卡、优缺点，以及它到底能不能替代 Wise。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784641686906_cwjei0.png)
+![Starryblu 开户教程（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784641686906_cwjei0.png)
 
 
 ---
@@ -33,7 +35,7 @@ Starryblu 的运营主体叫做 Wotransfer，是一家新加坡金融科技公�
 
 它主要解决香港、新加坡等境外资金汇回内地的问题。比如把香港银行里的港币汇到内地银行卡或者支付宝，整个流程比传统国际电汇更加方便。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784641670460_r41eum.png)
+![Starryblu 开户教程：Starryblu 背后的公司到底靠不靠谱？（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784641670460_r41eum.png)
 
 所以这里需要区分一下：Starryblu 本身是一个新产品，运营时间还很短；但它背后的公司和跨境支付系统并不是从零开始，熊猫速汇已经替它跑过了很多年的跨境汇款业务。
 
@@ -53,7 +55,7 @@ MAS 官网列出的许可业务，包括账户发行、境内转账、跨境转�
 
 但是它毕竟是一个新产品。刚开始使用时，我还是建议大家先抱着试一试的态度，把它当成一个备用的资金流转工具，不要一上来就放太多钱。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784641700641_aqckju.jpg)
+![Starryblu 开户教程：Starryblu 背后的公司到底靠不靠谱？（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784641700641_aqckju.jpg)
 
 ## 二、Starryblu 是什么？和 Wise 有什么区别？
 
@@ -123,7 +125,7 @@ Starryblu 本质上还是一个多币种电子钱包。我们看到的 OCBC 收�
 
 如图 10 所示，找一个光线明亮的地方，按照 App 给出的示例拍摄护照资料页。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784643213475_znlgej.png)
+![Starryblu 开户教程：Starryblu 从 0 到 1 开户流程（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784643213475_znlgej.png)
 
 如图 11/12 所示，拍摄完成后点击下一步，继续按照画面提示完成人脸识别。
 
@@ -143,7 +145,7 @@ Starryblu 本质上还是一个多币种电子钱包。我们看到的 OCBC 收�
 
 到此为止，开户流程就全部完成了。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784643400670_f8lwpu.png)
+![Starryblu 开户教程：Starryblu 从 0 到 1 开户流程（图 11–18）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784643400670_f8lwpu.png)
 
 ## 四、Starryblu 港币入金流程
 
@@ -159,7 +161,7 @@ Starryblu 本质上还是一个多币种电子钱包。我们看到的 OCBC 收�
 
 我测试过使用兴业银行发起跨境汇款，但银行页面提示业务涉及敏感字眼，没有成功汇出。这个问题可能和银行审核、汇款信息或者当时通道有关，之后有机会我会继续测试其他内地银行，有经验的朋友也可以在评论区交流一下。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784644283122_6v1al3.png)
+![Starryblu 开户教程：Starryblu 港币入金流程（图 1–5）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784644283122_6v1al3.png)
 
 如图 6 所示，接下来点击地区切换按钮，把国家或地区切换到中国香港。
 
@@ -171,7 +173,7 @@ Starryblu 本质上还是一个多币种电子钱包。我们看到的 OCBC 收�
 
 如图 10 所示，点击确认。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784643763840_p1d3nq.png)
+![Starryblu 开户教程：Starryblu 港币入金流程（图 6–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784643763840_p1d3nq.png)
 
 如图 11 所示，确认页面显示，账户实际到账 100 港币，手续费为 0。确认后，App 会弹出三个重要提示：
 
@@ -203,7 +205,7 @@ Starryblu 本质上还是一个多币种电子钱包。我们看到的 OCBC 收�
 
 到此为止，港币入金流程就全部完成了。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784644307877_98m7rt.png)
+![Starryblu 开户教程：Starryblu 港币入金流程（图 11–19）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784644307877_98m7rt.png)
 
 ## 五、Starryblu 新币入金流程
 
@@ -227,7 +229,7 @@ Starryblu 本质上还是一个多币种电子钱包。我们看到的 OCBC 收�
 
 如图 9/10 所示，基本上也是同一时间，Starryblu 就提示 20 新币充值成功。进入新币钱包后，可以看到对应的入金记录。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784644578751_cvv7ej.png)
+![Starryblu 开户教程：Starryblu 新币入金流程（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784644578751_cvv7ej.png)
 
 除了港币和新币，Starryblu 还支持美元、欧元和英镑等币种。
 
@@ -271,7 +273,7 @@ Starryblu 本质上还是一个多币种电子钱包。我们看到的 OCBC 收�
 
 以后港币回国，我们又多了一个方案可以选择。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784644748472_5yahji.png)
+![Starryblu 开户教程：Starryblu 出金到支付宝（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784644748472_5yahji.png)
 
 ## 七、Starryblu 线下扫码消费
 
@@ -293,7 +295,7 @@ Starryblu 本质上还是一个多币种电子钱包。我们看到的 OCBC 收�
 
 不过新用户 20 新币消费券，可以抵消掉不少小额消费的汇率差。如果你平时会在内地使用港币或新币消费，这个功能还是挺实用的。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784645689376_9hhsdr.png)
+![Starryblu 开户教程：Starryblu 线下扫码消费（图 1–6）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784645689376_9hhsdr.png)
 
 ## 八、Starryblu 万事达虚拟卡和实体卡
 
@@ -337,7 +339,7 @@ Starryblu 本质上还是一个多币种电子钱包。我们看到的 OCBC 收�
 
 如图 10 所示，然后重新回到微信，点击完成，这张卡就成功绑定了。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784646732324_gko0gu.png)
+![Starryblu 开户教程：绑卡消费实测（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784646732324_gko0gu.png)
 
 我使用这张虚拟卡在美团上点了一单外卖，支付 35.98 元。Starryblu 扣款 6.44 新币，再加上消费券抵扣，实际使用体验还是挺丝滑的。
 
@@ -345,7 +347,7 @@ Starryblu 本质上还是一个多币种电子钱包。我们看到的 OCBC 收�
 
 所以一般还是建议大家优先使用 Starryblu 内置的扫码消费功能。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784646705582_mfawr0.png)
+![Starryblu 开户教程：绑卡消费实测（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784646705582_mfawr0.png)
 
 ### 2. 申请 Starryblu 实体卡
 
@@ -375,7 +377,7 @@ Starryblu 本质上还是一个多币种电子钱包。我们看到的 OCBC 收�
 
 如图 10 所示，接下来就是选择靓号，大家选一个自己喜欢的就可以。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784646900423_3frq94.png)
+![Starryblu 开户教程：申请 Starryblu 实体卡（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784646900423_3frq94.png)
 
 如图 11 所示，需要注意的一点是，更换靓号之后，原来领取的虚拟卡就暂时失效了，我们需要重新绑定新的卡。
 
@@ -389,7 +391,7 @@ Starryblu 本质上还是一个多币种电子钱包。我们看到的 OCBC 收�
 
 如果大家对于这张实体卡感兴趣的话，可以在评论区留言告诉我。等它邮寄到家之后，我会开箱给大家实测一下具体的线下消费、ATM 取款对应的手续费率。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784647237095_tjrtbx.png)
+![Starryblu 开户教程：申请 Starryblu 实体卡（图 11–16）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1784647237095_tjrtbx.png)
 
 ## 九、Starryblu 实测优缺点
 

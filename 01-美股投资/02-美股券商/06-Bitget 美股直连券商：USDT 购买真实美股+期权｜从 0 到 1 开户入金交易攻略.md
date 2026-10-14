@@ -1,5 +1,7 @@
 # Bitget 美股直连券商：USDT 购买真实美股+期权｜从 0 到 1 开户入金交易攻略
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/us-brokers/text/bitget-us-stock/) · [返回本分类](./README.md)
+
 最近 Bitget 直连美股券商功能正式上线了，在加密交易所中，可以直接购买到真实的美国股票，而非美股代币，享受完整的股东权益。
 
 它背后接入的是美国持牌券商，订单直接送到纳斯达克和纽交所撮合成交。
@@ -10,7 +12,7 @@
 
 ---
 
-# 1. Bitget 介绍
+## 1. Bitget 介绍
 
 在开始实操之前，我们还是按照惯例，给大家简单介绍一下 Bitget 这家公司。
 
@@ -24,9 +26,9 @@
 
 而今年 Bitget 在美股板块的布局则更加深入，上个月的时候，Bitget 正式把美股业务升级到了 2.0 版本，从原来单一的美股代币，升级成了一整套美股产品矩阵。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783400277422_26dhs2.png)
+![Bitget 美股直连券商：Bitget 介绍（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783400277422_26dhs2.png)
 
-# 2. Bitget 美股产品矩阵
+## 2. Bitget 美股产品矩阵
 
 1️⃣ rToken 现货
 
@@ -68,7 +70,7 @@ Bitget 考虑到这一点，又做了进一步的升级，推出了美股 2.0 �
 
 如果你想要长期投资、长期持有的话，那我会比较推荐刚才提到的真实美股直连，它是最接近传统券商的一种方案，在实际体验层面，基本等同于传统美股券商。
 
-# 3. Bitget 美股直连合规架构
+## 3. Bitget 美股直连合规架构
 
 Bitget 美股券商这块业务，是由它集团旗下的一个主体来提供的，这家公司叫 Parsa Financial Services。Parsa 是一家南非的持牌金融服务机构，持有南非的金融牌照，受南非金融行业行为监管局，也就是 FSCA 的监管。
 
@@ -88,7 +90,7 @@ Bitget 深度合作的，是两家美国持牌券商，一家叫 RQD Clearing，
 
 所以从合规架构层面来看，Bitget 直连美股券商的安全保障，已经做到了接近传统券商的水平。
 
-# 4. Bitget 注册和实名认证
+## 4. Bitget 注册和实名认证
 
 聊完了这套美股方案的背景以及合规架构，接下来我们就正式进入实操环节。
 
@@ -118,7 +120,7 @@ Bitget 深度合作的，是两家美国持牌券商，一家叫 RQD Clearing，
 
 如图 9/10 所示，居住国家和证件发行地都选中国。证件类型默认是身份证，你也可以用护照或者大陆驾照，我这里就用身份证演示。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783400598094_u8zuv6.png)
+![Bitget 美股直连券商：Bitget 注册和实名认证（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783400598094_u8zuv6.png)
 
 如图 11/12 所示，找一个光线好的地方，扫描身份证的正反面，然后完成人脸识别。
 
@@ -126,9 +128,9 @@ Bitget 深度合作的，是两家美国持牌券商，一家叫 RQD Clearing，
 
 到这里，Bitget 交易所的注册和实名就全部搞定了。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783400603139_xb8j22.png)
+![Bitget 美股直连券商：Bitget 注册和实名认证（图 11–13）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783400603139_xb8j22.png)
 
-# 5. Bitget 美股券商开通
+## 5. Bitget 美股券商开通
 
 交易所账户准备好之后，开通它的美股账户其实非常快。因为它会直接复用你刚才做好的实名认证信息，不需要你重新提交一遍资料。
 
@@ -156,7 +158,7 @@ Bitget 深度合作的，是两家美国持牌券商，一家叫 RQD Clearing，
 
 如图 10 所示，把这六个全都勾选一遍，点击同意并继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783401021177_xx23la.png)
+![Bitget 美股直连券商：Bitget 美股券商开通（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783401021177_xx23la.png)
 
 如图 11 所示，开户申请就成功提交了，大概几分钟时间就会通过，非常快。
 
@@ -166,9 +168,9 @@ Bitget 深度合作的，是两家美国持牌券商，一家叫 RQD Clearing，
 
 它和你的加密资产账户是分开管理的，你需要先把稳定币 USDC 从现货账户划转到证券账户，划转过程中会直接把 USDC 1：1 兑换为美元，没有任何损耗。这里我的账户中已经有 USDC 了，就可以直接划转。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783401115784_rezs2p.png)
+![Bitget 美股直连券商：Bitget 美股券商开通（图 11–13）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783401115784_rezs2p.png)
 
-# 6. Bitget 入金
+## 6. Bitget 入金
 
 很多朋友可能第一次使用 Bitget 交易所，不知道怎么入金，这里我就给大家详细演示一下入金的具体流程。
 
@@ -176,7 +178,7 @@ Bitget 美股账户，最终是用美元和 USDC 来结算的，但是一般我�
 
 整体思路是这样的，先用人民币买到 USDT，再把 USDT 转入到 Bitget，最后在平台内部换成 USDC，划转到 Bitget 美股账户。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783401439822_4q34g3.png)
+![Bitget 美股直连券商：Bitget 入金（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783401439822_4q34g3.png)
 
 我们一步一步看看，先解决从哪里购买 USDT 的问题。
 
@@ -218,7 +220,7 @@ C2C 就是用户和用户之间点对点交易。你用支付宝、微信或者�
 
 一旦选错的话，这笔钱可能就永远找不回来了，新手朋友一定要谨慎一些。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783401773233_a1e0ul.png)
+![Bitget 美股直连券商：Bitget 入金（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783401773233_a1e0ul.png)
 
 如图 11 所示，把刚才 Bitget 复制的地址粘贴进来，点击下一步。
 
@@ -242,9 +244,9 @@ C2C 就是用户和用户之间点对点交易。你用支付宝、微信或者�
 
 当然，加密货币的出金方式非常多，网站之前也介绍过很多种出金方案，感兴趣的朋友可以去看看：../../03-出入金与资金流转/01-出入金/README.md
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783401829361_blbmyw.png)
+![Bitget 美股直连券商：Bitget 入金（图 11–20）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783401829361_blbmyw.png)
 
-# 7. 🔥 Bitget 入金交易转仓专属活动
+## 7. 🔥 Bitget 入金交易转仓专属活动
 
 Bitget 美股直连券商新用户专属活动，7.31 截止。
 
@@ -272,9 +274,9 @@ Bitget 美股直连券商新用户专属活动，7.31 截止。
 
 入金和转仓的第一档奖励是当月发放，其它档位奖励分三期发放，每期发放奖励总额的三分之一，发放时间分别为完成任务后的 30/60/90 天。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783400935000_a4oiy1.png)
+![Bitget 美股直连券商：🔥 Bitget 入金交易转仓专属活动（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1783400935000_a4oiy1.png)
 
-# 7. Bitget 美股手续费率
+## 7. Bitget 美股手续费率
 
 一般情况下，收费标准是 0.1%。
 
@@ -296,7 +298,7 @@ Bitget 美股直连券商新用户专属活动，7.31 截止。
 
 此外就是股息税的问题，对于中国大陆用户来说，享受税收最惠国的待遇，股息分红的税率是 10%。
 
-# 8. 总结
+## 8. 总结
 
 到此为止，关于 Bitget 美股的产品介绍、合规框架、开户、入金以及手续费率等所有大家需要知道的基础内容，就全部讲完了。
 

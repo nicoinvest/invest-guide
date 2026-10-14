@@ -1,3 +1,7 @@
+# 招商银行 QDII 基金投资-理财教程：美股基金实操攻略
+
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/qdii-funds/text/cmb-qdii-funds/) · [返回本分类](./README.md)
+
 提到 QDII 美股基金，大家第一时间想到的可能是支付宝基金平台。
 
 但在目前标普纳指限购严重的情况下，在支付宝上面做定投可能会比较麻烦。
@@ -16,7 +20,7 @@
 
 提前声明：投资有风险，入市需谨慎。以下所有内容均不构成对于你的投资建议，请在独立思考后作出你的投资决定。
 
-# 一、招商银行 QDII 基金
+## 一、招商银行 QDII 基金
 
 这一部分主要给大家演示一下如何在招商银行定投美股 QDII 基金。
 
@@ -35,7 +39,7 @@
 如图 5 所示，输入买入金额，设置定投账户、定投间隔。因为我们是在招商银行投资，所以必须得有招商银行的账户。
 
 接下来勾选协议、提交、确认、输入密码，定投就设置好了，其实非常简单。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772633198873_hq7t58.png)
+![招商银行 QDII 基金投资-理财教程：招商银行 QDII 基金（图 1–5）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772633198873_hq7t58.png)
 
 大家最关心的问题可能还是收益率和费率。
 
@@ -51,7 +55,7 @@
 
 每个人的投资观念不同、资产情况不同、风险偏好不同，最后做出的投资决策也会不同。建议大家无论是投资基金、ETF还是个股，在独立思考、想清楚之后再做出投资决定。
 
-# 二、招商银行 QDII 额度查询
+## 二、招商银行 QDII 额度查询
 
 招商银行对于 QDII 基金投资党来说，最宝藏的一个功能就是 QDII 额度宝，能够一目了然地看到全部 QDII 基金的每日限额情况。
 
@@ -66,9 +70,9 @@
 这里大家可以发现，招商银行还提供了美元计价的 QDII 基金，每天可以购买的额度更高。
 
 如果你有美元外汇的话，可以选择暂时不结汇，而是买入这类基金。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772633243538_u6c6bm.png)
+![招商银行 QDII 基金投资-理财教程：招商银行 QDII 额度查询（图 1–2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772633243538_u6c6bm.png)
 
-# 三、招商银行美元活期理财
+## 三、招商银行美元活期理财
 
 这一部分主要讲讲美元活期理财。
 
@@ -89,7 +93,7 @@
 如图 3 所示，一进入界面，就可以看到美元理财产品。我们选择“美元日日开”，这个属于 R1 低风险，稍后我们会说到其中的原理。
 
 如图 4 所示，点击购买。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772633291011_7ht3fw.png)
+![招商银行 QDII 基金投资-理财教程：招商银行美元活期理财（图 1–4）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772633291011_7ht3fw.png)
 
 整体流程非常简单，但一定要清楚地知道注意事项， 才是最重要的，接下来就给大家详细说说。
 
@@ -135,9 +139,9 @@
 这里还需要提到一点，除了汇率波动之外，你还需要综合考虑买入/卖出/持有过程中的手续费损耗，判断是否值得用美元理财。
 
 对于我自己来说，我有一部分 Youtube 频道给的视频激励收入，每个月定时打入到招商银行的外汇账户中，属于闲置的美元资金，会持续投入到美元活期理财产品中。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772633355641_pdmgki.png)
+![招商银行 QDII 基金投资-理财教程：招商银行美元活期理财（图 1–4）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772633355641_pdmgki.png)
 
-# 四、其他经验分享
+## 四、其他经验分享
 
 很多新手朋友在刚开始做投资的时候，很容易被银行中一些所谓的高收益产品所吸引。
 

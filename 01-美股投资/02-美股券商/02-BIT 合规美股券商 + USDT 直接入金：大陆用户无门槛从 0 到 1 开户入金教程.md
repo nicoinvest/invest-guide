@@ -1,3 +1,7 @@
+# BIT 合规美股券商 + USDT 直接入金：大陆用户无门槛从 0 到 1 开户入金教程
+
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/us-brokers/text/bit-broker-matrixport-open-account/) · [返回本分类](./README.md)
+
 大概一个多月之前，我听说 Matrixport 这家币圈交易所平台，上线了美股交易功能。
 
 一开始我以为也是类似其它交易所推出的美股代币。
@@ -16,11 +20,10 @@
 
 今天这篇教程，我会一次性说清楚 BIT 基本介绍、合规性、开户流程、入金流程以及相关的美股交易手续费率。
 
-::after-hook
 
-# 一、BIT 介绍与合规性
+## 一、BIT 介绍与合规性
 
-## 1. BIT 介绍
+### 1. BIT 介绍
 
 BIT 的前身是 Matrixport，2019 年在新加坡成立，创始人是吴忌寒，公司已经有七年历史了。
 
@@ -34,7 +37,7 @@ BIT 的前身是 Matrixport，2019 年在新加坡成立，创始人是吴忌寒
 
 而我们今天要讲的核心内容，是 BIT 最近几个月正式官宣的新功能，美股交易。
 
-## 2. 合规牌照
+### 2. 合规牌照
 
 BIT 目前已经拿到了多个国家和地区的金融牌照，如图所示。
 
@@ -42,9 +45,9 @@ BIT 目前已经拿到了多个国家和地区的金融牌照，如图所示。
 
 说实话，能拿到这么多牌照的平台并不多。尤其是瑞士 FINMA、英国 FCA、新加坡 MAS 这几个，在全球金融监管体系里都属于比较严格的，有一定含金量。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775981729076_bzitqv.png)
+![BIT 合规美股券商 + USDT 直接入金：合规牌照（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775981729076_bzitqv.png)
 
-## 3. 美股交易的合规架构
+### 3. 美股交易的合规架构
 
 我觉得这部分应该是大家最关心的地方，涉及到了资产安全的问题，我来详细拆解一下 BIT 美股交易背后的合规架构。
 
@@ -64,7 +67,7 @@ BIT平台上所有的美股交易，最终都是通过在美国持牌的券商�
 
 最底层就是我们普通用户。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775981763141_dtav35.jpg)
+![BIT 合规美股券商 + USDT 直接入金：美股交易的合规架构（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775981763141_dtav35.jpg)
 
 用户的钱是否能够得到保障，主要看资产隔离，即使平台破产倒闭，我们用户的钱还是能够拿回来，这是最关键的。
 
@@ -74,7 +77,7 @@ BIT 平台的用户资产是独立于公司运营资金托管的。买的股票�
 
 所以说，在这家平台投资交易美股，资金安全还是挺有保障的，已经是传统美股券商的保障力度了。
 
-## 4. 和传统券商的区别
+### 4. 和传统券商的区别
 
 传统券商，比如长桥或者盈透，需要有海外地址证明或者身份证明才可以正常开户，需要你有境外银行账户才能入金。如果想用 USDT 入金，需要提供各种资产证明，要求非常严格。
 
@@ -86,7 +89,7 @@ BIT 平台的用户资产是独立于公司运营资金托管的。买的股票�
 
 而且 BIT 目前的美股交易功能，基本可以对标传统券商，包括盘前盘中盘后交易、碎股交易、支持交易个股 + 各类  等。
 
-# 二、BIT 开户流程
+## 二、BIT 开户流程
 
 如图 1 所示，打开如下专属邀请链接 https://www.bit.com/zh/us-stock-intro?invite_code=nico
 
@@ -128,7 +131,7 @@ BIT 平台的用户资产是独立于公司运营资金托管的。买的股票�
 
 如图 10 所示，点击下方的开通美股账户。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775981778877_a9k0pp.png)
+![BIT 合规美股券商 + USDT 直接入金：BIT 开户流程（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775981778877_a9k0pp.png)
 
 如图 11 所示，勾选个人。
 
@@ -148,7 +151,7 @@ BIT 平台的用户资产是独立于公司运营资金托管的。买的股票�
 
 如图 20 所示，确认一下扫描出来的信息是否正确，点击下一步。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775981791008_rlbgof.png)
+![BIT 合规美股券商 + USDT 直接入金：BIT 开户流程（图 11–20）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775981791008_rlbgof.png)
 
 接下来一步是提交地址证明，这里直接提交身份证就可以。当然你也可以提交国内银行卡最近 6 个月的对账单，也没有问题，并非海外地址证明。
 
@@ -176,9 +179,9 @@ BIT 平台的用户资产是独立于公司运营资金托管的。买的股票�
 
 如图 30 所示，提交成功，等待开户审核，最多一个工作日时间就成功通过了，BIT 会发邮件提醒你。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775981804424_dc8w8a.png)
+![BIT 合规美股券商 + USDT 直接入金：BIT 开户流程（图 21–30）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775981804424_dc8w8a.png)
 
-# 三、BIT 入金流程
+## 三、BIT 入金流程
 
 开户通过之后，入金也非常简单，通过链上转账的方式，将 USDT 入金到 BIT 平台。
 
@@ -206,7 +209,7 @@ BIT 平台的用户资产是独立于公司运营资金托管的。买的股票�
 
 如图 10 所示，点击确定。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775981821508_9zecr6.png)
+![BIT 合规美股券商 + USDT 直接入金：BIT 入金流程（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775981821508_9zecr6.png)
 
 如图 11 所示，发送成功。
 
@@ -234,10 +237,10 @@ BIT 平台的用户资产是独立于公司运营资金托管的。买的股票�
 
 我用了一个月下来，使用体验确实挺丝滑的。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775981829526_k2jg7r.png)
+![BIT 合规美股券商 + USDT 直接入金：BIT 入金流程（图 11–20）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1775981829526_k2jg7r.png)
 
 
-# 四、BIT 手续费率
+## 四、BIT 手续费率
 
 我们再简单总结一下 BIT 美股手续费率，和长桥的收费标准基本一致。
 
@@ -251,7 +254,7 @@ BIT 平台的用户资产是独立于公司运营资金托管的。买的股票�
 
 **综合审计跟踪费用：** 0.000053 USD/股。
 
-# 五、写在最后
+## 五、写在最后
 
 目前大陆用户想投资交易美股个股/ETF，主流的方式有两种。
 

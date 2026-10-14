@@ -1,5 +1,7 @@
 # 稳定币是什么？USDT、USDC 如何维持美元价格？
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/crypto-basics/text/what-are-stablecoins-usdt-usdc/) · [返回本分类](./README.md)
+
 前面三篇讲的是比特币和以太坊，它们的价格都在大幅波动。
 
 这一篇讲的资产正好相反，它的价格几乎不动，却承担着整个加密市场的资金入口。

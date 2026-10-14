@@ -1,5 +1,7 @@
 # Bybit Card + 香港支付宝出金 USDT 教程：大陆用户实操
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/fund-transfer/text/bybit-card-alipay-withdraw/) · [返回本分类](./README.md)
+
 最近，很多朋友应该都按照我的教程，一步步成功开通了 Bybit 虚拟卡。这张卡是万事达卡，可以绑定到大陆支付宝中，在大陆 App 上完成付款，比如淘宝、美团、抖音等。
 
 在大陆使用 Bybit 虚拟卡完成日常消费是没什么问题的，但是无法直接出金 USDT。
@@ -59,7 +61,7 @@
 
 16. 如图 16 所示，我们进入到香港支付宝的信用卡界面，就可以看到当前已经成功绑定了这张 Bybit 万事达卡。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1753912714353_70n6o6.jpeg)
+![Bybit Card + 香港支付宝出金 USDT 教程：注册绑卡篇（图 1–16）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1753912714353_70n6o6.jpeg)
 
 
 ## 2. 出金篇
@@ -78,7 +80,7 @@
 
 5. 如图 8 所示，我的大陆支付宝也成功收到了这笔 299 元的付款。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1753913034010_cmhqbg.jpeg)
+![Bybit Card + 香港支付宝出金 USDT 教程：出金篇（图 1、2、5、6、7、8）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1753913034010_cmhqbg.jpeg)
 
 ## 3. 汇率篇
 
@@ -96,7 +98,7 @@
 
 不过如果 Bybit Card 的消费返现额度用完之后，整体算下来的汇率就会差一些，这一点大家需要额外注意。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1753912974798_wp7uo1.jpeg)
+![Bybit Card + 香港支付宝出金 USDT 教程：汇率篇（图 1–3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1753912974798_wp7uo1.jpeg)
 
 ## 4. 额度篇
 
@@ -109,7 +111,7 @@ Bybit Card 搭配香港支付宝出金其实是有额度的，我们从图中可
 所以，我们可以用多个手机号，注册多个香港支付宝，并绑定同一张 Bybit Card，每个香港支付宝账号的额度不共享，这样就可以提高出金额度了。
 
 不过据说一张卡只能绑定 3 个香港支付宝，你手机号多的话可以去实测看看～
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1753913152058_iwag8k.jpeg)
+![Bybit Card + 香港支付宝出金 USDT 教程：额度篇（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1753913152058_iwag8k.jpeg)
 
 
 如果你在注册香港支付宝、绑定 Bybit Card、出金过程中遇到任何问题，可以加入我的电报群，与群友交流，我也会在群中解答问题：https://t.me/nicoinvestmentfriends

@@ -1,5 +1,7 @@
 # 定投标普 500、纳斯达克 100：场外 QDII、境内 ETF 和美股 ETF 怎么选？
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/qdii-funds/text/sp500-nasdaq-dca-investment-channels/) · [返回本分类](./README.md)
+
 很多朋友在刚开始定投美股指数基金的时候，心里总有一个疑惑：到底应该定投场外 QDII 基金，还是 A 股场内的 ETF，又或者是直接去美股券商投资 VOO、QQQ 这类 ETF？
 
 今天这篇教程，我就给大家一次性对比清楚其中的优缺点。

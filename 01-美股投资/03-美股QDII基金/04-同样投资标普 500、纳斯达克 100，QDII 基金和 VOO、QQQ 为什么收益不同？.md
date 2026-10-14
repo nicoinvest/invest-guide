@@ -1,5 +1,7 @@
 # 同样投资标普 500、纳斯达克 100，QDII 基金和 VOO、QQQ 为什么收益不同？
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/qdii-funds/text/qdii-vs-us-etf-return-differences/) · [返回本分类](./README.md)
+
 在投资国内 QDII 基金的过程中，我发现一个问题：同样是定投标普 500 和纳斯达克 100，为什么我买的 QDII 基金，和 VOO、QQQ 显示出来的收益率，会有这么大的差距？
 
 我专门按照同样的定投金额、同样的时间节奏，用工具测算过在美股券商上定投 VOO 或者 QQQ 的情况。当时显示的收益率，比我定投 QDII 基金的收益率高出不少。

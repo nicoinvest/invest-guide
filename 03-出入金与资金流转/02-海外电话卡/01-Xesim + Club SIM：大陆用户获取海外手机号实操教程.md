@@ -1,3 +1,7 @@
+# Xesim + Club SIM：大陆用户获取海外手机号实操教程
+
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/overseas-sim/text/xesim-club-sim/) · [返回本分类](./README.md)
+
 国产苹果安卓手机，如何接受海外短信验证码，使用海外流量，突破内地通信局域网的限制？
 
 答案是 Xesim + Club Sim，为你的国产手机轻松插上 eSIM 翅膀，轻松拥有第一个海外手机号。
@@ -6,7 +10,7 @@
 
 本期教程对应 Youtube 视频链接（更详细全面，文字教程遇到卡点的朋友直接看视频）：https://youtu.be/cDqBZ3ylqcA
 
-# 一、大陆居民的困境...
+## 一、大陆居民的困境...
 
 我想对于大陆用户来说，在跨境出海的道路上，实在是有太多不方便的地方了。
 
@@ -16,7 +20,7 @@
 
 Youtube 频道：https://www.youtube.com/@NicoGrowthz
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772623943131_tv7iri.png)
+![Xesim + Club SIM：大陆居民的困境...（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772623943131_tv7iri.png)
 
 但是在跨境出海的道路中，我们还缺少了非常关键的一步，配置一张境外手机卡。
 
@@ -26,7 +30,7 @@ Youtube 频道：https://www.youtube.com/@NicoGrowthz
 
 比如说前几周我在注册开户德国 N26 银行的时候，只有海外手机号才能收到验证码。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772623965546_p6ryi2.png)
+![Xesim + Club SIM：大陆居民的困境...（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772623965546_p6ryi2.png)
 
 很多欧美的金融 App 都是如此。如果你想要用这些 App、做一些出入金、资金流转的操作，那么必须得配置一个长期可用靠谱的境外手机号。
 
@@ -34,7 +38,7 @@ Youtube 频道：https://www.youtube.com/@NicoGrowthz
 
 毕竟你和国外当地人聊天、交流、谈生意的时候，拥有一张本地的手机号，能够大幅拉进彼此之间的信任。
 
-# 二、如何拥有海外手机号？3 个方案
+## 二、如何拥有海外手机号？3 个方案
 
 接下来，我结合我自己的使用经验，简单和大家聊一聊，如何拥有一个境外手机号。
 
@@ -49,7 +53,7 @@ Youtube 频道：https://www.youtube.com/@NicoGrowthz
 首先，绝大多数海外运营商，不支持将实体 SIM 卡直接邮寄到中国大陆，需要找一些第三方的转运公司，还可能出现内地拒收的风险，非常麻烦。
 
 其次，实体 SIM 卡会占用手机的一个卡槽，国内绝大多数手机都是双卡槽，其中一张用来插 +86 的卡。如果你既需要一个美国的手机号，也需要一个英国的手机号，用实体卡的话，一部手机肯定是无法实现了。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624049369_vwdb2n.png)
+![Xesim + Club SIM：如何拥有海外手机号？3 个方案（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624049369_vwdb2n.png)
 
 2️⃣ eSIM。
 
@@ -64,7 +68,7 @@ eSIM 的全称是 Embedded SIM，翻译过来就是"嵌入式 SIM 卡"。
 你只需要扫一个二维码，下载对应运营商提供的 eSIM 文件，几秒钟之内就能激活一张来自世界任何地方的手机号。
 
 eSIM 最大的好处就是突破了实体卡槽的限制，一部手机可以通过 eSIM 配置几十个手机号，而不是国内普遍认知下的双卡双号。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624079787_awnimw.png)
+![Xesim + Club SIM：如何拥有海外手机号？3 个方案（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624079787_awnimw.png)
 
 从 iPhone XS 开始，海外的苹果就已经全面支持 eSIM 了。
 
@@ -84,7 +88,7 @@ eSIM 最大的好处就是突破了实体卡槽的限制，一部手机可以通
 换句话说，不是技术层面做不到，而是制度层面不想放开。
 
 在这种情况下，无论安卓还是苹果，只要是国行版本，都不支持Esim服务。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624113847_mq3rdx.png)
+![Xesim + Club SIM：如何拥有海外手机号？3 个方案（配图 3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624113847_mq3rdx.png)
 
 在过去很长一段时间内，大陆用户想要使用 Esim 功能的话，只能到香港或者国外，购买海外版本的安卓或者苹果手机。
 
@@ -105,14 +109,14 @@ Xesim 这种适配器，兼具实体卡和 eSIM 的优点。
 当然作为苹果用户来说，我觉得 Xesim 最大的优势是，它支持直接在苹果手机上下载和管理你的 eSIM。
 
 而前几代的 eSIM 适配器产品，苹果用户必须得借助读卡器或者另外一部安卓手机，才能完成 eSIM 文件的下载，非常麻烦。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624151029_uz0cqm.png)
+![Xesim + Club SIM：如何拥有海外手机号？3 个方案（配图 4）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624151029_uz0cqm.png)
 
-# 三、Xesim 产品介绍
+## 三、Xesim 产品介绍
 
 接下来，我就给大家具体介绍一下 Xesim 的三款产品，分别是 X2 Pro、X2以及 X1。
 
 不同的手机需要选配不同的型号。这部分内容需要重点了解，防止买错。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624174759_nvdncf.png)
+![Xesim + Club SIM：Xesim 产品介绍（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624174759_nvdncf.png)
 
 我会从 4 个维度，详细对比这三款产品，并且给出选配的建议。
 
@@ -144,7 +148,7 @@ X1 只有 5 次免费下载的次数，而 X2 和 X2 Pro 都有无限次下载�
 
 X2 Pro 最贵，官方售价是 36 美元，毕竟它提供了额外的 seedlink 服务，用起来更省事儿。其次是 X2，售价是 29 美元，最后是 X1，售价 16 美元。
 
-# 四、如何选购 Xesim？
+## 四、如何选购 Xesim？
 
 4 个维度对比完之后再来看看，不同手机型号的用户，到底应该选购哪款产品？
 
@@ -155,9 +159,9 @@ X2 Pro 最贵，官方售价是 36 美元，毕竟它提供了额外的 seedlink
 因为对于安卓和鸿蒙系统来说，有的机型不支持老一代的 X2 以及 X1，在购买之前，一定要先下载 Xesim APP，然后在 APP 设备信息中，看看是否支持。
 
 参考下图：
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624224070_3eqnv4.png)
+![Xesim + Club SIM：如何选购 Xesim？（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624224070_3eqnv4.png)
 
-# 五、如何购买 Xesim？
+## 五、如何购买 Xesim？
 
 接下来，我就详细演示一下如何购买 Xesim。
 
@@ -166,10 +170,10 @@ X2 Pro 最贵，官方售价是 36 美元，毕竟它提供了额外的 seedlink
 进入官网之后，点击上方的立即购买。
 
 根据刚才的选购建议，选择不同的型号。我这里选的是 X2 Pro。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624251296_5mj9k5.png)
+![Xesim + Club SIM：根据刚才的选购建议，选择不同的型号。我这里选的是 X2 Pro（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624251296_5mj9k5.png)
 
 拉到下方，选择大容量版。它只比标准版贵1美元，但是多出了15个esim存储空间。点击立即购买。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624264734_w43bvc.png)
+![Xesim + Club SIM：拉到下方，选择大容量版。它只比标准版贵1美元，但是多出了15个esim存储空间。点击立即购买（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624264734_w43bvc.png)
 
 先完成注册登陆。
 
@@ -178,12 +182,12 @@ X2 Pro 最贵，官方售价是 36 美元，毕竟它提供了额外的 seedlink
 在右侧优惠券代码中，输入 NICO 专属折扣码，可以享受 9 折的购买优惠，
 
 左边收获地址，直接用中文填写你当前的居住地址。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624283886_bciynz.png)
+![Xesim + Club SIM：左边收获地址，直接用中文填写你当前的居住地址（配图 3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624283886_bciynz.png)
 
 拉到下方，可以看到中国大陆地区是包邮的，两三个工作日就会送到。
 
 付款方式选择支付宝或者微信，然后点击完成订单。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624300006_ai4v08.png)
+![Xesim + Club SIM：付款方式选择支付宝或者微信，然后点击完成订单（配图 4）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624300006_ai4v08.png)
 
 接着在跳转界面，扫码付款一下就 ok 了。
 
@@ -192,9 +196,9 @@ X2 Pro 最贵，官方售价是 36 美元，毕竟它提供了额外的 seedlink
 之后收到货，大概就是这个样子。
 
 有一张实体 SIM 卡，其实就是 Xesim 适配器，上面还有这张卡的 EID，之后需要和手机完成绑定。除此之外，还有一个卡针。然后我们把这张卡插到手机上。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624475133_m4qzc7.png)
+![Xesim + Club SIM：如何购买 Xesim？（配图 5）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624475133_m4qzc7.png)
 
-# 六、Xesim 手机 APP 演示（IOS/Android）
+## 六、Xesim 手机 APP 演示（IOS/Android）
 
 接下来，我会用苹果手机和安卓手机，分别演示一遍。
 
@@ -208,7 +212,7 @@ X2 Pro 最贵，官方售价是 36 美元，毕竟它提供了额外的 seedlink
 安卓手机：
 1. 也是直接下载 Xesim APP，点击下方第二个按钮，进入 SIM 卡界面。可以看到上面就会显示出当前的型号、下载次数以及EID。
 2. 点击右边的 + 号，可以看到有扫码按钮，用来扫码下载 eSIM 文件。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624532759_i46j4x.png)
+![Xesim + Club SIM：Xesim 手机 APP 演示（IOS/Android）（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624532759_i46j4x.png)
 
 扫描一下邮件当中的启用二维码，就可以成功完成添加了。 
 
@@ -216,7 +220,7 @@ IOS/Android Xesim App 区别:
 - 对于苹果用户来说，Xesim APP 只支持绑定 EID、查看下载次数以及 seedlink 服务时长，APP 不能直接下载安装 eSIM 文件，只起到辅助作用。
 - 对于安卓用户来说，Xesim APP 可以完成所有的操作，能够直接下载、安装、切换、管理你手机内的所有 eSIM 卡，非常方便。
 
-# 七、如何拥有第一个海外手机号？
+## 七、如何拥有第一个海外手机号？
 
 进入最后的实操环节：如何拥有第一个真正属于你的海外手机号？
 
@@ -227,26 +231,26 @@ IOS/Android Xesim App 区别:
 如果你只有收发海外短信需求的话，Club SIM 足够了。
 
 打开 Club SIM 官网 https://www.clubsim.com.hk/zh/，点击右上角的登入按钮。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624590579_saar0b.png)
+![Xesim + Club SIM：如何拥有第一个海外手机号？（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624590579_saar0b.png)
 
 通过邮箱注册登陆，内地邮箱也是 ok 的。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624608469_z56nuj.png)
+![Xesim + Club SIM：如何拥有第一个海外手机号？（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624608469_z56nuj.png)
 
 登陆之后，网站提示我们需要实名登记，这一步等到买完 eSIM 之后，在 APP 上完成实名 KYC。先点击购买 Club Sim。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624624707_1eixb4.png)
+![Xesim + Club SIM：登陆之后，网站提示我们需要实名登记，这一步等到买完 eSIM 之后，在 APP 上完成实名 KYC。先点击购买 Club Sim（配图 3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624624707_1eixb4.png)
 
 拉到网站底部，点击 eSIM。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624635063_bs6skv.png)
+![Xesim + Club SIM：拉到网站底部，点击 eSIM（配图 4）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624635063_bs6skv.png)
 
 设备型号随便选一个，点击下一步。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624650055_xocgnu.png)
+![Xesim + Club SIM：设备型号随便选一个，点击下一步（配图 5）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624650055_xocgnu.png)
 
 办理 Club SIM 手机号，首次订单消费必须得大于 50 港币。为了在凑够 50 港币门槛的同时少花钱，给大家推荐一个购买方案。
 
 在中国漫游数据专区，购买 1GB 套餐，是 38 港币。这部分流量，在中国内地或者香港澳门都是可以用的。
 
 继续往下拉，在亚洲漫游数据通行证的部分，选择中国的数据漫游，15 港币。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624667991_tof1ts.png)
+![Xesim + Club SIM：继续往下拉，在亚洲漫游数据通行证的部分，选择中国的数据漫游，15 港币（配图 6）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624667991_tof1ts.png)
 
 两个加起来一共是 53 港币，刚好满足最低消费的需求。
 
@@ -255,12 +259,12 @@ IOS/Android Xesim App 区别:
 名字就是你名的英文拼音，姓氏就是你姓的英文拼音，其它正常填写即可。
 
 付款方式选择微信支付，然后点击确认并支付，扫码完成付款。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624687688_qaf55o.png)
+![Xesim + Club SIM：付款方式选择微信支付，然后点击确认并支付，扫码完成付款（配图 7）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624687688_qaf55o.png)
 
 网站提示我们购买成功，还发了一封邮件。
 
 这个邮件很重要，里面有 eSIM 的激活码，之后需要用到。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624707189_zqde46.png)
+![Xesim + Club SIM：如何拥有第一个海外手机号？（配图 8）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624707189_zqde46.png)
 
 接下来，我们需要打开手机，完成剩余的激活操作。
 
@@ -282,7 +286,7 @@ IOS/Android Xesim App 区别:
 安卓手机（激活流程更简单）：
 1. 打开 xEsim APP，然后点击右边的加号，继续点击扫码按钮。
 2. 扫描一下邮件中的第一个二维码，完成添加。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624785758_dg73kv.png)
+![Xesim + Club SIM：如何拥有第一个海外手机号？（配图 9）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624785758_dg73kv.png)
 
 接下来最后的 KYC 实名以及扫码配对操作，需要在 Club SIM App 上完成。
 
@@ -298,7 +302,7 @@ IOS/Android Xesim App 区别:
 9. 拍一下港澳通行证的正反面。
 10. 拉到下面，填写你的电子邮箱地址，点击提交。
 11. app 提示我们，实名信息已经登记完成。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624825854_4utjob.png)
+![Xesim + Club SIM：如何拥有第一个海外手机号？（配图 10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624825854_4utjob.png)
 
 扫码配对操作：
 1. 回到主界面，点击右上角的扫码按钮。
@@ -309,7 +313,7 @@ IOS/Android Xesim App 区别:
 6. 等待几分钟之后，在个人界面，就可以看 Club SIM 的手机号。
 7. 你应该也会收到 Club SIM 给你发来的短信，上面也会标注你的手机号。你可以试着给这个香港手机号发一下短信，看看能不能收到。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624855454_b1vfjl.png)
+![Xesim + Club SIM：如何拥有第一个海外手机号？（配图 11）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1772624855454_b1vfjl.png)
 
 到此为止，我们就成功拥有了第一个海外 esim 手机号！
 
@@ -323,7 +327,7 @@ Club SIM 官方有一个服务暂停终止条款，其中明确提到，如果�
 
 这么算下来，每年的保号成本就是 6 港币，每个月 5 毛钱，就可以接收各大海外 App 的短信，我觉得是非常划算了。
 
-# 八、写在最后
+## 八、写在最后
 
 当我们办好了海外手机号，再搭配一个香港银行账户，就意味着我们已经完成了跨境出海、全球资金流转、全球资产配置过程中，最关键的前置环节。
 

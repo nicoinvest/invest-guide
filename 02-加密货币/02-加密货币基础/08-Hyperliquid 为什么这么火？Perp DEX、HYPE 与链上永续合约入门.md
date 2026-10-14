@@ -1,5 +1,7 @@
 # Hyperliquid 为什么这么火？Perp DEX、HYPE 与链上永续合约入门
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/crypto-basics/text/perp-dex-hyperliquid-guide/) · [返回本分类](./README.md)
+
 过去大家做加密合约，习惯打开币安、欧易这种交易所。现在，在自己的 Web3 钱包里连接一个网站，也能看到订单簿、K 线、杠杆和持仓，整个界面已经很接近传统交易所。
 
 Hyperliquid 就是这条赛道里很受关注的项目。它吸引人的地方，已经从最初的链上合约，扩展到了股票、商品等资产的永续合约，以及围绕交易建立的应用生态。

@@ -1,5 +1,7 @@
 # 嘉信理财从 0 到 1 入门攻略｜手续费、thinkorswim 中文设置与美股下单
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-thinkorswim-guide/) · [返回本分类](./README.md)
+
 当你注册开户好嘉信理财账户、打开官网之后，你是否会觉得上面展示的这些 UI 非常复杂非常繁琐，让你感到有些眼花缭乱，不知道从哪里入手？
 
 我第一次使用嘉信的时候也有类似劝退的感受，但其实这段时间使用下来之后，并没有我想象中的那么复杂。
@@ -16,7 +18,6 @@
 
 接下来，我会根据我使用下来的经验以及我自己对于美股投资的理解，给大家详细讲解一遍嘉信理财的基本用法，建议大家按顺序完整读一遍。
 
-::after-hook
 
 ## 1. 嘉信理财基本特性
 

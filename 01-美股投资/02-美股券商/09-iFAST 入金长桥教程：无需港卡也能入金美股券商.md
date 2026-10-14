@@ -1,5 +1,7 @@
 # FAST 入金长桥教程：无需港卡也能入金美股券商
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/us-brokers/text/ifast-fund-longbridge/) · [返回本分类](./README.md)
+
 如果你暂时无法前往香港，开通香港银行账户，但是仍然想要投资美股，可以使用英国 iFAST 数字银行，入金美股券商。
 
 iFAST 是一家英国受监管的数字银行，它的优点是支持大陆用户，使用大陆身份证在线上开通办理，并且它还没有入金存款门槛，不收取年费管理费，支持内地银行转账汇款。
@@ -59,7 +61,7 @@ iFAST 是一家英国受监管的数字银行，它的优点是支持大陆用�
 11. 如图 13 所示，可以看到转账申请已提交。
 12. 如图 14 和 15 所示，大概一个工作日左右的时间，iFAST 就成功收到了这笔转账汇款。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-03-10-iFAST-longbridge-1_1753293962987.jpeg)
+![iFAST 入金长桥教程：内地银行入金 iFAST 流程（图 1–15）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-03-10-iFAST-longbridge-1_1753293962987.jpeg)
 
 ## 3. iFAST 入金长桥券商流程
 
@@ -89,7 +91,7 @@ iFAST 是一家英国受监管的数字银行，它的优点是支持大陆用�
 12. 如图 14 所示，点击“立即兑换”。
 13. 如图 15 所示，在 Wise 新币钱包中，就看到了刚才兑换的这笔钱。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-03-10-iFAST-longbridge-2_1753293963991.jpeg)
+![iFAST 入金长桥教程：iFAST 入金长桥券商流程（图 1–15）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-03-10-iFAST-longbridge-2_1753293963991.jpeg)
 
 接下来，我们需要将这笔钱，入金到新加坡长桥券商。
 
@@ -110,7 +112,7 @@ iFAST 是一家英国受监管的数字银行，它的优点是支持大陆用�
 25. 如图 27 和 28 所示，Wise 提示汇款成功。
 26. 如图 29 所示，长桥券商也几乎在同一时间，收到了这笔入金汇款。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-03-10-iFAST-longbridge-3_1753293964557.jpeg)
+![iFAST 入金长桥教程：iFAST 入金长桥券商流程（图 16–29）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/2025-03-10-iFAST-longbridge-3_1753293964557.jpeg)
 
 入金新加坡长桥账户后，你可以选择继续在新加坡长桥券商中购买美股，也可以选择使用长桥内部的资金划转功能，将这部分钱划转到香港长桥券商账户中。划转不会收取手续费。
 

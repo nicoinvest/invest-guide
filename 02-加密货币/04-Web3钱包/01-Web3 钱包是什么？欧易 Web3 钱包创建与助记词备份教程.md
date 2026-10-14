@@ -1,5 +1,7 @@
 # Web3 钱包是什么？欧易 Web3 钱包创建与助记词备份教程
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/web3-wallets/text/okx-web3-wallet-create-backup/) · [返回本分类](./README.md)
+
 ![Web3 钱包是什么？欧易 Web3 钱包创建与助记词备份教程封面](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/web3-wallet-series-2026-09-23/assets/covers/01-cover-modern.png)
 
 加密货币新手小白，如何快速入门 Web3 钱包，掌握链上的转账、交易以及各种交互方式？这是一套详细的，从 0 到 1 保姆级 Web3 钱包入门教程。这套教程希望能够帮助你轻松玩转 Web3 钱包，深度参与到 Web3 链上世界。在准备这份教程的 2025 年，加密货币市场行情回暖，有越来越多新手小白开始了解和学习加密货币。在入门的过程中，交易所一定是我们的第一站。

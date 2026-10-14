@@ -1,5 +1,7 @@
 # 标普 500 ETF 怎么选？VOO、IVV、SPY、SPYM、SPLG 对比
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/us-etf/text/voo-spy-ivv-splg-spym-comparison/) · [返回本分类](./README.md)
+
 在之前的教程中，我们已经详细介绍了美股市场中的宽基指数 ETF，包括标普 500、纳斯达克 100、道琼斯、罗素 2000 这些指数。
 
 接下来，我们就开始学习这些指数背后的 ETF。
@@ -8,7 +10,6 @@
 
 今天这篇教程，我们先来一起看看标普 500 指数相关的 ETF。
 
-::after-hook
 
 ## 1. 一次性横向对比标普 500 ETF
 

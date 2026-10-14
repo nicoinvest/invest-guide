@@ -1,3 +1,7 @@
+# Wise 多币种钱包从 0 到 1 开户-入金-出金教程：轻松玩转 Wise
+
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/fund-transfer/text/wise-account/) · [返回本分类](./README.md)
+
 有这样一个钱包，能够让你一次性拥有全世界 200 多个国家的银行账户，并且支持 40 多种货币丝滑兑换，跨境汇款秒级到账，帮你轻松完成全球资金流转，打通跨境出海的第一步。
 
 它就是 Wise，一家英国伦敦上市的跨境支付独角兽公司。
@@ -14,7 +18,7 @@
 
 ---
 
-# 一、Wise 是什么？
+## 一、Wise 是什么？
 
 首先，还是按照惯例，我们先简单介绍一下 Wise 这家公司。
 
@@ -24,7 +28,7 @@ Wise 在 2011 年成立于伦敦，原来的名字叫 TransferWise，2021 年改
 
 在大陆用户眼里，Wise 简直就是一个解决跨境汇款、资金流转痛点的神级产品。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778855490860_s6vb86.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：Wise 是什么？（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778855490860_s6vb86.png)
 
 为什么这么说呢？
 
@@ -48,7 +52,7 @@ Wise 在 2011 年成立于伦敦，原来的名字叫 TransferWise，2021 年改
 
 这就是为什么 Wise 能够做到秒级到账、汇率几乎无损、手续费极低，不需要结售汇。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778855853130_py0267.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：Wise 是什么？（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778855853130_py0267.png)
 
 如果你看过我之前那几期众安开户和出入金相关的教程，应该知道众安银行的跨境汇款就是和 Wise 合作的，所谓众安汇款秒级到账，本质上就是 Wise 提供的底层能力。
 
@@ -60,7 +64,7 @@ Wise 在 2011 年成立于伦敦，原来的名字叫 TransferWise，2021 年改
 
 整体来看，Wise 可以说是全球资金流转的核心中转站。
 
-# 二、Wise 开通流程
+## 二、Wise 开通流程
 
 了解完背景，我就给大家从 0 到 1 演示一下具体的开户流程。
 
@@ -88,7 +92,7 @@ Wise 在 2011 年成立于伦敦，原来的名字叫 TransferWise，2021 年改
 
 出生日期也一定要和身份证上面保持一致，然后点击保存并继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778856542882_tt82nh.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：Wise 开通流程（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778856542882_tt82nh.png)
 
 如图 11/12 所示，需要填写省市区和家庭住址，这里我们直接填写身份证上面的地址就可以，因为身份证就相当于一个地址证明，没有任何问题，填完后点击确认并继续。
 
@@ -110,7 +114,7 @@ Wise 在 2011 年成立于伦敦，原来的名字叫 TransferWise，2021 年改
 
 如图 20 所示，这里我们选择港元，点击继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778856666413_whul02.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：Wise 开通流程（图 11–20）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778856666413_whul02.png)
 
 如图 21 所示，点击确认。
 
@@ -134,7 +138,7 @@ Wise 在 2011 年成立于伦敦，原来的名字叫 TransferWise，2021 年改
 
 如图 30 所示，如果你没有长时间在海外生活、不是境外税务居民的话，这一步直接选择是。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778856997378_pz9o2w.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：Wise 开通流程（图 21–30）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778856997378_pz9o2w.png)
 
 如图 31 所示，纳税人识别号就是你的身份证号。
 
@@ -152,7 +156,7 @@ Wise 在 2011 年成立于伦敦，原来的名字叫 TransferWise，2021 年改
 
 如图 40 所示，然后人脸识别，点击继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778857106003_8p9w0y.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：Wise 开通流程（图 31–40）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778857106003_8p9w0y.png)
 
 如图 41/42 所示，做人脸识别
 
@@ -172,9 +176,9 @@ Wise 在 2011 年成立于伦敦，原来的名字叫 TransferWise，2021 年改
 
 不过我还是建议大家，为了确保 Wise 账户能够长期使用，在注册开户之后，最好完成一笔同名转账入金，从你的其他账户，转一笔钱进入 Wise。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778857239238_6pruwc.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：Wise 开通流程（图 41–46）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778857239238_6pruwc.png)
 
-# 三、Wise 的四种入金方式
+## 三、Wise 的四种入金方式
 
 接下来，我就给大家详细演示一下大陆用户最常使用到的的 4 种入金方式。
 
@@ -182,19 +186,19 @@ Wise 在 2011 年成立于伦敦，原来的名字叫 TransferWise，2021 年改
 
 会要求你提交护照、居留许可证、中国个人所得税记录这些文件，这是合规层面的限制。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778857800992_fx03g6.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：Wise 的四种入金方式（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778857800992_fx03g6.png)
 
 所以说，我们在入金的时候，需要通过其他币种，比如说港币、欧元、英镑这些，来完成汇款入金
 
 今天演示的 4 种入金方式，分别是香港银行 FPS 港币入金、N26 银行欧元入金、iFAST 银行英镑入金以及 SafePal 欧元入金。
 
-## 3.1 香港银行 FPS 港币入金
+### 3.1 香港银行 FPS 港币入金
 
 这里简单解释一下 FPS 是什么意思，FPS 全称是 Faster Payment System，是香港的本地快速转账系统，有点类似于内地的支付宝手机号转账。
 
 香港银行账户之间，通过FPS转账，是即时到账的，没有任何手续费。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778857935992_nk27gi.avif)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：1 香港银行 FPS 港币入金（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778857935992_nk27gi.avif)
 
 如图 1 所示，我们打开 Wise app，进入你的港币账户，然后点击充值。
 
@@ -222,9 +226,9 @@ Wise 在 2011 年成立于伦敦，原来的名字叫 TransferWise，2021 年改
 
 这其实就体现了 Wise 作为资金中转工具的核心优势，这些主流币种到 Wise 账户，基本都是本地转账，可以秒级到账。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778857898938_gvouc5.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：1 香港银行 FPS 港币入金（图 1、2、3、4、5、6、7、8、10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778857898938_gvouc5.png)
 
-## 3.2 N26 银行欧元入金
+### 3.2 N26 银行欧元入金
 
 这里有一个坏消息要告诉大家，本来 N26 这家欧洲银行，对于大陆用户的开户门槛非常低，使用护照在线上 App 就可以完成开户操作。
 
@@ -258,7 +262,7 @@ Wise 在 2011 年成立于伦敦，原来的名字叫 TransferWise，2021 年改
 
 如图 10 所示，确认一下信息，继续点击 Continue。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778858527595_yirdzs.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：2 N26 银行欧元入金（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778858527595_yirdzs.png)
 
 如图 11 所示，点击 Continue。
 
@@ -274,9 +278,9 @@ Wise 在 2011 年成立于伦敦，原来的名字叫 TransferWise，2021 年改
 
 基本上也是在同一时间，Wise 这边就收到了汇款，走的是欧洲 SEPA 境内转账，所以速度非常快。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778858334270_dynlr3.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：2 N26 银行欧元入金（图 11–16）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778858334270_dynlr3.png)
 
-## 3.3 iFAST 银行英镑入金
+### 3.3 iFAST 银行英镑入金
 
 在 N26 暂停大陆用户开户的情况下，iFAST 算是一个非常不错的平替方案。
 
@@ -306,7 +310,7 @@ Wise 在 2011 年成立于伦敦，原来的名字叫 TransferWise，2021 年改
 
 如图 10 所示，这里 iFAST 会提示一些反诈的信息，点击我明白。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778858867734_e2igmm.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：3 iFAST 银行英镑入金（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778858867734_e2igmm.png)
 
 如图 11 所示，确认转账信息没问题后，点击授权。
 
@@ -314,15 +318,15 @@ Wise 在 2011 年成立于伦敦，原来的名字叫 TransferWise，2021 年改
 
 如图 13 所示，回到 Wise App，点击下面的完成按钮。几乎也是在同一时间，我们的 Wise 账户就收到了 iFAST 的入金汇款。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778859076368_ydv5se.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：3 iFAST 银行英镑入金（图 11–13）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778859076368_ydv5se.png)
 
-## 3.4 SafePal 欧元入金
+### 3.4 SafePal 欧元入金
 
 SafePal 是一个加密货币钱包，也同时提供加密货币虚拟卡的服务。
 
 它的背后是一个架设在区块链上的合规银行，名字叫做 Fiat24，相当于一个连接加密货币世界和传统金融世界的桥梁。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778859504358_rlwp36.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：4 SafePal 欧元入金（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778859504358_rlwp36.png)
 
 我们可以把 USDT 或者 USDC 通过链上转账的方式，从欧易交易所，提现到 SafePal，然后兑换为欧元，再通过欧洲 SEPA 转账的方式，汇款到传统银行，就比如说 Wise 的欧元帐户。
 
@@ -362,9 +366,9 @@ SafePal 是一个加密货币钱包，也同时提供加密货币虚拟卡的服
 
 不过这里要注意，SafePal Fiat 24 银行转账到 Wise，并不是即时转账，有审核时间，大概需要一个工作日左右才会到账。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778859843767_6z21ty.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：4 SafePal 欧元入金（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778859843767_6z21ty.png)
 
-# 四、Wise 出金到支付宝
+## 四、Wise 出金到支付宝
 
 讲完了 4 种入金方式，接下来我们看怎么出金。
 
@@ -390,7 +394,7 @@ SafePal 是一个加密货币钱包，也同时提供加密货币虚拟卡的服
 
 如图 10 所示，这里支付宝账号类型，我就选择手机号。输入相关信息之后，点击继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778860129441_kwcsrv.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：Wise 出金到支付宝（图 1、2、3、5、6、7、8、9、10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778860129441_kwcsrv.png)
 
 如图 11 所示，Wise 确认账户信息存在，点击继续。
 
@@ -412,9 +416,9 @@ SafePal 是一个加密货币钱包，也同时提供加密货币虚拟卡的服
 
 所以说，Wise 确实是大陆用户人手必备的一个出入金资金流转神器。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778860413074_julw6k.png)
+![Wise 多币种钱包从 0 到 1 开户-入金-出金教程：Wise 出金到支付宝（图 11–15）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1778860413074_julw6k.png)
 
-# 五、Wise 相关注意事项
+## 五、Wise 相关注意事项
 
 讲到这里，Wise 的开通、入金、出金相关的流程就全部演示完了。
 

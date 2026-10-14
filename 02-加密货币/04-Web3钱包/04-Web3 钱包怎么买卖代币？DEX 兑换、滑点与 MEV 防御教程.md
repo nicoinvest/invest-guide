@@ -1,5 +1,7 @@
 # Web3 钱包怎么买卖代币？DEX 兑换、滑点与 MEV 防御教程
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/web3-wallets/text/okx-web3-wallet-dex-swap-slippage-mev/) · [返回本分类](./README.md)
+
 ![Web3 钱包怎么买卖代币？DEX 兑换、滑点与 MEV 防御教程封面](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/web3-wallet-series-2026-09-23/assets/covers/04-cover-modern.png)
 
 这篇我们来讲链上交易。在接触 Web3 链上世界之前，我们也会做加密货币的交易，主要就是在中心化的交易所，比如欧易、币安，购买比特币、以太坊或者其他山寨币。而链上交易对应的是去中心化交易所，交易主要通过自动执行的智能合约代码完成，数据公开透明，用户通过连接 Web3 钱包，完成每一笔链上交易，自行掌握钱包私钥。

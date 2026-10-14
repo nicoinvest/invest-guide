@@ -1,5 +1,7 @@
 # 欧易 Web3 钱包还能做什么？行情追踪、Boost 空投与 DeFi 赚币
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/web3-wallets/text/okx-web3-wallet-market-boost-defi/) · [返回本分类](./README.md)
+
 ![欧易 Web3 钱包还能做什么？行情追踪、Boost 空投与 DeFi 赚币封面](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/web3-wallet-series-2026-09-23/assets/covers/05-cover-modern.png)
 
 前面几篇，关于 Web3 钱包的重点内容就讲完了。接下来，我再给大家介绍一下欧易 Web3 钱包中附带的一些比较好用的功能。

@@ -1,5 +1,7 @@
 # 嘉信理财美股期权从 0 到 1 教程：基础概念、开通权限与 thinkorswim 买卖实操
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-options-guide/) · [返回本分类](./README.md)
+
 这可能是全网最简单、最通俗易懂的一期嘉信理财美股期权教程，帮助你在 20 分钟左右，一次性搞懂美股期权的基本概念，并使用嘉信理财的 thinkorswim，从头到尾完整实操一遍具体的期权操作，轻松入门。
 
 一个多月之前，我给大家做过一期[嘉信理财从 0 到 1 入门的基础攻略](https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-thinkorswim-guide/)，把网站以及 App 上常见的一些功能，以及具体的交易流程完整讲解了一遍。不过因为时间关系，我们跳过了美股期权相关的讲解以及实操。
@@ -8,7 +10,6 @@
 
 新来的观众朋友，可以先去看一遍上期教程，简单了解、学习一下。话不多说，我们尽快开始。
 
-::after-hook
 
 ## 1. 期权是什么？买卖白菜的故事
 

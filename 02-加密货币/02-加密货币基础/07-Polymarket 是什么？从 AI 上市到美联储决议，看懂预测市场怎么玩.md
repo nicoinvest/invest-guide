@@ -1,5 +1,7 @@
 # Polymarket 是什么？从 AI 上市到美联储决议，看懂预测市场怎么玩
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/crypto-basics/text/polymarket-prediction-market-guide/) · [返回本分类](./README.md)
+
 现在看财经新闻，经常会看到一个类似的说法，某件事情在 Polymarket 上发生的概率已经涨到了 80%。
 
 美联储下一次会议会不会调整利率，哪家公司会先上市，美国中期选举谁会获胜，这些原本只能在评论区里争论的问题，现在都有了一个可以实时变化的价格。

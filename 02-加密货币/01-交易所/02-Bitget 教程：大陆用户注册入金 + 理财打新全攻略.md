@@ -1,5 +1,7 @@
 # Bitget 教程：大陆用户注册入金 + 理财打新全攻略
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/exchanges/text/bitget-tutorial/) · [返回本分类](./README.md)
+
 7月份整体加密货币市场行情走的非常不错，以太坊从底部涨到了接近 4000 的价位，涨了 50% 多，比特币也一度突破 12 万，目前还在横盘整理的过程中，这是一个非常健康的走势，我相信在短期横盘之后，Q4大概率还会有下一波大行情。
 
 我们需要做的事情就是，趁着最近横盘回调的时候，逢低布局。
@@ -63,7 +65,7 @@ Bitget 是我接触加密货币以来，注册的第三家交易所。当时就�
 大概几分钟左右，就会成功通过。
 
 到此为止，我们就成功完成了 Bitget 交易所的注册和 KYC 认证 🎉
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1755631332074_yrakhx.png)
+![Bitget 教程：注册、KYC认证篇（图 1–13）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1755631332074_yrakhx.png)
 
 ## 三、充值入金篇（0 撸 30 USDT 现金）
 
@@ -130,7 +132,7 @@ Bitget 是我接触加密货币以来，注册的第三家交易所。当时就�
 14.如图 14 所示，任务第二步也打上了对勾。接下来只需要等待 24 个小时，且在这 24 个小时的时间里，不做任何提现操作，然后就可以领取到这 30 USDT。
 
 到此为止，我们就在 Bitget 交易所中完成充值、入金，并完成了新人 0 撸 30 USDT 现金羊毛的活动。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1755631370724_4y66ki.png)
+![Bitget 教程：充值入金篇（0 撸 30 USDT 现金）（图 1–14）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1755631370724_4y66ki.png)
 
 ## 四、挖矿打新篇
 
@@ -193,7 +195,7 @@ LaunchPad 是打新活动，以很低的认购价去购买即将上线的代币�
 大多数情况下，大交易所推出的打新活动， 一般都不会让散户亏钱，相当于给用户发福利。
 
 以上大概就是 Bitget 交易所的所有挖矿打新活动了，我自己在这些活动上面赚到了一些小钱，感觉还是很不错的，大家可以自己评估一下性价比，再决定是否参与。
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1755631404107_p81fhu.png)
+![Bitget 教程：挖矿打新篇（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1755631404107_p81fhu.png)
 
 ## 五、低风险高收益保本理财
 
@@ -245,6 +247,6 @@ LaunchPad 是打新活动，以很低的认购价去购买即将上线的代币�
 
 而且目前新人还能领到 50 USDT 的现货网格券和 200 USDT 的跟单体验券，可以用来简单体验一下。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1755631429054_u2dbsr.png)
+![Bitget 教程：低风险高收益保本理财（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1755631429054_u2dbsr.png)
 
 这就是本篇教程的全部内容啦，如果对于你入门交易所、投资加密货币有帮助的话，麻烦帮忙点赞、收藏、转发，感谢！...

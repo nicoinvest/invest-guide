@@ -1,5 +1,7 @@
 # Web3 钱包怎么转账？USDT 转入、转出与 Gas 费教程
 
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/web3-wallets/text/web3-wallet-usdt-transfer-gas/) · [返回本分类](./README.md)
+
 ![Web3 钱包怎么转账？USDT 转入、转出与 Gas 费教程封面](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/web3-wallet-series-2026-09-23/assets/covers/02-cover-modern.png)
 
 这篇我们具体看看，如何进行链上转账。进入 Web3 钱包界面之后，我们可以看到有发送和接收两个按钮。顾名思义，发送就是把钱转给其他钱包，接收就是从其他钱包收款，这一点和我们日常使用的支付宝或者微信转账非常类似。但是既然涉及到了 Web3 区块链，那么就必须得提到区块链网络，这一点非常重要，很多新手小白在刚开始使用 Web3 钱包转账的时候，都会踩到网络的坑里面。

@@ -1,3 +1,7 @@
+# BOC Pay 港币出金教程：大额港币出金回国+无需结汇+秒级到账
+
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/fund-transfer/text/boc-pay-hongkong/) · [返回本分类](./README.md)
+
 如何快速地将港币外汇转回到国内银行卡中，并且不占用结售汇额度？
 
 中银香港旗下的 BOC Pay 有一个跨境汇款功能，可以完美解决这一问题。在我眼中，它是香港银行出金、港币回国的王者。
@@ -12,7 +16,7 @@ BOC Pay 是中银旗下的一款移动支付 App，有点类似于大陆的微�
 
 BOC Pay 每天有 1 万港币的回国额度，一个月就是 30 万港币，足够满足大多数人的资金回国需求。汇款速度可以说是秒级到账，汇率也非常不错。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776240057302_go75dd.png)
+![BOC Pay 港币出金教程：BOC Pay 简介（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776240057302_go75dd.png)
 
 ## 二、BOC Pay 注册流程
 
@@ -46,7 +50,7 @@ BOC Pay 每天有 1 万港币的回国额度，一个月就是 30 万港币，�
 
 如果目前还没有中银香港的账户或者准备前往香港办银行账户的话，可以参考网站之前的港卡开户教程：../../01-美股投资/01-香港境外银行/README.md
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776240424984_2qo5zq.png)
+![BOC Pay 港币出金教程：BOC Pay 注册流程（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776240424984_2qo5zq.png)
 
 ## 三、BOC Pay 跨境汇款流程
 
@@ -74,7 +78,7 @@ BOC Pay 每天有 1 万港币的回国额度，一个月就是 30 万港币，�
 
 从注册到转账汇款成功，整体的耗时不会超过 15 分钟。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776240561211_em4dfp.png)
+![BOC Pay 港币出金教程：BOC Pay 跨境汇款流程（图 1–9）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776240561211_em4dfp.png)
 
 ## 四、BOC Pay 和中银快汇对比
 

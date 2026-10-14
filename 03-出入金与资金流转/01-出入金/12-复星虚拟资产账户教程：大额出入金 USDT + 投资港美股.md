@@ -1,3 +1,7 @@
+# 复星虚拟资产账户教程：大额出入金 USDT + 投资港美股
+
+作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/fund-transfer/text/fosun-virtual-asset/) · [返回本分类](./README.md)
+
 手头有 USDT，想出金换成法币，或者投资港美股，应该怎么操作？手头有港币美元，又应该怎么安全地入金到加密货币交易所？这篇文章分享一个合规安全、大陆用户可以上手操作的 USDT 出入金方案：复星虚拟资产账户。从背景介绍、前置准备，到开户、充值、兑换、出金，手把手带你走完全流程。
 
 
@@ -24,7 +28,7 @@
 
 所有充值和兑换的操作，都会经过 KYC 和 KYT 的认证，在合规框架下运行，资金来源可以追溯，不存在黑钱的问题，用起来更靠谱安心一些。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963690197_3rllqd.png)
+![复星虚拟资产账户教程：复星合规资质（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963690197_3rllqd.png)
 
 ## 三、开户前置条件
 
@@ -52,7 +56,7 @@
 
 关于这一步，可以使用盈透券商的账户确认书结单，把导出 PDF 里面的资产数字更改一下就可以了。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963833911_ymonnv.png)
+![复星虚拟资产账户教程：开户前置条件（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963833911_ymonnv.png)
 
 ## 四、购买帕劳 ID 全流程
 
@@ -62,23 +66,23 @@
 
 进入官网之后，点击立即申请按钮。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963876307_5pssbg.png)
+![复星虚拟资产账户教程：进入官网之后，点击立即申请按钮（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963876307_5pssbg.png)
 
 套餐那里，更改为一年套餐。如果不着急用的话，加急处理没必要勾选。正常情况下，购买之后半个月左右时间，数字身份证就会邮寄到家。
 
 点击立即购买。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963882467_5zkjwq.png)
+![复星虚拟资产账户教程：点击立即购买（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963882467_5zkjwq.png)
 
 总价是 283 美元，包括帕劳 ID 本身的费用、邮费和折扣减免。
 
 不过如果选择信用卡支付的话，折扣减免是 5 美元。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963909301_ficlxn.png)
+![复星虚拟资产账户教程：不过如果选择信用卡支付的话，折扣减免是 5 美元（配图 3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963909301_ficlxn.png)
 
 往下拉可以看到有 3 种付款方式，选择加密货币支付的话，折扣是 10 美元，更划算一些。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963927450_yi9avw.png)
+![复星虚拟资产账户教程：往下拉可以看到有 3 种付款方式，选择加密货币支付的话，折扣是 10 美元，更划算一些（配图 4）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963927450_yi9avw.png)
 
 这里以加密货币支付为例。
 
@@ -86,51 +90,51 @@
 
 点击下单并付款。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963938675_hdmxmk.png)
+![复星虚拟资产账户教程：点击下单并付款（配图 5）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963938675_hdmxmk.png)
 
 跳转到下单界面之后，需要连接你的 Web3 钱包，比如欧易或者狐狸钱包。如果目前还不知道怎么使用 Web3 钱包的话，可以参考我之前出的 Web3 钱包教程：https://www.youtube.com/watch?v=mA3jhbcKjRI
 
 你得先把 USDT 充到钱包里面，才能完成付款。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964004921_1oeeiv.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 6）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964004921_1oeeiv.png)
 
 选择 BNB chain 这条链，点击 confirm。
 
 显示转账完成、付款已经被验证，点击下面的完成按钮。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964019010_jkzdcb.png)
+![复星虚拟资产账户教程：显示转账完成、付款已经被验证，点击下面的完成按钮（配图 7）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964019010_jkzdcb.png)
 
 提示购买成功。
 
 点击开始申请按钮。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964029916_a1y861.png)
+![复星虚拟资产账户教程：点击开始申请按钮（配图 8）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964029916_a1y861.png)
 
 第一步需要上传照片，这个照片之后会印到帕劳实体身份证上面，我上传的是免冠照。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964077661_wlxe0u.png)
+![复星虚拟资产账户教程：第一步需要上传照片，这个照片之后会印到帕劳实体身份证上面，我上传的是免冠照（配图 9）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964077661_wlxe0u.png)
 
 往下拉，填写姓名、性别、出生日期这些基本信息，如实填写就可以了。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964081457_d2nf47.png)
+![复星虚拟资产账户教程：往下拉，填写姓名、性别、出生日期这些基本信息，如实填写就可以了（配图 10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964081457_d2nf47.png)
 
 继续往下拉，填写收货地址和联系方式，填完之后点击验证地址。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964093007_j7933u.png)
+![复星虚拟资产账户教程：继续往下拉，填写收货地址和联系方式，填完之后点击验证地址（配图 11）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964093007_j7933u.png)
 
 第二步，需要完成 KYC 身份认证。
 
 选择第一个，除美国以外的所有国家地区，点击继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964104434_9lsm3f.png)
+![复星虚拟资产账户教程：选择第一个，除美国以外的所有国家地区，点击继续（配图 12）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964104434_9lsm3f.png)
 
 签发国家选择中国，证件类型选择身份证，点击在手机上继续。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964111828_e4iove.png)
+![复星虚拟资产账户教程：签发国家选择中国，证件类型选择身份证，点击在手机上继续（配图 13）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964111828_e4iove.png)
 
 用手机扫一下二维码。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964115875_85ujak.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 14）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964115875_85ujak.png)
 
 如图 1 所示，在弹出来的界面中，点击开始认证。
 
@@ -146,15 +150,15 @@
 
 如图 9 所示，最后提示资料已经被验证，回到帕劳申请界面。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964361931_0506nb.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（图 1–9）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964361931_0506nb.png)
 
 这里告诉我们申请已经成功提交，帕劳需要几个工作日的时间审查申请。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964146060_29hvnq.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 16）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964146060_29hvnq.png)
 
 等几天之后，在卡片管理界面就可以看到申请已经通过了，耐心等它邮寄到家就可以了。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964180275_6qtuo3.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 17）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964180275_6qtuo3.png)
 
 需要注意的一点是，必须用实体卡才能申请复星的虚拟资产账户，只有电子 ID 是不够的。
 
@@ -162,7 +166,7 @@
 
 收到之后，是一个信封，里面装着帕劳 ID 的实体卡，我们之后会使用它来开通虚拟资产账户。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964451305_c0tw97.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 18）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964451305_c0tw97.png)
 
 ## 五、复星虚拟资产账户开户流程
 
@@ -180,7 +184,7 @@
 
 如图 10 所示，等待审核。整个 KYC 的过程非常快，几分钟时间就会通过。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964774272_klcbah.png)
+![复星虚拟资产账户教程：复星虚拟资产账户开户流程（图 1–10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964774272_klcbah.png)
 
 如图 11 所示，回到虚拟账户开户的主界面，点击立即开通。
 
@@ -202,7 +206,7 @@
 
 如果不知道怎么使用 Web3 钱包、怎么把交易所的资金转移到 Web3 钱包，可以参考我之前出的 Web3 钱包教程：https://www.youtube.com/watch?v=mA3jhbcKjRI
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964855185_anyyc2.png)
+![复星虚拟资产账户教程：复星虚拟资产账户开户流程（图 11–20）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964855185_anyyc2.png)
 
 接下来，这里我选择欧易 Web3 钱包，获取对应的以太坊钱包地址。
 
@@ -232,7 +236,7 @@
 
 如图 30 所示，网络一定要选择以太坊，这一步一定不能选错，否则转过去的钱就丢失了。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774965188083_8730e4.png)
+![复星虚拟资产账户教程：复星虚拟资产账户开户流程（图 21–30）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774965188083_8730e4.png)
 
 如图 31 所示，把地址粘贴进来，点击确认。
 
@@ -254,7 +258,7 @@
 
 如图 40 所示，这里会给出复星账户的收款地址，复制一下。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774965267340_53c56k.png)
+![复星虚拟资产账户教程：复星虚拟资产账户开户流程（图 31–40）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774965267340_53c56k.png)
 
 如图 41 所示，回到欧易钱包界面，点击主页的发送按钮，选择 USDT。
 
@@ -278,7 +282,7 @@
 
 等待一个工作日左右的时间，认证就会通过。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774965349750_hag135.png)
+![复星虚拟资产账户教程：复星虚拟资产账户开户流程（图 41–50）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774965349750_hag135.png)
 
 如图 51 所示，通过之后，回到主界面，点击加密货币兑换按钮。选择兑出，输入 USDT 的金额。兑换的时候，会有 1% 左右的汇率磨损。
 
@@ -288,7 +292,7 @@
 
 如图 52 所示，兑换成功之后，可以在证券账户中看到刚刚兑换的这笔美元。
 
-![](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774965488017_k85mb7.png)
+![复星虚拟资产账户教程：复星虚拟资产账户开户流程（图 51–52）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774965488017_k85mb7.png)
 
 ## 六、兑换之后的两个选择
 
