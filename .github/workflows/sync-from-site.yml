@@ -1,0 +1,35 @@
+name: 同步投资导航网站教程
+
+on:
+  schedule:
+    - cron: '0 1 * * 1' # 每周一北京时间 09:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-from-site
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: 从网站拉取最新教程
+        env:
+          # 网站前端同款公开只读 key，只能读已发布的教程
+          SUPABASE_ANON_KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZzbHJpbW5lYWtscW1haXl4dm9vIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTMyMTIxODcsImV4cCI6MjA2ODc4ODE4N30.XxJKJ5hCNmUM7fX0QKVwtkD2NcdHdJ-uaimgzpZwzwU
+        run: node scripts/sync-from-site.mjs
+      - name: 有变化就提交
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then echo "没有新内容"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "docs: 同步投资导航网站教程（$(TZ=Asia/Shanghai date +%F)）"
+          git push

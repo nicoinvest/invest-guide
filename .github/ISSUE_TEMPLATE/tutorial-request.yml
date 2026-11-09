@@ -1,0 +1,12 @@
+name: 想看的教程
+description: 希望补充哪个平台、哪类操作的教程
+title: "[想看] "
+labels: [想看的教程]
+body:
+  - type: textarea
+    id: request
+    attributes:
+      label: 想看什么
+      description: 比如某家银行或券商怎么开户、某种出入金方式怎么操作
+    validations:
+      required: true

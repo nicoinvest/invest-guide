@@ -4,7 +4,6 @@
 
 手头有 USDT，想出金换成法币，或者投资港美股，应该怎么操作？手头有港币美元，又应该怎么安全地入金到加密货币交易所？这篇文章分享一个合规安全、大陆用户可以上手操作的 USDT 出入金方案：复星虚拟资产账户。从背景介绍、前置准备，到开户、充值、兑换、出金，手把手带你走完全流程。
 
-
 ## 一、复星虚拟资产账户是什么？
 
 很多持有加密货币的朋友，应该都面临过同一个问题：怎么安全合规地大额出入金 USDT？怎么安全合规地用 USDT 投资传统的港美股市场？
@@ -36,7 +35,9 @@
 
 **1. 复星券商账户**
 
-需要先开通复星券商账户。最近复星已经全面降低了大陆用户的开户条件，直接通过下方的链接，走到 CA 开户那一步，提交你的护照或者港澳通行证，就可以成功开户，门槛非常低。
+需要先开通复星券商账户。最近复星已经全面降低了大陆用户的开户条件，切换到全局海外 IP，比如香港 IP（注意一定要使用梯子**「全局模式」**，否则会提示无法开通），直接通过下方的链接，走到 CA 开户那一步，提交你的护照或者港澳通行证，就可以成功开户，门槛非常低。
+
+复星券商从 0 到 1 开户教程：https://invest-nav.com/tutorials/us-brokers/text/fosun-securities/
 
 复星专属渠道开户链接：https://h5.fotechwealth.com/pages/startAccount.html?channel=030003&aeCode=B2&invitationCode=PWZYR2&langType=zhCn
 
@@ -56,7 +57,7 @@
 
 关于这一步，可以使用盈透券商的账户确认书结单，把导出 PDF 里面的资产数字更改一下就可以了。
 
-![复星虚拟资产账户教程：开户前置条件（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963833911_ymonnv.png)
+![复星虚拟资产账户教程：开户前置条件（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963833911_ymonnv.png)
 
 ## 四、购买帕劳 ID 全流程
 
@@ -66,23 +67,23 @@
 
 进入官网之后，点击立即申请按钮。
 
-![复星虚拟资产账户教程：进入官网之后，点击立即申请按钮（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963876307_5pssbg.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963876307_5pssbg.png)
 
 套餐那里，更改为一年套餐。如果不着急用的话，加急处理没必要勾选。正常情况下，购买之后半个月左右时间，数字身份证就会邮寄到家。
 
 点击立即购买。
 
-![复星虚拟资产账户教程：点击立即购买（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963882467_5zkjwq.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 4）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963882467_5zkjwq.png)
 
 总价是 283 美元，包括帕劳 ID 本身的费用、邮费和折扣减免。
 
 不过如果选择信用卡支付的话，折扣减免是 5 美元。
 
-![复星虚拟资产账户教程：不过如果选择信用卡支付的话，折扣减免是 5 美元（配图 3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963909301_ficlxn.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 5）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963909301_ficlxn.png)
 
 往下拉可以看到有 3 种付款方式，选择加密货币支付的话，折扣是 10 美元，更划算一些。
 
-![复星虚拟资产账户教程：往下拉可以看到有 3 种付款方式，选择加密货币支付的话，折扣是 10 美元，更划算一些（配图 4）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963927450_yi9avw.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 6）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963927450_yi9avw.png)
 
 这里以加密货币支付为例。
 
@@ -90,51 +91,51 @@
 
 点击下单并付款。
 
-![复星虚拟资产账户教程：点击下单并付款（配图 5）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963938675_hdmxmk.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 7）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774963938675_hdmxmk.png)
 
 跳转到下单界面之后，需要连接你的 Web3 钱包，比如欧易或者狐狸钱包。如果目前还不知道怎么使用 Web3 钱包的话，可以参考我之前出的 Web3 钱包教程：https://www.youtube.com/watch?v=mA3jhbcKjRI
 
 你得先把 USDT 充到钱包里面，才能完成付款。
 
-![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 6）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964004921_1oeeiv.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 8）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964004921_1oeeiv.png)
 
 选择 BNB chain 这条链，点击 confirm。
 
 显示转账完成、付款已经被验证，点击下面的完成按钮。
 
-![复星虚拟资产账户教程：显示转账完成、付款已经被验证，点击下面的完成按钮（配图 7）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964019010_jkzdcb.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 9）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964019010_jkzdcb.png)
 
 提示购买成功。
 
 点击开始申请按钮。
 
-![复星虚拟资产账户教程：点击开始申请按钮（配图 8）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964029916_a1y861.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964029916_a1y861.png)
 
 第一步需要上传照片，这个照片之后会印到帕劳实体身份证上面，我上传的是免冠照。
 
-![复星虚拟资产账户教程：第一步需要上传照片，这个照片之后会印到帕劳实体身份证上面，我上传的是免冠照（配图 9）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964077661_wlxe0u.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 11）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964077661_wlxe0u.png)
 
 往下拉，填写姓名、性别、出生日期这些基本信息，如实填写就可以了。
 
-![复星虚拟资产账户教程：往下拉，填写姓名、性别、出生日期这些基本信息，如实填写就可以了（配图 10）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964081457_d2nf47.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 12）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964081457_d2nf47.png)
 
 继续往下拉，填写收货地址和联系方式，填完之后点击验证地址。
 
-![复星虚拟资产账户教程：继续往下拉，填写收货地址和联系方式，填完之后点击验证地址（配图 11）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964093007_j7933u.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 13）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964093007_j7933u.png)
 
 第二步，需要完成 KYC 身份认证。
 
 选择第一个，除美国以外的所有国家地区，点击继续。
 
-![复星虚拟资产账户教程：选择第一个，除美国以外的所有国家地区，点击继续（配图 12）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964104434_9lsm3f.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 14）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964104434_9lsm3f.png)
 
 签发国家选择中国，证件类型选择身份证，点击在手机上继续。
 
-![复星虚拟资产账户教程：签发国家选择中国，证件类型选择身份证，点击在手机上继续（配图 13）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964111828_e4iove.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 15）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964111828_e4iove.png)
 
 用手机扫一下二维码。
 
-![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 14）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964115875_85ujak.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 16）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964115875_85ujak.png)
 
 如图 1 所示，在弹出来的界面中，点击开始认证。
 
@@ -154,11 +155,11 @@
 
 这里告诉我们申请已经成功提交，帕劳需要几个工作日的时间审查申请。
 
-![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 16）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964146060_29hvnq.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 17）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964146060_29hvnq.png)
 
 等几天之后，在卡片管理界面就可以看到申请已经通过了，耐心等它邮寄到家就可以了。
 
-![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 17）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964180275_6qtuo3.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 18）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964180275_6qtuo3.png)
 
 需要注意的一点是，必须用实体卡才能申请复星的虚拟资产账户，只有电子 ID 是不够的。
 
@@ -166,7 +167,7 @@
 
 收到之后，是一个信封，里面装着帕劳 ID 的实体卡，我们之后会使用它来开通虚拟资产账户。
 
-![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 18）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964451305_c0tw97.png)
+![复星虚拟资产账户教程：购买帕劳 ID 全流程（配图 19）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774964451305_c0tw97.png)
 
 ## 五、复星虚拟资产账户开户流程
 

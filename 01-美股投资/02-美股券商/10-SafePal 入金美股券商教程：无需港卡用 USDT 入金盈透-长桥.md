@@ -1,4 +1,4 @@
-# SafePal 入金美股券商教程：无需港卡用 USDT 入金盈透/长桥	
+# SafePal 入金美股券商教程：无需港卡用 USDT 入金盈透/长桥
 
 作者：[Nico 投资有道](https://www.youtube.com/@NicoGrowthz) · [投资导航网页版](https://invest-nav.com/tutorials/us-brokers/text/safepal-fund-broker/) · [返回本分类](./README.md)
 
@@ -12,6 +12,8 @@
 https://youtu.be/yicj78fT_i8?si=8SNfwejes4JeCZnl
 
 我的 SafePal 专属渠道邀请码：711969，通过此邀请码注册，可以免费领取一个 SafePal 冷钱包，感谢支持🙏
+
+**现在还能不能开**：长桥目前已经无法开户，SafePal 目前大陆用户也已经开不了，这篇适合两个账户都已经有的朋友。手里有 USDT、USDC、还没有美股券商的话，可以直接开 [BIT](<./02-BIT 合规美股券商 + USDT 直接入金：大陆用户无门槛从 0 到 1 开户入金教程.md>)，它支持稳定币直接入金美股账户；其他还能开的券商见[美股券商怎么选](<./17-大陆用户如何投资美股？从 0 到 1 指南：美股投资方式选哪个？美股券商哪家强？.md>)。
 
 在今天这篇推文教程中，我会从 0 到 1 详细演示如何使用 SafePal 入金长桥券商！
 
@@ -86,11 +88,6 @@ SafePal 的真正优势在于，将 Web3 世界和传统金融世界融合在了
 ## 4. SafePal 汇款到 Wise 账户
 
 这里我们需要借助 Wise 钱包来中转一下，将欧元转换为新币，入金到新加坡长桥券商中，这个操作过程不会特别复杂。
-
-长桥券商无门槛开户教程：https://x.com/tychozzz/status/1859284466675613785
-
-新加坡长桥，支持大陆身份证办理，适合美股新人投资者。入金 1 万等值港币终生免佣港美股，最高赠送 1100 港币股票现金卡，享受 4% 余额通理财收益，邀请链接如下，感谢🙏（如果打不开，请关闭梯子）
-https://activity.lbmkt.ing/pages/longbridge/7415/index.html?app_id=longbridge&org_id=1&account_channel=lb&lang=zh-CN&channel=HB100039&invite-code=PTKFA3
 
 1. 如图 1、2 所示，在手机上打开Wise App。如果你还没有欧元钱包的话，滑到最右侧，点击+号，然后点击开设余额，免费获取一个欧元钱包就可以。
 2. 如图 3 所示，进入欧元钱包，点击上方的账户号码。

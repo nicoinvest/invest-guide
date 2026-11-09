@@ -70,8 +70,7 @@
 
 你先点击云闪付，跳转之后点击全部支付 App，拉到最底部就能看到 Nihao China 了。
 
-![Nihao China 绑定港卡消费教程：你先点击云闪付，跳转之后点击全部支付 App，拉到最底部就能看到 Nihao China 了（配图 6）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774327158970_gmgkpq.png)
-
+![Nihao China 绑定港卡消费教程（配图 4）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1774327158970_gmgkpq.png)
 
 总的来说，如果你之前被云闪付的各种坑劝退了，Nihao China 是目前最省心的替代方案。
 

@@ -1,0 +1,28 @@
+name: 教程步骤和实际不一样
+description: 开户、入金、出金等步骤变了，或者费用、条件有变化
+title: "[教程有误] "
+labels: [教程有误]
+body:
+  - type: input
+    id: tutorial
+    attributes:
+      label: 哪篇教程
+      description: 教程标题或链接
+    validations:
+      required: true
+  - type: textarea
+    id: diff
+    attributes:
+      label: 哪一步和实际不一样
+      description: 写清楚现在实际看到的情况。附图时请遮挡姓名、证件号、账号和余额。
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: 发现日期
+      placeholder: 2026-11-09
+  - type: input
+    id: source
+    attributes:
+      label: 官方说明链接（如有）

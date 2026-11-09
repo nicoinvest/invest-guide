@@ -8,6 +8,7 @@
 | --- | --- |
 | 01 | [Xesim + Club SIM：大陆用户获取海外手机号实操教程](<./01-Xesim + Club SIM：大陆用户获取海外手机号实操教程.md>) |
 | 02 | [Giffgaff 英国手机卡教程：大陆用户无门槛开通](<./02-Giffgaff 英国手机卡教程：大陆用户无门槛开通.md>) |
+| 03 | [火爆全网的 Saily 美国手机号真的好用吗？注册、激活、Xesim 导入和 6 个主流 App 接码，从 0 到 1 实测避雷](<./03-火爆全网的 Saily 美国手机号真的好用吗？注册、激活、Xesim 导入和 6 个主流 App 接码，从 0 到 1 实测避雷.md>) |
 
 以上教程同步收录于投资导航网站，可[在线阅读](https://invest-nav.com/tutorials/overseas-sim/text/)。
 

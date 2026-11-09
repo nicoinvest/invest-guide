@@ -30,7 +30,7 @@
 
 今年港股打新更是来了一波小高潮，我简单在券商 App 统计了一下今年 1 月份以来上市的 29 家公司，只有 4 家公司首日是下跌的。别太点背，一般都能赚到钱。
 
-![港股 IPO 打新热：什么是港股打新？（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776354251213_rgofu5.jpg)
+![港股 IPO 打新热：什么是港股打新？（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776354251213_rgofu5.jpg)
 
 ### 1. 美股打新 vs 港股打新
 
@@ -102,7 +102,7 @@
 
 在 FINI 之前，大家会在多家券商开户，同时申购同一只新股，提高中签概率，叫做一人多户打新。FINI 之后这条路被完全封死了。
 
-![港股 IPO 打新热：FINI 平台与一人一户（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776354397613_vqxrrz.png)
+![港股 IPO 打新热：FINI 平台与一人一户（配图 3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776354397613_vqxrrz.png)
 
 ## 二、港股打新操作流程
 
@@ -110,7 +110,7 @@
 
 前置准备：香港券商
 
-我这篇文章中演示的券商，是我自己常用的长桥、富途、复星。
+我这篇文章中演示的券商，是我自己常用的长桥、富途、复星。（2026 年 10 月更新：长桥和富途目前大陆用户已经无法开户，已经有账户的朋友可以照着操作；还没有港股券商的话，可以看[复星证券开户教程](./01-复星证券开户教程：大陆用户无门槛开户免佣.md)。）
 
 ### 2.1 长桥
 
@@ -122,7 +122,7 @@
 
 在 2.4 部分我会详细讲到具体的概念，这里大家先简单了解一下流程。
 
-![港股 IPO 打新热：1 长桥（图 1–3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776354068077_n26xnj.png)
+![港股 IPO 打新热：长桥（图 1–3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776354068077_n26xnj.png)
 
 ### 2.2 富途
 
@@ -134,7 +134,7 @@
 
 在 2.4 部分我会详细讲到具体的概念，这里大家先简单了解一下流程。
 
-![港股 IPO 打新热：2 富途（图 1–3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776354074105_sknzwe.png)
+![港股 IPO 打新热：富途（图 1–3）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776354074105_sknzwe.png)
 
 ### 2.3 复星
 
@@ -148,7 +148,7 @@
 
 如图 5 所示，提交了认购申请，等待结果中签就行。
 
-![港股 IPO 打新热：3 复星（图 1–5）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776354079886_9ore4i.png)
+![港股 IPO 打新热：复星（图 1–5）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776354079886_9ore4i.png)
 
 ### 2.4 打新相关概念/流程解读
 
