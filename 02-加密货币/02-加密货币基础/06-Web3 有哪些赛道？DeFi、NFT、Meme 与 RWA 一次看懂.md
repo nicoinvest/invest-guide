@@ -126,3 +126,7 @@ RWA 的最大意义是彻底打破了时空的限制，实现了全球化准入�
 X 账号：https://x.com/tychozzz
 
 Youtube 频道：https://www.youtube.com/@NicoGrowthz
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/crypto-basics/text/web3-sectors-defi-nft-meme-rwa/)

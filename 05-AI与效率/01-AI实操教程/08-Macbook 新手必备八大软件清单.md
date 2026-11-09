@@ -64,3 +64,7 @@ Mac 上的所有软件，都可以在终端用 Homebrew 一行 brew install 命�
 
 以上就是我强烈推荐必装的 Mac 软件清单，供大家参考。
  ![Macbook 新手必备八大软件清单（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1776235211830_dg3lzy.png)
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/ai-tutorials/text/macbook-software/)

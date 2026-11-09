@@ -141,3 +141,7 @@ Bybit、Bitget 都开了一个叫 **TradFi** 的板块，背后是外汇圈用�
 用 USDT 买美股，入口很多，但本质只有两种：要么买到股票（代币化股票、美股直连、USDT 入金券商），要么只是跟着价格涨跌（股票合约、TradFi）。
 
 **长期投资选真股票，短线交易才用合约**，这一条记住了，就不会在交易所买美股时踩大坑。后面几篇，我会把代币化股票、股票合约、币安和 Bybit、Bitget 的 TradFi 分别手把手讲一遍。
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/crypto-trading/text/buy-us-stocks-with-usdt/)

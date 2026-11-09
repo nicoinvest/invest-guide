@@ -125,3 +125,7 @@ Bitget 的活动是它最大的特点之一，但活动规则写得比较细，�
 Bitget 是一家活动多、跟单强、还能用 USDT 买美股的交易所，大陆身份证可以正常注册认证。用 Bitget 之前记住两件事：下载交易所而不是 Bitget Wallet，USDT 转进来时两边网络选同一个。
 
 它更适合当你的第二个交易所：C2C 买币用欧易或币安，打新、跟单、买美股用 Bitget。
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/exchanges/text/bitget-exchange-guide/)

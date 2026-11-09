@@ -82,3 +82,7 @@
 
 - 我的 X 账号：https://x.com/tychozzz
 - 我的 Youtube 频道：https://www.youtube.com/@NicoGrowthz
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/fund-transfer/text/nihao-china-bindcard/)

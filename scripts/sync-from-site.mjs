@@ -226,6 +226,10 @@ async function main() {
       '',
       conv.body,
       '',
+      '---',
+      '',
+      `> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](${siteUrl(e.cat.slug, e.t.slug)})`,
+      '',
     ].join('\n')
     mkdirSync(dirname(abs), { recursive: true })
     writeFileSync(abs, md)
@@ -277,9 +281,13 @@ async function main() {
   const latest = newIndex.filter((x) => pub.has(x.websiteTutorialId))
     .sort((a, b) => String(pub.get(b.websiteTutorialId)).localeCompare(String(pub.get(a.websiteTutorialId)))).slice(0, 10)
   const block = ['<!-- sync:latest:start -->', ...latest.map((x) => `- ${String(pub.get(x.websiteTutorialId)).slice(0, 10)} · [${x.title}](${mdHref(`./${x.path}`)})`), '<!-- sync:latest:end -->'].join('\n')
-  if (/<!-- sync:latest:start -->[\s\S]*<!-- sync:latest:end -->/.test(home)) {
-    writeFileSync(readmePath, home.replace(/<!-- sync:latest:start -->[\s\S]*<!-- sync:latest:end -->/, block))
+  let nextHome = home
+  if (/<!-- sync:latest:start -->[\s\S]*<!-- sync:latest:end -->/.test(nextHome)) {
+    nextHome = nextHome.replace(/<!-- sync:latest:start -->[\s\S]*<!-- sync:latest:end -->/, block)
   }
+  // 首页教程总数
+  nextHome = nextHome.replace(/<!-- sync:count -->\d*<!-- \/sync:count -->/g, `<!-- sync:count -->${newIndex.length}<!-- /sync:count -->`)
+  if (nextHome !== home) writeFileSync(readmePath, nextHome)
   if (process.env.FORCE) writeFileSync(join(ROOT, '.sync-same-source.txt'), sameSource.join('\n'))
   console.log(`新增 ${added} 篇，更新 ${updated} 篇，共收录 ${newIndex.length} 篇；未同步分类 ${skipped.length} 篇`)
 }

@@ -180,3 +180,7 @@ BIT 官网写明，除了 USDT、USDC 出入金，也支持美元电汇。但电
 出金过程中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
 
 BIT 专属邀请链接（邀请码 nico）：https://www.bit.com/zh/us-stock-intro?invite_code=nico
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/us-brokers/text/bit-us-stock-withdrawal/)

@@ -100,3 +100,7 @@ Layer 2 既提升了以太坊交互的性能，又给 Web3 用户节省了大量
 X 账号：https://x.com/tychozzz
 
 Youtube 频道：https://www.youtube.com/@NicoGrowthz
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/crypto-basics/text/what-is-ethereum-smart-contracts/)

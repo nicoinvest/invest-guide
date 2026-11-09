@@ -134,3 +134,7 @@
 - [Vanguard：Vanguard S&P 500 ETF（VOO）](https://advisors.vanguard.com/investments/products/voo/vanguard-sp-500-etf)：费率（expense ratio）0.03%
 
 这就是本篇教程的所有内容了，如果大家觉得对你投资有帮助的话，麻烦帮忙点赞、收藏、转发，谢谢大家啦～
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/qdii-funds/text/alipay-qdii-funds/)

@@ -124,3 +124,7 @@ C 类申购费为零，持有超过 60 天的赎回费为零。按资产金额�
 X 账号：https://x.com/tychozzz
 
 Youtube 频道：https://www.youtube.com/@NicoGrowthz
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/us-bonds/text/alipay-treasury-qdii-funds/)

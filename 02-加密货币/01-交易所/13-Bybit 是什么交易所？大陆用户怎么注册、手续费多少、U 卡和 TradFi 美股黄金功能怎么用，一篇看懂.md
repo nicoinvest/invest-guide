@@ -124,3 +124,7 @@ Bybit 普通用户的手续费大约是：
 Bybit 是一家合约深、U 卡和 TradFi 很有特色的交易所。大陆用户注册时记住一点：网络换到台湾 IP、居住地选台湾，认证时证件照样选中国身份证。
 
 它同样更适合当你的第二个交易所：C2C 买币用欧易或币安，转到 Bybit 开 U 卡、做出金、交易 TradFi。
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/exchanges/text/bybit-exchange-guide/)

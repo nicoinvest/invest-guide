@@ -152,3 +152,7 @@ MT5 的开通和下单步骤，看[Bybit TradFi 教程](<./21-Bybit TradFi 怎�
 用 USDT 买黄金，记住一句话就够了：**长期拿，买 XAUT、PAXG；短线做，用合约或 MT5。**
 
 黄金代币背后有真金、没有持有成本，适合当作资产配置的一部分；黄金合约和 MT5 能做空、能开杠杆，但每天都在交钱，杠杆开大了也会爆仓。先想清楚自己要的是配置还是交易，再决定用哪一种。
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/crypto-trading/text/buy-gold-with-usdt/)

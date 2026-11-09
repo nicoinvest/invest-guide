@@ -521,3 +521,7 @@ Starryblu 真正有差异化的地方主要有两个。
 
 - X：https://x.com/tychozzz
 - YouTube：https://www.youtube.com/@NicoGrowthz
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/fund-transfer/text/starryblu-account-transfer-guide/)

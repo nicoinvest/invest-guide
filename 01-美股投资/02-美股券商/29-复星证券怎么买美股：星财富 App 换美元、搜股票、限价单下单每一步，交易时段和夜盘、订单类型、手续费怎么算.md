@@ -178,3 +178,7 @@
 开户和交易过程中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
 
 复星专属开户链接：https://h5.fotechwealth.com/pages/startAccount.html?channel=030003&aeCode=B2&invitationCode=PWZYR2&langType=zhCn
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/us-brokers/text/fosun-securities-how-to-buy-us-stocks/)

@@ -125,3 +125,7 @@ Bybit是一家全球排名第2的交易所（CoinMarketCap网站上有排名数�
 如果你在开通过程中遇到任何问题，可以加入我的电报群，与群友交流，我也会在群中解答问题：https://t.me/nicoinvestmentfriends
 
 这就是本篇教程的全部内容啦，如果对于你开通虚拟卡有帮助的话，麻烦帮忙点赞、收藏、转发，这是对我教程的最大支持，感谢！🙏
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/crypto-cards/text/bybit-virtual-card/)

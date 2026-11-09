@@ -222,3 +222,7 @@ SPMO 跟踪标普 500 动量指数，从标普 500 里挑出过去一年左右�
 X 账号：https://x.com/tychozzz
 
 Youtube 频道：https://www.youtube.com/@NicoGrowthz
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/us-etf/text/us-style-etf-growth-value-small-cap/)

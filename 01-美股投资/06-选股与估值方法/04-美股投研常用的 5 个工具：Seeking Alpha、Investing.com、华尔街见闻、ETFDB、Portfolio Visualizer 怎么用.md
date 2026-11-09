@@ -241,3 +241,7 @@ Portfolio Visualizer 是一个投资组合回测工具，把你的组合输进�
 ---
 
 投资美股过程中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/stock-valuation-methods/text/us-stock-research-tools/)

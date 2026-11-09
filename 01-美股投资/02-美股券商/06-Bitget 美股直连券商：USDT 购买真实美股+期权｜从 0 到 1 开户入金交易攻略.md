@@ -353,3 +353,7 @@ Bitget 这次推出美股 2.0 新产品，买到的不是单纯跟踪美股价�
 - [Bitget 美股 2.0 最新升级：美股直连交易（2026 年 6 月 22 日）](https://www.bitget.com/zh-CN/support/articles/12560603886230)：rToken 支持 500 余只美股和 ETF，美股直连可以交易超过 1 万只美国上市股票和 ETF
 - [Bitget 股票合约介绍（2026 年 1 月 8 日）](https://www.bitget.com/zh-CN/support/articles/12560603847519)：股票合约最高 100 倍杠杆，7×24 小时交易
 - [美国国税局（IRS）税收协定税率表 1](https://www.irs.gov/pub/irs-lbi/tax-treaty-table-1.pdf)：中国居民从美国公司取得的股息，协定税率是 10%
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/us-brokers/text/bitget-us-stock/)

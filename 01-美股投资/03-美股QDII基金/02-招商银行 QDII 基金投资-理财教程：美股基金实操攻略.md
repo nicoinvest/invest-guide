@@ -206,3 +206,7 @@
 好了，以上就是本篇推文教程的全部内容了，如果对于你使用招商银行投资功能有帮助的话，麻烦帮忙点赞、收藏、转发，感谢～
 
 遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends，也可以查看我 X 主页置顶推文，加入免费微信交流群：https://x.com/tychozzz/status/2020475421691916468?s=20
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/qdii-funds/text/cmb-qdii-funds/)

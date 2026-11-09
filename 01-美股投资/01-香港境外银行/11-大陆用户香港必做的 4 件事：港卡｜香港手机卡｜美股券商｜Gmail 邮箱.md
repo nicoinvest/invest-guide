@@ -238,3 +238,7 @@ Club SIM 视频教程 https://youtu.be/cDqBZ3ylqcA?si=XoajDvzdobimb2R1
 X 账号 https://x.com/tychozzz
 
 Youtube 频道 https://www.youtube.com/@NicoGrowthz
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/hk-banks/text/mainland-hongkong-bank-sim-brokers-gmail/)

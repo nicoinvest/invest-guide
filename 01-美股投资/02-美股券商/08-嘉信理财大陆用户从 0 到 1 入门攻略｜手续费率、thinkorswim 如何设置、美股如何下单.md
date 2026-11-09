@@ -571,3 +571,7 @@ paper money 的意思就是模拟账户，它除了钱不是真实的以外，�
 X 账号：https://x.com/tychozzz
 
 Youtube 频道：https://www.youtube.com/@NicoGrowthz
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-thinkorswim-guide/)

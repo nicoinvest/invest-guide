@@ -139,3 +139,7 @@ C2C 卖出要注意收款银行卡的风控，万一被冻结，处理办法见[
 - [Wise 常见问题](<./25-Wise 常见问题：注册提示已有账号、收不到验证码、人民币不能入金、嘉信出金到 Wise 收不收费、出金支付宝、被要求说明资金来源怎么办.md>)
 
 出金过程中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/fund-transfer/text/us-broker-withdraw-to-mainland/)

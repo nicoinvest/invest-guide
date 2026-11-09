@@ -176,3 +176,7 @@ AI 需求是怎么传到这些公司身上的？简单来说：科技巨头建 A
 X 账号：https://x.com/tychozzz
 
 Youtube 频道：https://www.youtube.com/@NicoGrowthz
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/us-etf/text/smh-vs-soxx-vs-soxq/)

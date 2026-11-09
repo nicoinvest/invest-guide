@@ -163,3 +163,7 @@
 想了解其他还能开的 U 卡，可以看[Bybit 虚拟卡开通教程](<./01-2026 最新 Bybit 虚拟卡开通教程：完整实操指南.md>)，两张卡可以对比着用。
 
 如果你在开通 Gate 虚拟卡的过程中遇到任何问题，可以直接加入电报群讨论交流：https://t.me/nicoinvestmentfriends
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/crypto-cards/text/gate-virtual-card/)

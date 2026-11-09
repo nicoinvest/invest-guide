@@ -197,3 +197,7 @@
 ---
 
 使用过程中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/crypto-trading/text/okx-earn-guide/)

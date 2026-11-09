@@ -214,3 +214,7 @@ Bitget 钱包内置了购物功能，可以使用虚拟卡来订酒店、买淘�
 X 账号：https://x.com/tychozzz
 
 Youtube 频道：https://www.youtube.com/@NicoGrowthz
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/crypto-cards/text/bitget-virtual-card-consume/)

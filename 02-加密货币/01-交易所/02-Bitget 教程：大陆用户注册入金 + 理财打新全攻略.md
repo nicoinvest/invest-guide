@@ -291,3 +291,7 @@ LaunchPad 是打新活动，以很低的认购价去购买即将上线的代币�
 - [Bitget：鲨鱼鳍](https://www.bitget.com/finance/shark-fin)、[现货定投](https://www.bitget.com/support/articles/12560603820683)
 
 这就是本篇教程的全部内容啦，如果对于你入门交易所、投资加密货币有帮助的话，麻烦帮忙点赞、收藏、转发，感谢！...
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/exchanges/text/bitget-tutorial/)

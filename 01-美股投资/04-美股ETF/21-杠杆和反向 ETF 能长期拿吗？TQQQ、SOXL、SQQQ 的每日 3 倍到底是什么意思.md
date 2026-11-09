@@ -160,3 +160,7 @@ SQQQ 这类反向 ETF，是指数跌它涨。很多人会在觉得市场「涨�
 X 账号：https://x.com/tychozzz
 
 Youtube 频道：https://www.youtube.com/@NicoGrowthz
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/us-etf/text/leveraged-inverse-etf-guide/)

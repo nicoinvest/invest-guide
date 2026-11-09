@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cover-investment-v3.png" alt="带有金色比特币徽记的探索者走向蓝金色金融城市，路边岩石刻有红绿 K 线" width="1000">
+  <img src="./assets/cover-investment-v3.webp" alt="带有金色比特币徽记的探索者走向蓝金色金融城市，路边岩石刻有红绿 K 线" width="1000">
 </p>
 
 <h1 align="center">Nico 投资指南</h1>
@@ -15,6 +15,7 @@
 </p>
 
 <p align="center">
+  <a href="#popular">热门教程</a> ·
   <a href="#guides">教程导航</a> ·
   <a href="#latest">最近更新</a> ·
   <a href="#tools">用工具</a> ·
@@ -42,11 +43,48 @@
 
 你可以按照主题阅读，也可以直接全局搜索当前需要解决的问题。
 
+目前共收录 <!-- sync:count -->292<!-- /sync:count --> 篇教程，每周一从网站自动同步更新。
+
 如果你喜欢网站阅读，可以前往 [投资导航](https://invest-nav.com/)；喜欢跟着视频学习，可以看我的 [YouTube 频道](https://www.youtube.com/@NicoGrowthz)。
+
+觉得有帮助的话，点一下右上角的 ⭐ Star，有新教程时更容易找到这里。
 
 > GitHub 项目、网站、YouTube 频道持续更新中，欢迎大家持续关注更多干货内容…
 
 > 本项目仅分享个人经验心得，不构成任何投资建议，在具体实操之前，请务必结合自己的实际财务情况。
+
+<a id="popular"></a>
+
+## 热门教程
+
+网站上大家看得最多的教程，新手可以先从这里开始：
+
+**美股开户与入金出金**
+
+- [大陆用户如何投资美股？美股投资方式和券商怎么选](<./01-美股投资/02-美股券商/17-大陆用户如何投资美股？从 0 到 1 指南：美股投资方式选哪个？美股券商哪家强？.md>)
+- [嘉信理财大陆用户线上开户攻略](<./01-美股投资/02-美股券商/03-嘉信理财证券大陆用户从 0 到 1 线上开户攻略：无需海外地址｜免 CRS.md>)
+- [嘉信理财入金教程：四大入金方案](<./01-美股投资/02-美股券商/07-嘉信理财入金从 0 到 1 教程：四大入金方案｜Wise 入金｜iFAST 入金｜汇丰香港入金｜Bitget 虚拟卡入金.md>)
+- [嘉信理财入门：手续费、thinkorswim 设置和下单](<./01-美股投资/02-美股券商/08-嘉信理财大陆用户从 0 到 1 入门攻略｜手续费率、thinkorswim 如何设置、美股如何下单.md>)
+- [嘉信理财出金教程](<./01-美股投资/02-美股券商/15-嘉信理财出金教程：跨境汇款出金香港银行、ACH 转账 Wise 美元账户.md>)
+- [盈透证券大陆用户线上开户攻略](<./01-美股投资/02-美股券商/05-盈透券商大陆用户从 0 到 1 线上保姆级开户攻略｜Interactive Brokers｜IBKR｜免除 CRS.md>)
+- [复星证券开户教程](./01-美股投资/02-美股券商/01-复星证券开户教程：大陆用户无门槛开户免佣.md)
+- [BIT 美股券商 USDT 入金开户教程](<./01-美股投资/02-美股券商/02-BIT 合规美股券商 + USDT 直接入金：大陆用户无门槛从 0 到 1 开户入金教程.md>)
+- [盈立证券新加坡开户教程](./01-美股投资/02-美股券商/04-盈立证券新加坡开户教程：大陆身份证开户、费用对比与完整流程.md)
+
+**港卡、境外账户与出入金**
+
+- [为什么要开一张香港银行卡](./01-美股投资/01-香港境外银行/15-大陆用户开通港卡必读指南：翻越金融长城，为什么必须人手一个香港银行账户？.md)
+- [众安银行开户教程](<./01-美股投资/01-香港境外银行/01-众安银行开户教程：大陆用户线上从 0 到 1 开户.md>)
+- [中银香港开户教程](<./01-美股投资/01-香港境外银行/02-中银香港开户教程：大陆用户从 0 到 1 实操指南.md>)
+- [英国 iFAST 开户入金教程](<./01-美股投资/01-香港境外银行/08-英国 iFAST 开户-入金教程：大陆用户从 0 到 1 线上开户入金.md>)
+- [Wise 开户、入金、出金教程](<./03-出入金与资金流转/01-出入金/14-Wise 多币种钱包从 0 到 1 开户-入金-出金教程：轻松玩转 Wise.md>)
+- [币安＋众安银行 USDT 出入金教程](<./03-出入金与资金流转/01-出入金/15-币安+众安银行跨境汇款出入金 USDT 教程.md>)
+- [Xesim + Club SIM 海外手机号教程](<./03-出入金与资金流转/02-海外电话卡/01-Xesim + Club SIM：大陆用户获取海外手机号实操教程.md>)
+
+**加密货币与 AI**
+
+- [大陆用户怎么买比特币](<./02-加密货币/01-交易所/01-大陆用户怎么买比特币？2026 最详细教程（注册到交易全流程）.md>)
+- [大陆苹果手机订阅 ChatGPT Plus + Codex](<./05-AI与效率/01-AI实操教程/09-大陆苹果手机如何订阅 ChatGPT Plus + Codex？无需海外信用卡、无需中介代充.md>)
 
 <a id="guides"></a>
 
@@ -127,14 +165,14 @@
 
 ## 用工具玩转投资
 
-投资路上需要的工具，这里都有，全部免费，开箱即用，[点击进入投资导航网站](https://invest-nav.com/)。
+投资路上需要的工具，这里都有，全部免费，开箱即用，[点击进入投资导航网站](https://invest-nav.com/tools/)。
 
-- [投资组合追踪器](https://invest-nav.com/tools/portfolio-tracker/)：看清持仓、盈亏和资产配置
-- [QDII 额度宝](https://invest-nav.com/tools/qdii-quota/)：先确认今天还能买多少
-- [财经日历](https://invest-nav.com/tools/earnings-calendar/)：提前安排本周财报研究
-- [DCA 定投计算器](https://invest-nav.com/tools/dca-calculator/)：把定投计划换算成长期结果
-- [股票估值计算器](https://invest-nav.com/tools/valuation/)：比较市价与内在价值假设
-- [FIRE 财务自由计算器](https://invest-nav.com/tools/fire-calculator/)：算出财务自由还需要多久
+| 分组 | 工具 |
+| --- | --- |
+| 资产管理 | [投资组合追踪器](https://invest-nav.com/tools/portfolio-tracker/)：记录持仓、配比和盈亏 |
+| 行情与数据 | [QDII 额度宝](https://invest-nav.com/tools/qdii-quota/)：查 QDII 基金今天还能买多少<br>[市场温度计](https://invest-nav.com/tools/market-signal/)：美股和比特币现在冷还是热<br>[USDT 价格与资金费率](https://invest-nav.com/tools/crypto-rates/)：今天 U 价多少，哪家资金费率高<br>[财经日历](https://invest-nav.com/tools/earnings-calendar/)：按周按月看美股财报日期<br>[宏观日历](https://invest-nav.com/tools/macro-calendar/)：议息、CPI、非农北京时间几点公布<br>[美股交易时间](https://invest-nav.com/tools/us-market-hours/)：美股现在开没开盘，还有多久开盘<br>[ETF 工具](https://invest-nav.com/tools/etf/)：ETF 查询、对比、排行和持仓反查 |
+| 计算与对比 | [纳指标普买入成本对比](https://invest-nav.com/tools/index-buy-cost/)：场外、场内、美股券商哪种更省<br>[DCA 定投计算器](https://invest-nav.com/tools/dca-calculator/)：算算长期定投能攒下多少<br>[美股税费计算器](https://invest-nav.com/tools/us-stock-tax/)：美股分红扣多少税，国内要补多少<br>[FIRE 财务自由计算器](https://invest-nav.com/tools/fire-calculator/)：多少钱可以提前退休<br>[股票估值计算器](https://invest-nav.com/tools/valuation/)：DCF、DDM、PE 三种方法估值 |
+| 学习与资料 | [投资宝典](https://invest-nav.com/tools/investment-handbook/)：结构化看懂产业链和概念<br>[网站聚合](https://invest-nav.com/websites/)：常用投资网站一页找到 |
 
 <a href="https://invest-nav.com/#home-investment-tools">
   <img src="./assets/investment-tools.png" alt="用工具玩转投资：投资组合追踪器、QDII 额度宝、财经日历、DCA 定投计算器等在线工具" width="820">
@@ -149,7 +187,7 @@
 [YouTube 频道「Nico 投资有道」](https://www.youtube.com/@NicoGrowthz)长期分享开户、出入金以及美股加密投资实操讲解，每周 1-2 更，欢迎持续关注。
 
 <a href="https://www.youtube.com/@NicoGrowthz">
-  <img src="./assets/youtube-channel.png" alt="YouTube 频道 Nico 投资有道：频道头图与订阅信息" width="820">
+  <img src="./assets/youtube-channel.webp" alt="YouTube 频道 Nico 投资有道：频道头图与订阅信息" width="820">
 </a>
 
 ## 仓库结构
@@ -200,6 +238,10 @@ invest-guide/
 持续分享长期投资观念、投资策略、投资心得、跨境投资攻略。
 
 长期关注 [X](https://x.com/tychozzz)、[YouTube](https://www.youtube.com/@NicoGrowthz)、[Telegram](https://t.me/nicoinvestmentfriends)，一起实现财富自由。
+
+## English
+
+**Nico’s Investment Guide** is a free, Chinese-language handbook for investors in mainland China who want to invest in US stocks and crypto: opening Hong Kong and offshore bank accounts, choosing a US broker (Charles Schwab, Interactive Brokers, Fosun, uSMART and more), moving money in and out, QDII funds, ETFs, buying Bitcoin, and long-term investing mindset. It currently has <!-- sync:count -->292<!-- /sync:count --> step-by-step tutorials, synced every week from [invest-nav.com](https://invest-nav.com/), plus free tools such as a portfolio tracker, QDII quota checker and DCA calculator.
 
 ## 内容使用说明
 

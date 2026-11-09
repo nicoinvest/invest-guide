@@ -228,3 +228,7 @@ KOGE 是 BNB 链上的一个代币，属于其他代币类型。
 如果你准备开始撸欧易空投的话，可以加入我的电报群，互相交流一下：https://t.me/nicoinvestmentfriends
 
 以上就是全部的欧易 Boost X Launch 空投活动教程，欢迎大家点赞、收藏、转发，感谢🙏...
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/airdrops/text/okx-airdrop-tutorial/)

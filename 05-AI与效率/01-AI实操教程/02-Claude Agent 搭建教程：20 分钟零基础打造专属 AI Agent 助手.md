@@ -668,3 +668,7 @@ Agent 也同理，它拥有几乎无限的知识储备，但如果你希望它�
 后续我也会将大家交流反馈过程中遇到的常见问题，汇总到这篇教程下方，供大家参考。
 
 X/Youtube 同名：Nico投资有道
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/ai-tutorials/text/claude-agent-setup/)

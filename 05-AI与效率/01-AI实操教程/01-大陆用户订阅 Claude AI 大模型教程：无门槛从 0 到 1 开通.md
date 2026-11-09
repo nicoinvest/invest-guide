@@ -250,3 +250,7 @@ Full Name 是你卡号上的姓名。
 如果你在开通 Bybit 虚拟卡、订阅 Claude 的过程中遇到任何问题，可以加入电报群，在对应群组中交流一下：https://t.me/nicoinvestmentfriends
 
 - 我的 Youtube 频道：https://www.youtube.com/@NicoGrowthz
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/ai-tutorials/text/subscribe-claude-ai/)

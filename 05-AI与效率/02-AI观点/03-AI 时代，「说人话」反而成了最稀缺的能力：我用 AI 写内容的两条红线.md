@@ -116,3 +116,7 @@ AI 可以帮你把所有的执行工作都做掉，但最后那一句真正打�
 ---
 
 遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/ai-insights/text/speak-like-a-human-in-ai-era/)

@@ -153,3 +153,7 @@ TradFi 跟着传统市场走：
 Bitget TradFi 是一个 MT5 差价合约板块，**外汇、黄金和全球股指是它的强项**，尤其是恒指、恒生科技这些港股指数，用 USDT 就能交易。
 
 用之前，先分清 Bitget 的四个入口：长期投资美股用美股直连，小额买卖用美股代币，短线做美股用股票合约，做外汇黄金股指用 TradFi。几种方式的对比，看[用 USDT 买美股有哪几种方式](<./16-用 USDT 买美股有哪几种方式？代币化股票、股票合约、TradFi、交易所券商和传统券商一次对比.md>)。
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/crypto-trading/text/bitget-tradfi-guide/)

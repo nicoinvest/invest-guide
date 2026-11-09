@@ -190,3 +190,7 @@ App 装好、注册好之后，先别急着充币，花 5 分钟把这 3 件事�
 下载交易所 App 本身不难，难的是不被假 App 骗。记住三句话：iPhone 认准开发者，安卓认准官网，任何要你装描述文件或者私信你的「客服」都别信。
 
 把这一步做对了，后面注册、入金、买币才能安心。
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/exchanges/text/crypto-exchange-app-download/)

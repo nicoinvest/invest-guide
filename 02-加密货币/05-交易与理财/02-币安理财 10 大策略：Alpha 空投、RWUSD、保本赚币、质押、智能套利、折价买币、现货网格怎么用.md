@@ -323,3 +323,7 @@ Alpha 空投的核心是 **Alpha 积分**，积分够了就能在空投页面领
 X 账号：https://x.com/tychozzz
 
 Youtube 频道：https://www.youtube.com/@NicoGrowthz
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/crypto-trading/text/binance-earn-guide/)

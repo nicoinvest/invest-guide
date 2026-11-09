@@ -10,12 +10,15 @@
 
 - **第一次接触美股**：先阅读「美股投资」分类下的 README 文档。然后根据你的需求，按需阅读「香港境外银行」、「美股券商」、「美股 QDII 基金」、「美股 ETF」分类教程。后续你可能还需要学习了解「出入金与资金流转」部分。
 - **第一次接触加密货币**：「加密货币基础」以及「交易所」部分必看，「加密货币虚拟卡」按需学习。后续你可能还需要学习了解「出入金与资金流转」部分。
+- **想先建立投资理念**：从「财富认知」开始，投资心法、资产配置、书单分享都在这里。
+- **想用 AI 提高效率**：看「AI 与效率」，有 ChatGPT、Claude 订阅和实操教程。
+- **不知道从哪篇开始**：先看首页的[热门教程](../README.md#popular)，都是网站上大家看得最多的。
 
 ## 联系我
 
 - [X](https://x.com/tychozzz)：第一时间的投资见解与心得分享
 - [YouTube](https://www.youtube.com/@NicoGrowthz)：长视频分享美股加密投资实操、开户、出入金
-- [Telegram](https://t.me/invest_nav)：免费交流群
+- [Telegram](https://t.me/nicoinvestmentfriends)：免费交流群
 - [投资导航](https://invest-nav.com/)：美股、加密货币、跨境出海一站式导航
 
 [返回指南首页](https://github.com/nicoinvest/invest-guide/blob/main/README.md)

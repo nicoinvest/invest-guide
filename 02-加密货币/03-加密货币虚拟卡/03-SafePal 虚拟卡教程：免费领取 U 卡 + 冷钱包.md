@@ -50,3 +50,7 @@ SafePal开户其实并不复杂，但是具体的玩法还是挺多的。这周�
 
 ![SafePal 虚拟卡教程（配图 1）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1754573130776_2b1sfa.jpeg)
 ![SafePal 虚拟卡教程（配图 2）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-images/tutorial-content/1754573135966_gsqeh5.jpeg)
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/crypto-cards/text/safepal-virtual-card/)

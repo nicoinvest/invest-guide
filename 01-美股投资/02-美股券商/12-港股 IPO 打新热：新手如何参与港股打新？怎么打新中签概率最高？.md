@@ -336,3 +336,7 @@
 
 ⬇️ 如下平台，分享美股投资、加密投资、AI 体验、香港/境外银行、出入金、资金流转等经验心得、实操分享，欢迎关注：
 - Youtube 频道：https://www.youtube.com/@NicoGrowthz
+
+---
+
+> 网页版阅读体验更好，配套工具和评论区都在网站上：[在投资导航阅读本文](https://invest-nav.com/tutorials/us-brokers/text/hongkong-stock-ipo/)
