@@ -153,7 +153,7 @@ async function main() {
   const index = JSON.parse(readFileSync(indexPath, 'utf8'))
   const known = new Map(index.tutorials.map((t) => [t.websiteTutorialId, t]))
 
-  const cats = await rest('tutorial_categories?select=id,name,slug,parent_id,display_order&tutorial_type=eq.text')
+  const cats = await rest('tutorial_categories?select=id,name,slug,description,parent_id,display_order&tutorial_type=eq.text')
   const catById = new Map(cats.map((c) => [c.id, c]))
   const tutorials = (await rest('text_tutorials?select=id,slug,title,content,category_id,published_at&is_published=eq.true&order=published_at.asc'))
     .filter((t) => t.content && catById.has(t.category_id))
@@ -266,6 +266,7 @@ async function main() {
       const l1 = dir.split('/')[0].replace(/^\d+-/, '')
       writeFileSync(readme, [
         `# ${cat?.name || dir.split('/')[1].replace(/^\d+-/, '')}`, '',
+        ...(cat?.description ? [cat.description, ''] : []),
         '## 教程目录', '', table, '',
         `以上教程同步收录于投资导航网站，可[在线阅读](${SITE}/tutorials/${slug}/text/)。`, '',
         `[返回${l1}](../README.md) · [返回指南首页](../../README.md)`, '',
