@@ -46,7 +46,7 @@
 截至 2026 年 11 月，几家大交易所都有：
 
 - **币安**：2026 年 1 月以「TradFi 永续合约」的名义上线，先是黄金、白银，之后陆续加了特斯拉、亚马逊、MSTR 等美股，由币安在阿布扎比持牌的主体 Nest Exchange 提供；
-- **欧易**：2026 年 3 月上线美股永续合约，覆盖七巨头、MSTR、COIN、HOOD 等，最高 5 倍杠杆，可以用 BTC、ETH、USDT 当保证金；
+- **欧易**：2026 年 3 月上线美股永续合约，覆盖[七巨头](https://invest-nav.com/tutorials/us-stock-picks/text/magnificent-7-guide/)、MSTR、COIN、HOOD 等，最高 5 倍杠杆，可以用 BTC、ETH、USDT 当保证金；
 - **Bitget**：股票合约上线最早，2026 年 2 月起改成 7×24 小时交易；
 - **Bybit**：2026 年 4 月上线 TradFi 永续，覆盖美股、ETF 和黄金白银原油。
 
