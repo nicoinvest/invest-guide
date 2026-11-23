@@ -64,8 +64,8 @@
       "path": "01-美股投资/01-香港境外银行/08-英国 iFAST 开户-入金教程：大陆用户从 0 到 1 线上开户入金.md",
       "websiteUrl": "https://invest-nav.com/tutorials/hk-banks/text/ifast-bank/",
       "websiteTutorialId": "eb42a6aa-3600-4c77-92a5-8de071ca24b4",
-      "markdownSha256": "76757eb8935a537cfc4a9a83f0203f007a883850d91481a71af80c9e0f14ea27",
-      "websiteContentSha256": "ef6ecf8f94aa67c82d7abd4d5468694b15b98f02fba2ddc3e4e199da0506eb2c"
+      "markdownSha256": "1faed7affff29c70da2da0981f209618bcbcba3f7b74c09203810e255b05f02a",
+      "websiteContentSha256": "46dfc2910cf148256ada6b5252ca9362dc2827ff85b94dd524f1e6561b97de50"
     },
     {
       "title": "德国 N26 开户教程：大陆用户必备的境外虚拟银行账户",
@@ -240,8 +240,8 @@
       "path": "01-美股投资/02-美股券商/03-嘉信理财证券大陆用户从 0 到 1 线上开户攻略：无需海外地址｜免 CRS.md",
       "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-account/",
       "websiteTutorialId": "37f373ca-094c-403d-9ae1-27d9fe6cbc1d",
-      "markdownSha256": "9a8a7f5d367e5dcd58803474fb28b15e16dc0f7d0336fd799287d0ded8c63131",
-      "websiteContentSha256": "8ade243b6667013009381a5461e4959666df09036b7962b16d128c2173658fb1"
+      "markdownSha256": "09ed9040d182c5ca45d8c8f5d3c81f37b802bd4a4f4381274c4bdb8de60d6c93",
+      "websiteContentSha256": "69c75286755b49b7d708f9b8ea0b0070863770ca3f8748dafccc63e0dd06b5b4"
     },
     {
       "title": "盈立证券新加坡开户教程：大陆身份证开户、费用对比与完整流程",
@@ -256,8 +256,8 @@
       "path": "01-美股投资/02-美股券商/05-盈透券商大陆用户从 0 到 1 线上保姆级开户攻略｜Interactive Brokers｜IBKR｜免除 CRS.md",
       "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/ibkr-account/",
       "websiteTutorialId": "5e88ccd8-088f-4098-82c7-a56e1d3223c3",
-      "markdownSha256": "ca9156bfacdd652a8ea8487712391445a354257bf66593d0451fd0736d412c2e",
-      "websiteContentSha256": "909d2fbbf398120c7e30828d7f47a5cb9e69fed41ece5f7c1fec48d4c33f339e"
+      "markdownSha256": "2f5a219b091b4633e90ee10e0f20a06ec6378885d7780fb2ed651aff3f6a0e21",
+      "websiteContentSha256": "74da04256489c2c1663929c60c0fa19708e1fb0e8ab8907deff021b1b00ec725"
     },
     {
       "title": "Bitget 美股直连券商：USDT 购买真实美股+期权｜从 0 到 1 开户入金交易攻略",
@@ -272,16 +272,16 @@
       "path": "01-美股投资/02-美股券商/07-嘉信理财入金从 0 到 1 教程：四大入金方案｜Wise 入金｜iFAST 入金｜汇丰香港入金｜Bitget 虚拟卡入金.md",
       "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-deposit/",
       "websiteTutorialId": "90a9839e-9264-4286-b127-e06be775eb2e",
-      "markdownSha256": "c12da26dac7ef812c5af96b0c3f68d26ef6e52902a95665fbc792dc46fb0d49b",
-      "websiteContentSha256": "e317ce888da2b392bea7afa6541cefb27729b5c1655f463fac43442b3f5737e2"
+      "markdownSha256": "44ff4033f5ad82b05fad3f5185793c6ba178712a8c7e192d54b51fa2aacdb3e7",
+      "websiteContentSha256": "f78e6ffdfe34f2a87f1323d8d3c73933536b30e15b48bc2ea7279c5abfbcf4e6"
     },
     {
       "title": "嘉信理财大陆用户从 0 到 1 入门攻略｜手续费率、thinkorswim 如何设置、美股如何下单",
       "path": "01-美股投资/02-美股券商/08-嘉信理财大陆用户从 0 到 1 入门攻略｜手续费率、thinkorswim 如何设置、美股如何下单.md",
       "websiteUrl": "https://invest-nav.com/tutorials/us-brokers/text/charles-schwab-thinkorswim-guide/",
       "websiteTutorialId": "0e40411d-00a9-4af6-9b73-2ba70bc3f08e",
-      "markdownSha256": "03fdf75ccc136231f64bd78f68957982c77bef356a565d425438fb4bef55a4b5",
-      "websiteContentSha256": "65afb053bb2d2b7eed700a5ac26a074596a0e144ce7c81bdd78c72cf728cccf7"
+      "markdownSha256": "4b1b4a4e2fbb7f1526471f7b405a6f6aad1d9e1e0e0df3ecbf4004df3f8aa54f",
+      "websiteContentSha256": "15f34269ade5edbd73a57a2175d5079edb52256f38e96772a250e5cc1c429ebc"
     },
     {
       "title": "iFAST 入金长桥教程：无需港卡也能入金美股券商",
@@ -944,8 +944,8 @@
       "path": "01-美股投资/05-美股基础/19-美元汇率怎么影响美股收益？人民币升值美股会亏吗，美股赚了 10% 换回人民币还剩多少，汇率风险要不要对冲.md",
       "websiteUrl": "https://invest-nav.com/tutorials/us-basics/text/usd-exchange-rate-us-stock-returns/",
       "websiteTutorialId": "3e22d215-64eb-4d71-89c1-d130cd8dcd64",
-      "markdownSha256": "c4d158165d459fcedc754560ec319077a22acc73156293f52583176092e5b8fa",
-      "websiteContentSha256": "cd7100fb4fc91187aa65adea0e6064657dc09864e4f2b96df305092a90b5c878"
+      "markdownSha256": "3bfa281d5e1c7159630a55a3355ae9d2d705485cdd06bf5a7a4d87237266deea",
+      "websiteContentSha256": "e6e5fb1daca98445f32830976d3b724b11153ccd4c16492775f84480309031f0"
     },
     {
       "title": "港股几点开盘？北京时间港股交易时间表，午休、收市竞价，附 2026–2027 年港股和港股通休市日",
@@ -1146,6 +1146,118 @@
       "websiteTutorialId": "c589d0d9-c38e-48ab-846f-1c7ae0427c31",
       "markdownSha256": "f6d251893ef6efc0eb64e2b1b60889649d525fb25565f3e64b649c55f1adf8ce",
       "websiteContentSha256": "29228428ed7bf1154042712fab12df7a96e7f6423abd6ad3ca0dfad42debe753"
+    },
+    {
+      "title": "期权车轮策略（Wheel Strategy）教程：用 Sell Put + Covered Call 打造循环现金流",
+      "path": "01-美股投资/08-美股期权/01-期权车轮策略（Wheel Strategy）教程：用 Sell Put + Covered Call 打造循环现金流.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-options/text/options-wheel-strategy-guide/",
+      "websiteTutorialId": "5138c6d3-90d1-4d90-805c-d0bf9e99be18",
+      "markdownSha256": "ae497501bca1999598fd34a755291fd5526a38088bfb108ec620b15a4683a6f0",
+      "websiteContentSha256": "428045982790dc7799b1f874535a8ab54bc5e421d111239844fb0e366b568404"
+    },
+    {
+      "title": "美股期权最少多少钱能买？100 股乘数、行权价、实值虚值和时间价值怎么算",
+      "path": "01-美股投资/08-美股期权/02-美股期权最少多少钱能买？100 股乘数、行权价、实值虚值和时间价值怎么算.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-options/text/us-options-pricing-and-moneyness/",
+      "websiteTutorialId": "7d777809-0ded-4ac4-ba72-7f2b59078e94",
+      "markdownSha256": "813e66f4529b434b8873e7e86575d6bc79f6a0ca2435afc7b1d6619464e1a93e",
+      "websiteContentSha256": "238b968a528879c7041167cd0d79d426e77f8f4e534095a4b570d3451e69cbde"
+    },
+    {
+      "title": "LEAPS 长期期权是什么？用 1 年以上深度实值 Call 替代美股正股，怎么算杠杆、成本和风险",
+      "path": "01-美股投资/08-美股期权/03-LEAPS 长期期权是什么？用 1 年以上深度实值 Call 替代美股正股，怎么算杠杆、成本和风险.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-options/text/leaps-options-long-term-guide/",
+      "websiteTutorialId": "3f51ecb2-703b-4093-917f-448bda740775",
+      "markdownSha256": "c3bb15c7d40891e3e06d7df491abf193a286509f6f3a5aafecdc67e1590f4b52",
+      "websiteContentSha256": "8235a92933953f08516110831f8cf74a81cc9c8e97dd4c2c6f65dd047a6af789"
+    },
+    {
+      "title": "Sell Put 是什么？现金担保卖看跌期权教程：一边收权利金，一边打折买美股",
+      "path": "01-美股投资/08-美股期权/04-Sell Put 是什么？现金担保卖看跌期权教程：一边收权利金，一边打折买美股.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-options/text/cash-secured-put-sell-put-guide/",
+      "websiteTutorialId": "1e56a0f2-32c0-43c5-a72e-a9840e6bc402",
+      "markdownSha256": "979bc3527f734d59ce0889a6ffc921d238195594a348b55074fc92168816e473",
+      "websiteContentSha256": "7e71d0e16282b6b1d4e214f17dcaa1069196f76f79f5d129d4193c5207bed6c8"
+    },
+    {
+      "title": "Covered Call 备兑看涨期权怎么玩？手握 100 股美股每月“收租”，和买 JEPI/JEPQ 哪个划算",
+      "path": "01-美股投资/08-美股期权/05-Covered Call 备兑看涨期权怎么玩？手握 100 股美股每月“收租”，和买 JEPI-JEPQ 哪个划算.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-options/text/covered-call-strategy-guide/",
+      "websiteTutorialId": "534b93e0-f259-459c-87ff-86fe739d47f3",
+      "markdownSha256": "1abd7e1dd10a29210defd89defdce8d568e349126f6b69f32e2e0fbcd21eeff5",
+      "websiteContentSha256": "7c70d611efc00f1d3799721fcefff4153bc05818559c117ab70b82f20469e223"
+    },
+    {
+      "title": "大陆用户怎么买美股期权？券商手续费对比、期权权限等级、交易时间与账户选择",
+      "path": "01-美股投资/08-美股期权/06-大陆用户怎么买美股期权？券商手续费对比、期权权限等级、交易时间与账户选择.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-options/text/how-to-trade-us-options-china/",
+      "websiteTutorialId": "d3d838b0-827f-4fd1-840e-28b2a8b47f31",
+      "markdownSha256": "a89c49b9b61f51a120440b78e0d3c285e2aa63638b232ede5128036d679d15ab",
+      "websiteContentSha256": "644d2783d8e1490b8239dbfb97325bee193c6ec3aa3f6c637d4b1681a1a81f09"
+    },
+    {
+      "title": "期权价差和保护策略入门：垂直价差（Vertical Spread）、保护性 Put 与领口策略怎么用",
+      "path": "01-美股投资/08-美股期权/07-期权价差和保护策略入门：垂直价差（Vertical Spread）、保护性 Put 与领口策略怎么用.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-options/text/vertical-spread-and-protective-options/",
+      "websiteTutorialId": "01cbc608-9ea6-4aec-a471-d6836ddaafcb",
+      "markdownSha256": "184bd29ad9c8417dcc4df76967fa901067816707ef39a3774265f07183c1e774",
+      "websiteContentSha256": "0b4188b9deb5f51499d178b710f1d9414862ba16390164d4c96a6b8a930faab2"
+    },
+    {
+      "title": "期权买方和卖方哪个更容易赚钱？胜率、赔率、保证金和裸卖风险一次对比",
+      "path": "01-美股投资/08-美股期权/08-期权买方和卖方哪个更容易赚钱？胜率、赔率、保证金和裸卖风险一次对比.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-options/text/options-buyer-vs-seller/",
+      "websiteTutorialId": "2210b475-cae5-40d1-96a1-6718f6a996d8",
+      "markdownSha256": "f61c0508f14357f88a31a5e2fda17d483b7d23216a632629cc2c9459056fc560",
+      "websiteContentSha256": "0ea509d069006c8cc8364af7c3f51c8394e1bafcd8cacd9c31873ba9dab0897a"
+    },
+    {
+      "title": "末日期权（0DTE）和财报期权能玩吗？散户做美股期权亏钱的 6 大陷阱与仓位纪律",
+      "path": "01-美股投资/08-美股期权/09-末日期权（0DTE）和财报期权能玩吗？散户做美股期权亏钱的 6 大陷阱与仓位纪律.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-options/text/us-options-risks-0dte-and-mistakes/",
+      "websiteTutorialId": "8e74e0d4-6270-4e47-8492-b3a2fd253782",
+      "markdownSha256": "44470a0c1d202510c0897ea605602cd68c2cffd7610090fc88df6a9c7f3e350f",
+      "websiteContentSha256": "43a5049740debafcee19915fbbd0c05c3e47c5391e01ab36247cf709989c50cb"
+    },
+    {
+      "title": "美股期权链怎么看？合约代码、买卖价差、成交量和未平仓量怎么选合约",
+      "path": "01-美股投资/08-美股期权/10-美股期权链怎么看？合约代码、买卖价差、成交量和未平仓量怎么选合约.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-options/text/how-to-read-option-chain/",
+      "websiteTutorialId": "1f7742a9-9c5f-48b1-b08f-85f23737030e",
+      "markdownSha256": "d4b5a508e0f8b30621b05037ad4da6be68218e77456ac196111186116aac4283",
+      "websiteContentSha256": "836cbc5b37618fd30e966e21601e65801b1f65ae8b76c94fdc88a9bd2f0d429c"
+    },
+    {
+      "title": "美股期权到期怎么办？提前平仓、自动行权、钱不够怎么处理、被指派和展期（Roll）全解",
+      "path": "01-美股投资/08-美股期权/11-美股期权到期怎么办？提前平仓、自动行权、钱不够怎么处理、被指派和展期（Roll）全解.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-options/text/us-options-expiration-exercise-assignment/",
+      "websiteTutorialId": "6a56a3aa-af10-47df-8058-02217133badc",
+      "markdownSha256": "fd5650e8e2f0580baa0a8678cb069136a22a3bc037b508b2451a4541a2db80ab",
+      "websiteContentSha256": "4cc61053966ee15d37062624a9c40b38085c6c8b1c5f5fe3507e2b829946c732"
+    },
+    {
+      "title": "美股期权是什么？怎么玩、和买股票有什么区别，新手适不适合碰期权",
+      "path": "01-美股投资/08-美股期权/12-美股期权是什么？怎么玩、和买股票有什么区别，新手适不适合碰期权.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-options/text/what-is-us-options/",
+      "websiteTutorialId": "ab2dce9c-a5a8-48ff-ad73-a050df66d76b",
+      "markdownSha256": "023b990b9cc908b2d4dd599283e04823ab586d1a9d5e21f1d5902b6f1914b8fa",
+      "websiteContentSha256": "c8ee1a6bdfb72066ad84ba9ebcd6502d9e91a8e3d38d4a13605aca5ec91820b2"
+    },
+    {
+      "title": "期权希腊字母和隐含波动率 IV 是什么？Delta、Theta、Gamma、Vega 怎么看，为什么股票涨了 Call 反而亏",
+      "path": "01-美股投资/08-美股期权/13-期权希腊字母和隐含波动率 IV 是什么？Delta、Theta、Gamma、Vega 怎么看，为什么股票涨了 Call 反而亏.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-options/text/options-greeks-and-implied-volatility/",
+      "websiteTutorialId": "d21eac02-abf1-4545-afd6-e9346116539d",
+      "markdownSha256": "50090c62f53a18d0555f4f548c997c6996edcf26b8a1f5f497ced5d6bca09908",
+      "websiteContentSha256": "521a73f2db5724eb4260bd2622947c8583a0b9e882f8fc8be9ba825800fe5f0a"
+    },
+    {
+      "title": "看涨期权 Call 和看跌期权 Put 是什么？买方和卖方的 4 种基础操作一次讲清",
+      "path": "01-美股投资/08-美股期权/14-看涨期权 Call 和看跌期权 Put 是什么？买方和卖方的 4 种基础操作一次讲清.md",
+      "websiteUrl": "https://invest-nav.com/tutorials/us-options/text/call-vs-put-options-basics/",
+      "websiteTutorialId": "bceaf8d1-091c-4e2b-9926-76c996db2dd8",
+      "markdownSha256": "ce2f031547e94c965aa2ac32be69959e79911ff2876c5e7bbfc08df048e125e3",
+      "websiteContentSha256": "99b09aa298243943cc92c6a3747fffcc1138c452377310f90d7662f2a7f6a557"
     },
     {
       "title": "大陆用户怎么买比特币？2026 最详细教程（注册到交易全流程）",
@@ -1444,12 +1556,12 @@
       "websiteContentSha256": "8ec525fa38a4ceede11300ae5ca8fa8f7015ed58e12aff9dc0ecdb3b382c24e4"
     },
     {
-      "title": "比特币连跌 6 周、跌破 7 万美元：为什么一直跌，接下来看什么，定投要不要停？",
+      "title": "比特币连跌 6 周后跌破 6 万美元：为什么一直跌，接下来看什么，定投要不要停？",
       "path": "02-加密货币/01-交易所/38-比特币连跌 6 周、跌破 7 万美元：为什么一直跌，接下来看什么，定投要不要停？.md",
       "websiteUrl": "https://invest-nav.com/tutorials/exchanges/text/bitcoin-six-week-slide-2026/",
       "websiteTutorialId": "dd178168-9a96-43f3-b3b0-b2b4936388c6",
-      "markdownSha256": "1131be45dca37b182419ca4d6f740329d62a3e1dbdbe4676c154aab8ecd779e9",
-      "websiteContentSha256": "a1750bbaec314b821b1fa722a4334c8c5bd3b841271edbb53380dc24456928dd"
+      "markdownSha256": "bdec0763adaa5ed53328edddd84805a5751f37fd8c2a0c29268d105ea25ca421",
+      "websiteContentSha256": "402191ebb96d8990d0e0556f3fd6d19dd7ef3a24668fe4ee6abd763f6eba045a"
     },
     {
       "title": "加密货币和 Web3 是什么？零基础入门区块链与数字资产",
@@ -2080,16 +2192,16 @@
       "path": "03-出入金与资金流转/01-出入金/25-Wise 常见问题：注册提示已有账号、收不到验证码、人民币不能入金、嘉信出金到 Wise 收不收费、出金支付宝、被要求说明资金来源怎么办.md",
       "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/wise-faq/",
       "websiteTutorialId": "f979f903-1d80-490b-9a04-5b18b177d602",
-      "markdownSha256": "f672ed8416e68859d07195321a26418842a03d4d19753fb9be8220903a961c78",
-      "websiteContentSha256": "93aba8cb9d6d3276cbacdde8f1104cb6007646ba0dcee5756f9a083042839524"
+      "markdownSha256": "137f7d1c673be16eb06abb7761844191a51025f0db87056472a5e9ad69a08e65",
+      "websiteContentSha256": "3788c3a7eb5ec82b7ad055f8ac16d4a8376d605e50cbf34bc2b8e3035150a7d1"
     },
     {
       "title": "美股券商的钱怎么转回内地？嘉信、盈透、复星、盈立、BIT 出金回国路线对比：到哪张卡、手续费多少、多久到账、占不占外汇额度",
       "path": "03-出入金与资金流转/01-出入金/26-美股券商的钱怎么转回内地？嘉信、盈透、复星、盈立、BIT 出金回国路线对比：到哪张卡、手续费多少、多久到账、占不占外汇额度.md",
       "websiteUrl": "https://invest-nav.com/tutorials/fund-transfer/text/us-broker-withdraw-to-mainland/",
       "websiteTutorialId": "a78cf368-ffa4-4fe2-8fb2-f96e6379aa41",
-      "markdownSha256": "8eb9c027c8b82baeb9d52d4b93e63ecb86a798b7d57b17b2d6cbb64de0bacfde",
-      "websiteContentSha256": "8a397d94cbe50df412b9b026f3a3caf5ef7c1d5f92512e54eef4a5a89025752d"
+      "markdownSha256": "38ae40f2a53203e644f35e8a462db11db27b0bcdba7eeca00d3d437824294b98",
+      "websiteContentSha256": "82e81cb5e4cd15f47a2d05cded3940c0abdb0c12e68c9266f8dd1e13a485da46"
     },
     {
       "title": "CRS 是什么？港卡、美股账户的信息会不会交换回内地，美国券商不参与 CRS 是不是就不用交税",

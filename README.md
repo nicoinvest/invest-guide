@@ -43,7 +43,7 @@
 
 你可以按照主题阅读，也可以直接全局搜索当前需要解决的问题。
 
-目前共收录 <!-- sync:count -->315<!-- /sync:count --> 篇教程，每周一从网站自动同步更新。
+目前共收录 <!-- sync:count -->329<!-- /sync:count --> 篇教程，每周一从网站自动同步更新。
 
 如果你喜欢网站阅读，可以前往 [投资导航](https://invest-nav.com/)；喜欢跟着视频学习，可以看我的 [YouTube 频道](https://www.youtube.com/@NicoGrowthz)。
 
@@ -149,16 +149,16 @@
 每周自动从[投资导航网站](https://invest-nav.com/)同步，下面是最新上线的 10 篇：
 
 <!-- sync:latest:start -->
-- 2026-11-15 · [为什么我建议每个中国人都持有一些海外资产？货币、市场、政策、汇率四种风险，普通人怎么开始](./04-财富认知/02-资产配置与养老/05-为什么我建议每个中国人都持有一些海外资产？货币、市场、政策、汇率四种风险，普通人怎么开始.md)
-- 2026-11-15 · [美股保证金账户和现金账户怎么选？盈透、嘉信开户选哪个，融资利息怎么算、什么时候会被强平](./01-美股投资/02-美股券商/41-美股保证金账户和现金账户怎么选？盈透、嘉信开户选哪个，融资利息怎么算、什么时候会被强平.md)
-- 2026-11-14 · [比特币连跌 6 周、跌破 7 万美元：为什么一直跌，接下来看什么，定投要不要停？](<./02-加密货币/01-交易所/38-比特币连跌 6 周、跌破 7 万美元：为什么一直跌，接下来看什么，定投要不要停？.md>)
-- 2026-11-12 · [为什么你总是拿不住？涨 10% 就跑、亏 30% 死扛，长期持有背后的 5 个心理陷阱](<./04-财富认知/01-投资心法/08-为什么你总是拿不住？涨 10% 就跑、亏 30% 死扛，长期持有背后的 5 个心理陷阱.md>)
-- 2026-11-12 · [美联储议息会议时间表 2026–2027：下次议息是几号？北京时间几点公布利率决议，哪几次有点阵图](<./01-美股投资/05-美股基础/23-美联储议息会议时间表 2026–2027：下次议息是几号？北京时间几点公布利率决议，哪几次有点阵图.md>)
-- 2026-11-12 · [美国冬令时是什么时候？2026–2028 年美国冬令时夏令时切换日期，和北京时差几小时，美股、财报、CPI 时间怎么变](<./01-美股投资/05-美股基础/22-美国冬令时是什么时候？2026–2028 年美国冬令时夏令时切换日期，和北京时差几小时，美股、财报、CPI 时间怎么变.md>)
-- 2026-11-11 · [美股财报季是什么时候？每年 4 个财报季时间表，英伟达、苹果、特斯拉一般几号发财报，北京时间几点公布](<./01-美股投资/05-美股基础/21-美股财报季是什么时候？每年 4 个财报季时间表，英伟达、苹果、特斯拉一般几号发财报，北京时间几点公布.md>)
-- 2026-11-11 · [港股几点开盘？北京时间港股交易时间表，午休、收市竞价，附 2026–2027 年港股和港股通休市日](<./01-美股投资/05-美股基础/20-港股几点开盘？北京时间港股交易时间表，午休、收市竞价，附 2026–2027 年港股和港股通休市日.md>)
-- 2026-11-11 · [一个你永远不需要卖出的懒人投资组合：一半标普 500、一半短期美债，每年只花 10 分钟](<./04-财富认知/02-资产配置与养老/04-一个你永远不需要卖出的懒人投资组合：一半标普 500、一半短期美债，每年只花 10 分钟.md>)
-- 2026-11-11 · [股息投资：另一条通往财富自由的路｜高股息还是股息增长、股息贵族是什么、分红再投资有多大威力](./04-财富认知/01-投资心法/07-股息投资：另一条通往财富自由的路｜高股息还是股息增长、股息贵族是什么、分红再投资有多大威力.md)
+- 2026-11-21 · [期权车轮策略（Wheel Strategy）教程：用 Sell Put + Covered Call 打造循环现金流](<./01-美股投资/08-美股期权/01-期权车轮策略（Wheel Strategy）教程：用 Sell Put + Covered Call 打造循环现金流.md>)
+- 2026-11-21 · [美股期权最少多少钱能买？100 股乘数、行权价、实值虚值和时间价值怎么算](<./01-美股投资/08-美股期权/02-美股期权最少多少钱能买？100 股乘数、行权价、实值虚值和时间价值怎么算.md>)
+- 2026-11-21 · [LEAPS 长期期权是什么？用 1 年以上深度实值 Call 替代美股正股，怎么算杠杆、成本和风险](<./01-美股投资/08-美股期权/03-LEAPS 长期期权是什么？用 1 年以上深度实值 Call 替代美股正股，怎么算杠杆、成本和风险.md>)
+- 2026-11-21 · [Sell Put 是什么？现金担保卖看跌期权教程：一边收权利金，一边打折买美股](<./01-美股投资/08-美股期权/04-Sell Put 是什么？现金担保卖看跌期权教程：一边收权利金，一边打折买美股.md>)
+- 2026-11-21 · [Covered Call 备兑看涨期权怎么玩？手握 100 股美股每月“收租”，和买 JEPI/JEPQ 哪个划算](<./01-美股投资/08-美股期权/05-Covered Call 备兑看涨期权怎么玩？手握 100 股美股每月“收租”，和买 JEPI-JEPQ 哪个划算.md>)
+- 2026-11-21 · [大陆用户怎么买美股期权？券商手续费对比、期权权限等级、交易时间与账户选择](./01-美股投资/08-美股期权/06-大陆用户怎么买美股期权？券商手续费对比、期权权限等级、交易时间与账户选择.md)
+- 2026-11-21 · [期权价差和保护策略入门：垂直价差（Vertical Spread）、保护性 Put 与领口策略怎么用](<./01-美股投资/08-美股期权/07-期权价差和保护策略入门：垂直价差（Vertical Spread）、保护性 Put 与领口策略怎么用.md>)
+- 2026-11-21 · [期权买方和卖方哪个更容易赚钱？胜率、赔率、保证金和裸卖风险一次对比](./01-美股投资/08-美股期权/08-期权买方和卖方哪个更容易赚钱？胜率、赔率、保证金和裸卖风险一次对比.md)
+- 2026-11-21 · [末日期权（0DTE）和财报期权能玩吗？散户做美股期权亏钱的 6 大陷阱与仓位纪律](<./01-美股投资/08-美股期权/09-末日期权（0DTE）和财报期权能玩吗？散户做美股期权亏钱的 6 大陷阱与仓位纪律.md>)
+- 2026-11-21 · [美股期权链怎么看？合约代码、买卖价差、成交量和未平仓量怎么选合约](./01-美股投资/08-美股期权/10-美股期权链怎么看？合约代码、买卖价差、成交量和未平仓量怎么选合约.md)
 <!-- sync:latest:end -->
 
 <a id="tools"></a>
@@ -241,7 +241,7 @@ invest-guide/
 
 ## English
 
-**Nico’s Investment Guide** is a free, Chinese-language handbook for investors in mainland China who want to invest in US stocks and crypto: opening Hong Kong and offshore bank accounts, choosing a US broker (Charles Schwab, Interactive Brokers, Fosun, uSMART and more), moving money in and out, QDII funds, ETFs, buying Bitcoin, and long-term investing mindset. It currently has <!-- sync:count -->315<!-- /sync:count --> step-by-step tutorials, synced every week from [invest-nav.com](https://invest-nav.com/), plus free tools such as a portfolio tracker, QDII quota checker and DCA calculator.
+**Nico’s Investment Guide** is a free, Chinese-language handbook for investors in mainland China who want to invest in US stocks and crypto: opening Hong Kong and offshore bank accounts, choosing a US broker (Charles Schwab, Interactive Brokers, Fosun, uSMART and more), moving money in and out, QDII funds, ETFs, buying Bitcoin, and long-term investing mindset. It currently has <!-- sync:count -->329<!-- /sync:count --> step-by-step tutorials, synced every week from [invest-nav.com](https://invest-nav.com/), plus free tools such as a portfolio tracker, QDII quota checker and DCA calculator.
 
 ## 内容使用说明
 
