@@ -126,7 +126,7 @@ Bitget 和 Bybit 到底哪个好？大陆用户哪一家更好注册？手续费
 
 ---
 
-注册和使用过程中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+注册和使用过程中遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

@@ -148,7 +148,7 @@ BIT 最大的特点是 USDT、USDC 可以直接入金，这也是很多朋友担
 
 ---
 
-开户入金过程中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+开户入金过程中遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 BIT 专属邀请链接（邀请码 nico）：https://www.bit.com/zh/us-stock-intro?invite_code=nico
 

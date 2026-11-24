@@ -333,7 +333,7 @@ VoIP 也同样拥有真实的美国电话号码，同样能够接打电话、收
 
 ---
 
-如果你在购买使用 Saily 以及 Xesim 的过程中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+如果你在购买使用 Saily 以及 Xesim 的过程中遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

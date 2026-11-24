@@ -308,7 +308,7 @@ SafePal 是在 App 里点「收款」→ BTC，复制地址。
 
 ---
 
-使用冷钱包过程中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+使用冷钱包过程中遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

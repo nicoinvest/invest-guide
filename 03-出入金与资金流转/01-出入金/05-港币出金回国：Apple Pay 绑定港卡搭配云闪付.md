@@ -93,7 +93,7 @@
 
 在往期 Youtube 频道视频中，出过很多期出金视频，可以搭配使用，降低单一出金方式的风险，具体内容可以到频道中参考一下：https://youtube.com/playlist?list=PL3xe_9qwb5r-VbykLTkJ6zNaRuyKwiLXD
 
-此外，如果你操作过程中遇到任何问题，可以加入我的电报群，与群友交流，我也会在群中解答问题：https://t.me/nicoinvestmentfriends
+此外，如果你操作过程中遇到任何问题，可以加入我的电报群，与群友交流，我也会在群中解答问题：https://t.me/nico_invest_bot?start=yt
 
 这就是本篇教程的全部内容啦，如果对于你资金流转有帮助的话，麻烦帮忙点赞、收藏、转发，这是对我教程的最大支持，感谢！
 

@@ -547,7 +547,7 @@ Agent 的竞争到了最后，一定会回到渠道和入口的竞争。谁能�
 
 ---
 
-如果你在实操过程中遇到任何问题，可以加入电报群，在 AI 实操群组中交流讨论：https://t.me/nicoinvestmentfriends
+如果你在实操过程中遇到任何问题，可以加入电报群，在 AI 实操群组中交流讨论：https://t.me/nico_invest_bot?start=yt
 
 我的 X 账号：https://x.com/tychozzz
 

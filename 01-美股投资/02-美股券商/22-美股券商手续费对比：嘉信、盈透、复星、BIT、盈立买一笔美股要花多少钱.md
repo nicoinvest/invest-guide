@@ -123,7 +123,7 @@
 
 ---
 
-开户和交易中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+开户和交易中遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

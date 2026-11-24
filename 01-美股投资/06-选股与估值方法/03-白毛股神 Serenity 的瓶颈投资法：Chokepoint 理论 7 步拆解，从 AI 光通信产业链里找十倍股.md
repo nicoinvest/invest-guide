@@ -229,7 +229,7 @@ Serenity 看好的是 AI 光通信。如果你研究之后也认可这个方向�
 
 ---
 
-投资美股过程中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+投资美股过程中遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

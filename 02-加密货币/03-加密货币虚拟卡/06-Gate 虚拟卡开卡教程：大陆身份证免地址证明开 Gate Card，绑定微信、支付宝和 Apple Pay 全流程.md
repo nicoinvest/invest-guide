@@ -162,7 +162,7 @@
 
 想了解其他还能开的 U 卡，可以看[Bybit 虚拟卡开通教程](<./01-2026 最新 Bybit 虚拟卡开通教程：完整实操指南.md>)，两张卡可以对比着用。
 
-如果你在开通 Gate 虚拟卡的过程中遇到任何问题，可以直接加入电报群讨论交流：https://t.me/nicoinvestmentfriends
+如果你在开通 Gate 虚拟卡的过程中遇到任何问题，可以直接加入电报群讨论交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

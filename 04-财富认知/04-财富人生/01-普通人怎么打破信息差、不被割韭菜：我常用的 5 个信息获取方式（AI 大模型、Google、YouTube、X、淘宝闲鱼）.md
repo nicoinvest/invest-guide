@@ -167,7 +167,7 @@ X 最大的优势是**信息的新鲜度**。任何重大事件，从科技产�
 
 ---
 
-遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

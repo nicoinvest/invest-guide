@@ -355,7 +355,7 @@ Club SIM 官方有一个服务暂停终止条款，其中明确提到，如果�
 
 之后我们频道还会持续更新，更多关于全球资金流转、全球资产配置的内容，感兴趣的朋友可以持续关注一下：https://www.youtube.com/@NicoGrowthz
 
-如果你在使用 Xesim 以及开通 Club SIM 手机号的过程中遇到任何问题，可以加入电报群，在对应群组中交流一下：https://t.me/nicoinvestmentfriends
+如果你在使用 Xesim 以及开通 Club SIM 手机号的过程中遇到任何问题，可以加入电报群，在对应群组中交流一下：https://t.me/nico_invest_bot?start=yt
 
 ## 九、常见问题
 

@@ -154,7 +154,7 @@
 
 ---
 
-开户和使用复星的过程中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+开户和使用复星的过程中遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 复星专属开户链接：https://h5.fotechwealth.com/pages/startAccount.html?channel=030003&aeCode=B2&invitationCode=PWZYR2&langType=zhCn
 

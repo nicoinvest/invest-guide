@@ -260,7 +260,7 @@
 
 ---
 
-如果在开通港卡的过程中遇到任何问题，可以加入电报群交流讨论：https://t.me/nicoinvestmentfriends
+如果在开通港卡的过程中遇到任何问题，可以加入电报群交流讨论：https://t.me/nico_invest_bot?start=yt
 
 X/Youtube 同名：Nico投资有道
 

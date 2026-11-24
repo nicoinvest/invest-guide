@@ -240,7 +240,7 @@ Portfolio Visualizer 是一个投资组合回测工具，把你的组合输进�
 
 ---
 
-投资美股过程中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+投资美股过程中遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

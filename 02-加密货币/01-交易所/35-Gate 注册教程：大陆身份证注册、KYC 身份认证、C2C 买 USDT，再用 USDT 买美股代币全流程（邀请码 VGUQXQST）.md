@@ -156,7 +156,7 @@ xStocks 是由 Backed 发行的代币化股票，每一个代币背后对应一�
 
 注册好 Gate 之后，还可以开一张 Gate 的虚拟 U 卡，绑定 Apple Pay 消费，具体可以看[Gate 虚拟卡开卡教程](<../03-加密货币虚拟卡/06-Gate 虚拟卡开卡教程：大陆身份证免地址证明开 Gate Card，绑定微信、支付宝和 Apple Pay 全流程.md>)。
 
-如果你在注册 Gate 或者使用过程中遇到任何问题，可以直接加入电报群讨论交流：https://t.me/nicoinvestmentfriends
+如果你在注册 Gate 或者使用过程中遇到任何问题，可以直接加入电报群讨论交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

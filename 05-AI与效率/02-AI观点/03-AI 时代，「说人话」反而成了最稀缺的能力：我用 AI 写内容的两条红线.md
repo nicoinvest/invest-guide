@@ -115,7 +115,7 @@ AI 可以帮你把所有的执行工作都做掉，但最后那一句真正打�
 
 ---
 
-遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

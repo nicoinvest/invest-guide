@@ -236,7 +236,7 @@ eDDA 可以理解成「授权盈透从你的港卡扣款」。授权一次之后
 
 ---
 
-投资美股过程中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+投资美股过程中遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

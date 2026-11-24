@@ -134,7 +134,7 @@ AI 担不起对生命的责任，承担不了法律上的风险，也不会有�
 
 ---
 
-遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

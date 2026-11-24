@@ -154,7 +154,7 @@ OpenClaw 最大的优势是开箱即用，配置简单，对完全不会写代�
 
 ---
 
-遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

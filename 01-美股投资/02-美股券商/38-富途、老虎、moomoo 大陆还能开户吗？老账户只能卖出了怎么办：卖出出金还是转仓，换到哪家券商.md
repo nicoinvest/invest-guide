@@ -181,7 +181,7 @@ moomoo 是按国家分开运营的，每个国家一家公司、一张当地牌�
 - [✨ 立即开户](https://www.interactivebrokers.com/referral/tianyu263)
 - [盈透证券开户教程](<./05-盈透券商大陆用户从 0 到 1 线上保姆级开户攻略｜Interactive Brokers｜IBKR｜免除 CRS.md>)
 
-开户和交易中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+开户和交易中遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

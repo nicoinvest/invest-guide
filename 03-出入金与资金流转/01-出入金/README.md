@@ -140,7 +140,7 @@
 
 ---
 
-如果你在操作过程中遇到任何问题，可以加入[电报群](https://t.me/nicoinvestmenttrends)，在群里自行交流一下。
+如果你在操作过程中遇到任何问题，可以加入[电报群](https://t.me/nico_invest_bot?start=yt)，在群里自行交流一下。
 
 我的[投资导航网站](https://invest-nav.com)，收录过往的文字教程，提供好用的投资工具，供大家从 0 到 1 一站式学习和检索。
 

@@ -177,7 +177,7 @@ OpenClaw 确实不错，配置简单，开箱即用，几乎没有门槛，对�
 
 最近我把 Agent 接入了电报群，设置了一个机器人 Bot，可以随时回答群友的问题。比如说某个投资标的的分析、当天美股市场动态、港卡办理流程、加密货币出入金，只要是我频道涉及的内容，Agent 都能给出不错的回答，而且讲话风格和我非常相似。
 
-欢迎感兴趣的朋友进群试用，完全免费，可以直接提问：https://t.me/nicoinvestmentfriends
+欢迎感兴趣的朋友进群试用，完全免费，可以直接提问：https://t.me/nico_invest_bot?start=yt
 
 ![Claude Agent 搭建教程：我的 Agent 使用体验（配图 4）](https://pub-f5a7bf3ec58b4dbea87a9eb7feddfabe.r2.dev/tutorial-content/1773715739128_lms08d.png)
 
@@ -240,7 +240,7 @@ OpenClaw 确实不错，配置简单，开箱即用，几乎没有门槛，对�
 
 而且你现在已经订阅好了 Claude Pro 大模型，在整个搭建 Agent 的过程中，只要遇到解决不了的问题，就直接截图去问 Claude，绝大多数它都可以帮你解决。
 
-如果实在无法解决，可加入电报群提问交流：https://t.me/nicoinvestmentfriends
+如果实在无法解决，可加入电报群提问交流：https://t.me/nico_invest_bot?start=yt
 
 ## 三、安装 VS Code
 
@@ -663,7 +663,7 @@ Agent 也同理，它拥有几乎无限的知识储备，但如果你希望它�
 
 最后，如果你在搭建 Agent 的过程中遇到任何问题，欢迎在教程下方评论区交流讨论。
 
-也可以加入电报群交流讨论：https://t.me/nicoinvestmentfriends
+也可以加入电报群交流讨论：https://t.me/nico_invest_bot?start=yt
 
 后续我也会将大家交流反馈过程中遇到的常见问题，汇总到这篇教程下方，供大家参考。
 

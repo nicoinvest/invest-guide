@@ -18,7 +18,7 @@
 
 - [X](https://x.com/tychozzz)：第一时间的投资见解与心得分享
 - [YouTube](https://www.youtube.com/@NicoGrowthz)：长视频分享美股加密投资实操、开户、出入金
-- [Telegram](https://t.me/nicoinvestmentfriends)：免费交流群
+- [Telegram](https://t.me/nico_invest_bot?start=yt)：免费交流群
 - [投资导航](https://invest-nav.com/)：美股、加密货币、跨境出海一站式导航
 
 [返回指南首页](https://github.com/nicoinvest/invest-guide/blob/main/README.md)

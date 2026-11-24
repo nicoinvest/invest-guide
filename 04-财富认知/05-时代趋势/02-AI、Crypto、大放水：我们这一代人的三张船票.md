@@ -146,7 +146,7 @@ Beta 是衡量投资组合相对于大盘波动程度的指标。Beta 等于 1�
 
 ---
 
-遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

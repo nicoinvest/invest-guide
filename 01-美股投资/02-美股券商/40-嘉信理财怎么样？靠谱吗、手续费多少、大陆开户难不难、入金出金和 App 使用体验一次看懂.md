@@ -152,7 +152,7 @@ SIPC 是美国证券投资者保护公司，如果券商倒闭，每位客户最
 
 ---
 
-开户和使用嘉信的过程中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+开户和使用嘉信的过程中遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

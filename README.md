@@ -237,7 +237,7 @@ invest-guide/
 
 持续分享长期投资观念、投资策略、投资心得、跨境投资攻略。
 
-长期关注 [X](https://x.com/tychozzz)、[YouTube](https://www.youtube.com/@NicoGrowthz)、[Telegram](https://t.me/nicoinvestmentfriends)，一起实现财富自由。
+长期关注 [X](https://x.com/tychozzz)、[YouTube](https://www.youtube.com/@NicoGrowthz)、[Telegram](https://t.me/nico_invest_bot?start=yt)，一起实现财富自由。
 
 ## English
 

@@ -186,7 +186,7 @@ IBIT 是贝莱德发行的比特币现货 ETF，2024 年 1 月上市，现在是
 
 ---
 
-投资美股过程中遇到任何问题，可以加入电报群交流：https://t.me/nicoinvestmentfriends
+投资美股过程中遇到任何问题，可以加入电报群交流：https://t.me/nico_invest_bot?start=yt
 
 ---
 

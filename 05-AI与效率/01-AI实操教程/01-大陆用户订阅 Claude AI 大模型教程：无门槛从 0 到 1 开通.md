@@ -247,7 +247,7 @@ Full Name 是你卡号上的姓名。
 
 当然，在你有了这张 Bybit 虚拟卡之后，你除了可以订阅 AI 大模型之外，还可以绑定国内的微信/支付宝，在国内消费，也可以海淘购物、买国外的东西、订阅 Yotuube/X 会员，都没有任何问题。
 
-如果你在开通 Bybit 虚拟卡、订阅 Claude 的过程中遇到任何问题，可以加入电报群，在对应群组中交流一下：https://t.me/nicoinvestmentfriends
+如果你在开通 Bybit 虚拟卡、订阅 Claude 的过程中遇到任何问题，可以加入电报群，在对应群组中交流一下：https://t.me/nico_invest_bot?start=yt
 
 - 我的 Youtube 频道：https://www.youtube.com/@NicoGrowthz
 
